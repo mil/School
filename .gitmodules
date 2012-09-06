@@ -1,0 +1,3 @@
+[submodule "college"]
+	path = college
+	url = git://github.com/mil/markdown-tree.git
