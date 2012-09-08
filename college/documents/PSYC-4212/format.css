@@ -3,15 +3,12 @@
   font-family: Times New Roman;
 }
 
-#header { 
-}
-
 .source {
   /* APA Formatted
    * Handing Indent */
   margin-top: 2em;
-  text-indent: -22px ;
-  padding-left: 22px;= 
+  text-indent: -22px;
+  padding-left: 22px;
 }
 
 .response {
