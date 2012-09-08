@@ -3,9 +3,7 @@
   font-family: Times New Roman;
 }
 
-#header {
-  color: red;
-
+#header { 
 }
 
 .source {
@@ -13,8 +11,7 @@
    * Handing Indent */
   margin-top: 2em;
   text-indent: -22px ;
-  padding-left: 22px;=
-  
+  padding-left: 22px;= 
 }
 
 .response {

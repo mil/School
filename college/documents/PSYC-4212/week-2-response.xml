@@ -1,16 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-  <head>
-
-  </head>
-
   <body>
-    Miles Sandlar<br/>
-    September 6th, 2012<br/>
-    Patrick T. Coyle<br/>
-    PSYC-4212<br/>
-
     <div id="header">
+      Miles Sandlar<br/>
+      September 6th, 2012<br/>
+      Patrick T. Coyle<br/>
+      PSYC-4212<br/>
     </div>
 
     <div class="source">
@@ -18,15 +13,12 @@
       faces. <i>Brain and Cognition</i>, 2, 404-419.
     </div>
 
-
     <div class="response">
       <p>This study demonstrated the high effectiveness of using a free-vision task to study functional cerebral asymmetry for processing facial characteristics. Prior studies had shown a left visual field bias to correctly identify a chimera half-face. However, these prior studies used comparatively more sophisticated methodologies in testing subjects for asymmetrical bias. The free-vision method, used in this study, involved simply presenting the subject with two chimera faces side-by-side and giving the subject an unlimited amount of time to identify which face looks happier. The chimera faces used were adapted from a prior study from Heller and Levy (1981) by cutting down the midsagittal- axis to form 4 pairs of chimeras for each poser (combining smiling and neutral halves).</p>
 
       <p>Although simple in method, free-vision yielded similar and fruitful results in assessing cerebral asymmetry for processing facial characteristics. The results for the free-vision method showed that dextrals exhibited a highly significant leftward bias. In addition, sinitrals exhibited a leftward bias as well, however to a lesser extent. In using free-vision, it came into question whether the placement or position of the two chimeras presented in each trial had a significant effect.</p>
 
       <p>However after testing the various positions, it was shown that the placement (top/bottom, location of the smile-left chimera, whether the smile was produced on the left/right half of the poser’s face, and the posers handedness) all had non-significant effects.  The only potential fault of the study I could identify is that the handedness of those not in the core group was determined by self-assessment. Other than that, the results of this study show true value in the free-vision method in assessing cerebral asymmetry for face characteristics. The free-vision method is both cost-effective and simplistic in execution.</p>
-
     </div>
   </body>
-
 </html>
