@@ -6,6 +6,11 @@ Nozik
   * p
   * S bel p
   * if ~p -> ~(S believes p)
+- S knows that p when
+  * p is true
+  * S belives that p
+  * If p were true, S would believe that p
+  * If p weren't true, S wouldn't believe that p
 - Gettier Problem 
   * 1) Mr.N owns a Ford
   * C) Someone owns a Ford

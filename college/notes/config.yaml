@@ -1,5 +1,5 @@
 #Site Title, passed to the template when rendering
-site-title: Markdown Tree Example Site 
+site-title: Miles' Notes
 
 #Template folder, relative to root directory of markdown-tree
 template-folder: template
