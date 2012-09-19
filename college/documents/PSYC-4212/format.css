@@ -3,6 +3,10 @@
   font-family: Times New Roman;
 }
 
+body {
+  line-height: 2em;
+}
+
 .source {
   /* APA Formatted
    * Handing Indent */
