@@ -3,33 +3,49 @@
   <head>
     <title>PHIL-2125: Short Essay</title>
     <meta name="author" content="Miles Sandlar"/>
-    <meta name="date"   content="2012-09-19"/>
+    <meta name="date"   content="2012-09-20"/>
   </head>
   <body>
-
     <div id="header">
       Miles Sandlar<br/>
       September 20th, 2012<br/>
       Lydia Patton<br/>
       PHIL-2125<br/>
     </div>
-
+    <div id="title">The Montaigne Animal X, Ability Y, Z Sense Problem</div>
     <div class="response">
-      <p>Given that knowledge enters and is resolved through the senses, Montaigne argues that the senses are inadequate for true knowledge. One argument Montaigne employs to support his claim is that senses are unique in that they can only be understood first-hand and further that human senses are not necessarily all of the natural senses in existence.</p>
+
+      <p>
+        In <i>Apology for Raymond Sebond</i>, Michael de Montaigne constructs an argument for epistemological skepticism rooted in the idea that the senses' are inadequate to produce a full account of knowledge. One of Montaigne's contributing arguments for his skepticism and his notion that the senses are the inadequate is lead by the conjunction of the following two clauses: 1) we can't be sure that man posses all of the natural senses and 2) if we are missing a sense, we cannot have an account of knowledge for that sense that we are missing. Following, I will reject Montaigne's argument attacking the notion that we can't be sure that man posses all of the natural senses by illustrating Montaigne's poor reasoning in constructing his supporting argument (there are animals which may posses senses humans do not), in which he makes a hasty inference going from the claim that "animal X has the ability to Y" to quickly concluding "animal X's ability Y is due to Z sense". (Montaigne, 5-6)
+      </p>
+
+      Montaigne argument, which can be found on pages 5-7, is constructed as follows:
+      <ol>
+        <li>The senses are the source of all of our knowledge.</li>
+        <li>Each sense provides an unlimited amount of knowledge unique to that sense.</li>
+        <li>There are animals which may posses senses humans do not.</li>
+        <li><i>Given 1-2:</i> If we are missing a sense, we cannot have an account of knowledge for that sense that we are missing. </li>
+        <li><i>Given 3:</i> We can't be sure that man possess all of the natural senses. </li>
+        <li><i>Given 4-5:</i> We are missing knowledge from senses that humans lack, thus we cannot have a full account of knowledge.</li>
+      </ol>
+
+      <p>
+        The first part of Montaigne's argument lies in the idea that each sense provides an unlimited amount of knowledge unique and exclusive to that sense. Montaigne provides an example of a blind man incapable of understanding the sense of vision by his own sensory faculties. A blind man cannot understand vision, but rather can only interpret (through his own senses) vision as expressed to him by others. Suppose a blind man picks up a tennis racket, throws a ball up in the air, and hits that ball with his racket. Now suppose, a non-blind man picks up a tennis racket, throws a ball up in the air, hits the ball with his racket, and then goes on to watch the ball fly through the air. Well, how could the non-blind man describe the ball flying through the air to the blind man? He couldn't and that is exactly the point. The senses are unique and for any sense to be fully understood, it must be experienced first-hand. Thus, given that the senses are the source of all of our knowledge, if we are missing a sense then we cannot have an account of knowledge for that sense that we are missing. Now the task for Montaigne is to fulfill that antecedent (to show that man is missing a sense). If this were the case and the antecedent were fulfilled, then we man would be missing a critical bundle of knowledge from that missing sense. So Montaigne, goes about fulfilling this condition by showing how we in fact could be lacking many senses because animals may possess senses humans do not have. Cocks may have an internal clock sense letting them know when morning arrives prompting them to crow. Rats may have a sense leading them to the best cheese prior to them tasting it. And deer may have a sense leading them to a particular herb able to cure them. These examples go on and on and Montaigne points out numerous instances of ways in which animals could have senses that humans could only dream of. Since it is possible that animals may have senses humans do not have, the conditional is fufilled (we are missing a sense) and thus: we cannot have an account of knowledge for the sense that we are missing. From that we can conclude that since we are missing that bundle of knowledge from that missing sense, we cannot have a full account of knowledge. (Montaigne, 5-7)
+      </p>
+
+      <p>
+        Montaigne's argument is unsound because he makes quite a hasty inference in the claim that animals may have senses humans do not posses. Montaigne's animal examples take the general form of: animal X has the ability to Y, thus animal X has Z extra sense. The question I pose however is: why is animal X's ability Y best and only explained by the Z extra sense?  Just because a cock crows at a specific time each day does not mean that said cock has a unique "sense" alerting it of the time and instructing it to crow. Or, just because a deer can seemingly easily find an herb that cures, does not mean that the deer has some sort of special herb finding sense. Is it not possible that the deer knows of appearance and distinct smell of that herb and thus can easily find it? Is it not possible that the cock is just biologically wired to crow at a certain time of day? There can be an infinite number of ways animal X's Y ability is explained not by additional "senses", but rather in terms of senses shared by humans and the animals. Employing Montaigne's animal XYZ logic, I could claim that I too have additional mysterious senses (and thus sources of knowledge). I'm a gambler and I play poker a lot. From time to time, in my gambling when I go in on a pot I get this feeling that if I raise the pot then my opponent will fold and I will win. Most of the times when I'm in this situation - I raise, my opponent folds, and I win the pot. Do I possesses some sort of awesome and mysterious bluffing sense? I think not. I am not up to date on the cognitive and psychological process to describe these additional "senses" as Montaigne calls them. However, when Montaigne implies that they are in fact <i>additional</i> senses I tend to disagree. The Z sense a particular animals may have, that humans do not, can be explained just as easily by senses possessed by both humans and animals. Animal X having Y ability does not automatically grant that animal X has an additional Z sense.
+      </p>
+
+      Word Count: 1056
 
 
-
-      <p>Montaigne provides an example of a blind man incapable of understanding the sense of vision. A blind man cannot understand vision but can only interpret, through his own senses, notions of vision others express to him. Suppose a blind picks up a tennis racket, throws a ball up in the air, and hits that ball with his racket. Now suppose, a non-blind person picks up a tennis racket, throws a ball up in the air, hits the ball, and then goes on to watch the ball fly through the air. Well how could the non-blind person describe the ball flying through the air to the blind person? He couldn't and that is exactly the point. Senses are unique and to be fully understood must be experienced first-hand.</p>
-
-
-
-      <p>Similar to the blind-non-blind disconnect, humans could be at a disconnect in terms of senses with other inhabitants of existence. Cocks may have an internal clock sense letting them know when morning arrives. Just as the blind man is incapable of understanding vision, humans could be incapable of understanding the cock's clock sense. Montaigne provides numerous examples for ways in which human senses are likely not the only senses in existence.</p>
-
-
-
-      <p>Given that each sense produces unlimited amounts of knowledge unique to that sense and provided that humans do not posses all the senses in existence, our senses cannot fully provide true knowledge. Thus, the scope of knowledge is limited to what our human senses can experience.</p>
-    
+      <div id="works-cited">
+        <div class="title">Works Cited</div>
+        <div class="citation">
+          Montaigne, Michel. "Apology for Raymond Sebond." Reprint. in <i>Modern Philosophy.</i> 2nd ed. Indianapolis: Hackett, 2011. 4-15. Print.
+        </div>
+      </div>
     </div>
-
   </body>
 </html>

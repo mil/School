@@ -1,23 +1,32 @@
+/* Page Layout for MLA */
 @page { 
   margin: 72pt 72pt 72pt 72pt;
   font-family: Times New Roman;
+
+  @top {
+    text-align: right;
+    content: counter(page);
+  }
 }
 
-body {
-  line-height: 2em;
+/* Double Spaced */
+body { line-height: 2em; }
+#header { display: none; } /* Apparently we're not supposed to put our name on it */
+div#title { text-align: center; }
+p { text-indent: 0.5in; }
+
+
+/* MLA Style Works-Cited */
+#works-cited {
+  page-break-before: always;
 }
 
-.source {
-  /* APA Formatted
-   * Handing Indent */
-  margin-top: 2em;
-  text-indent: -22px;
-  padding-left: 22px;
+#works-cited .title {
+  text-align: center;
+  padding-bottom: 1em;
 }
 
-.response {
-}
-
-.response p {
-  padding-left: 22px;
+#works-cited .citation {
+  padding-left: 0.5in;
+  text-indent: -0.5in;
 }
