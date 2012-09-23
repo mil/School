@@ -41,14 +41,17 @@ Feldman and Conee - Evidentialism
         - No Voluntary Control
             * You don't choose what to believe
             * paranoid person: evidentialism 
-
-
+        - Evidentialism imposes dmenads that go beyond *doxastic possibility*
+            * Either for reason of doaxastic involuntarism or cognitive limitations
+            * Evidentialist Standards =>  ought/not/believe -> can/not believe
         - Cognitive Limitation
             * Infinitly many beliefs, justified in beliving all those propositions
             * R: If its raining today, M: the sky is green
                 - Disjunct:  RvM, ~R :. M
             * Response: we have high standards for how we ought to conduct ourselves epistemically
-    * You ought to blieve p iff belief p fits your evidence
+                - Ought to can only implies to moral domain
+    * You ought to believe p iff belief p fits your evidence
+        - Evidentialism implies a wrong account of our doxastic obligations
         - Alternative: You ought to blieve all and only truths
         - CJ: S's belief that p is justified iff S considers p and believing that p woudl result from S trying to believe that p iff pjj
             * What is **trying to** believe?
@@ -57,5 +60,27 @@ Feldman and Conee - Evidentialism
             * Justification -> Obligation
             * ~Obligation.... ~Justification
     * Not Justified BUT Belief fits the Evidence
+        - You ought to responsibly pursue/collect evidence
         - Physicist headstrong who ignores all advice....
-        - He has evidence but has not collected all evidence
+            * He has evidence but has not collected all evidence
+    * Beliveing that p is morally wrong BUT it fits your evidence
+        - I see evidence that secrartary of state is a common spy
+        - If I release this info/knowledge, morally bad consequences ensue
+        - Wife has evidence that husband is cheating, but itd be better if the wife ought not believe this 
+- Evidentialism + Well Foundedness
+    * WF: S's belief that p is wellfounded iff:
+        1. S's belief is justified
+        2. Sbelieve p on te basis of some evidence e,, and has no more inclusive body of evidence on which p is not justified
+
+Clairvoyant
+===========
+- Person can come to know thing magically
+    * Has reliable beliefs
+    * Ex. Know location of president
+    * Two Kinds of Cases
+        - Vision
+        - No "Vision"
+    * A Sixth Sense
+        - They are exactly as justified with clarvoyant beliefs as we are with our senses
+    * Past experience of reliability/verdicality
+
