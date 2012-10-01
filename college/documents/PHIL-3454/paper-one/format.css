@@ -11,7 +11,6 @@
 
 /* Double Spaced */
 body { line-height: 2em; }
-#header { display: none; } /* Apparently we're not supposed to put our name on it */
 div#title { text-align: center; }
 p { text-indent: 0.5in; }
 
