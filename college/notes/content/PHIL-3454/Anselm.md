@@ -30,6 +30,16 @@ Anslem's Version
             * "Greatest Conceivable Island"
     * Reply:
         - GCB = has all perfections, so it's the only case where you can deduce existence crom the idea
-    * Counter
+    * Counter:
         - You can still imagine a perfect island with the perfection of existence.
         - But that doesn't mean it exists
+- **Kant's Objection**
+    * Argument:
+        - Existence is not a Predicate [Reply: *ad hoc?*]
+        - When Anslem describes the GCB, it is implied that the GCB exists
+            * You wouldn't talk about it if it didn't exist
+    * Argument 2:
+        - Definitions are "iffy":
+            * 'existicorn" = df a unicorn that exists
+            * 'existicorns exist'
+            * x is an existicorn if, and only if, x is a unicorn and x exists
