@@ -5,9 +5,15 @@
 
   @top {
     text-align: right;
-    content: counter(page);
   }
 }
+
+@page:first {
+  @top {
+    content: "Abnormal Psych.    Miles Sandlar.     ID: 9055-50624"
+  }
+}
+
 
 /* Double Spaced */
 body { line-height: 2em; }
@@ -18,7 +24,7 @@ p { text-indent: 0.5in; }
 
 /* MLA Style Works-Cited */
 #works-cited {
-  page-break-before: always;
+  page-break-inside: always;
 }
 
 #works-cited .title {
@@ -37,6 +43,7 @@ hr {
   height: 0;
 }
 .entry {
+  page-break-inside: avoid;
 }
 
 span.date {
