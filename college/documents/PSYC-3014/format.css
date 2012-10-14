@@ -1,0 +1,47 @@
+/* Page Layout for MLA */
+@page { 
+  margin: 72pt 72pt 72pt 72pt;
+  font-family: Times New Roman;
+
+  @top {
+    text-align: right;
+    content: counter(page);
+  }
+}
+
+/* Double Spaced */
+body { line-height: 2em; }
+#header { display: none; } /* Apparently we're not supposed to put our name on it */
+div#title { text-align: right; }
+p { text-indent: 0.5in; }
+
+
+/* MLA Style Works-Cited */
+#works-cited {
+  page-break-before: always;
+}
+
+#works-cited .title {
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+#works-cited .citation {
+  padding-left: 0.5in;
+  text-indent: -0.5in;
+}
+
+hr {
+  border-top: 1px solid grey;
+  background: none;
+  height: 0;
+}
+.entry {
+}
+
+span.date {
+  font-size: 20px;
+  font-family: Envy Code R;
+  margin-top: 0;
+  padding-top: 0;
+}
