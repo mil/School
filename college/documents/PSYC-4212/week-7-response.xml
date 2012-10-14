@@ -1,26 +1,29 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
-    <title>PSYC-4214 : Synopsis Reading Response 6</title>
+    <title>PSYC-4214 : Synopsis Reading Response 7</title>
     <meta name="author" content="Miles Sandlar"/>
-    <meta name="date"   content="2012-10-3"/>
+    <meta name="date"   content="2012-10-10"/>
   </head>
   <body>
 
     <div id="header">
       Miles Sandlar<br/>
-      October 4th, 2012<br/>
+      October 11th, 2012<br/>
       Patrick T. Coyle<br/>
       PSYC-4212<br/>
     </div>
 
     <div class="source">
-      Packiam, T., Gathercole, S., Holmes, J., Place, M., Elliott, J., &amp; Hilton, K.  (2009). The Diagnostic Utility of Behavioral Checklists in Identifying Children with ADHD and Children with Working Memory Deficits. <i>Child Psychiatry Hum Dev</i>, 40, 353-366.
+      Jaswal, V., &amp; Dodson, C. (2009). Metamemory Development: Understanding the Role of Similarity in False Memories. <i>Child Development</i>, 80, 629-635.
     </div>
 
-    <div class="response"><p> 
-        This study investigated the difference in behavior in the classroom between children with ADHD and children with working memory impairments. Three rating scales were used to assess the behavioral differences: CTRS, BRIEF, and WMRS. Additionally the CPT was used to provide a more direct measure of persistent attention. The CTRS subset used, the CRS-R, contained 28 brief statements concerning students behavior in which the teacher rates the student on a scale of: not true at all, just a little true, pretty much true, and very much true.  In the BRIEF, 86 questions are asked of the teacher assessing a students behavior as: never, sometimes, or often. And the WMRS consists of 20 questions with a similar behavioral rating scale. The CPT presents the child with a series of 480 characters which appear one at a time on a computer monitor and then the child must press the space bar if and only if the letter is "k". The CPT provides a more direct way to measure attention to provide external validity against the CTRS, BRIEF, and WMRS. It was found that there was a discernible difference in behavior between children with ADHD and those with working memory impairments indicated by the tests. This difference was not highlighted by the WMRS however it was highlighted by the CTRS and the BRIEF. Additionally the CPT was unable to discern between the children with ADHD versus those children with working memory impairments. The CPT was insufficient in discerning between ADHD and WM-impaired children because the CPT seems to measure impulsivity more than all else.
-  </p></div>
+    <div class="response">
+      <p>
+        This study investigated metamemory in 5- and 6-year-olds. A batch of thirty eight 5- and 6- year-olds were individually given a paper containing 2 sets of either perceptual, semantic, or perceptual + semantic items. In the perceptual trials the items were abstract drawn shapes which looked roughly similar in shape. In the semantic trials the items were line drawn images which were semantically related but were not similar in shape. The perceptual + semantic trials had photos that were both similar in shape and category. For each trial, the child was told that a fictional John, had initially seen the 1st set of items and was asked to recall those items by circling them in the 2nd set.  5 of the 8 items in the 2nd set were circled. Of the 5 circled items in the 2nd set, 4 appeared in the 1st set and 1 was not in the 1st set. The 1 item not in the 1st set was either a similar or dissimilar lure.  The child was asked: "Do you think he circled this one because he really thought he saw it earlier, or beacuse he was just guessing?". The resulting answers of the 18 trials (6 perceptual, 6 semantic, and 6 perceptual+semantic) for each child were analyzed by using an 2 x 3 x 2 ANOVA (Age x Array Type x Lure Type). It was found that while the 5-year-olds understanding of the difference between false memories and guesses was insignificant, for 6-year-olds the contrary was true. The 6-year-olds regularly and consistently recognized and discerned between guesses and false memories in answering depending on if the lure was dissimilar or similar. This significant finding in relation to metamemory suggests that when humans misremember past events, their misremeberence is likely related to events prior experienced.
+      </p>  
+
+  </div>
 
   </body>
 </html>
