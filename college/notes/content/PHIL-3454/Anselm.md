@@ -43,3 +43,15 @@ Anslem's Version
             * 'existicorn" = df a unicorn that exists
             * 'existicorns exist'
             * x is an existicorn if, and only if, x is a unicorn and x exists
+        - (Partial Def): 'GCB' refers to x only if x exists.
+            * 'GCB exists'
+            * x is a GCB only if x exists
+            * 'x exists if x is a GCB
+            * *Open Question*: Is there any such x?
+
+Version 2 -- Plantinga
+-----------------------
+1. 'GCB' referes to something that *necessarily* exists,
+    - i.e. : exists in *every* possible world
+2. The GCB is at least *possi ble*
+    - i.e.: there is at least on epossibel world with a GCB
