@@ -31,7 +31,7 @@ Emperical Foundationalism
     * Example:
         - Belief: Will believes he's a student
         - Meta-Belief: Will believs that he believes he's a student
-- Two Theories of Consciousness
+- **Two Theories of Consciousness**
     * Higher-Order Thought
         -In order for any belief to be conscious -- it needs to be couched
             * Saying that your a studnet is not necessarily conscious
@@ -45,3 +45,14 @@ Emperical Foundationalism
 - Why are Meta-Beliefs Justified?  
     1. **Awareness of Content**
     2. **Awareness of Attitude**
+- Basic Beliefs (foundations) are possible because Meta-Beliefs are basic beliefs
+- Beliefs about (sensory expierence) (conciosious state)
+    * The sensory experience has awareness of some content 
+- Conceptual vs. NonConceptual
+    * Conceptional:
+        - Non-Propositional
+    * Non-Conceptual:
+        - Propositional
+        - Sensory Experience
+- Problem: Sensory expierence is non-propositional so it can't justify
+    * Snsory experiece are descriptions of the nonconeptula content in conceptula terms
