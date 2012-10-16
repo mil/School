@@ -18,7 +18,7 @@ THe philisophyuical question the Epicureans and the Deist are addressing is the 
 
 Boyle's Position
 ----------------
-Bottom of page 308: "THe philosphy I plead for reaches onmly to purely corpoeral things; and distinguishing between the first origin of things and the subsequent course of nature teaches that God indeed gave motion to matter, but that in the beginning he so guided the various motion of the parts of it as to contrive them into the world he design they should compose, and established those rules of motion and that order among the coporeal things which we call the laws of nature"
+Bottom of page 308: "THe philosphy I plead for reaches only to purely corpoeral things; and distinguishing between the first origin of things and the subsequent course of nature teaches that God indeed gave motion to matter, but that in the beginning he so guided the various motion of the parts of it as to contrive them into the world he design they should compose, and established those rules of motion and that order among the coporeal things which we call the laws of nature"
 This is the first step.
 Then:
 308-309: "Thus the universe being once framed | by God, and he laws of motion sttled and all upheld by his perpetual concourse and genral providence, the same philosphy teaches that the phenomena of the world are physically produced by the mechianical propties of the parts of matter, and that they operate upon on another according to mechianical laws."
