@@ -56,3 +56,26 @@ Emperical Foundationalism
         - Sensory Experience
 - Problem: Sensory expierence is non-propositional so it can't justify
     * Snsory experiece are descriptions of the nonconeptula content in conceptula terms
+
+Model that Motives Bonjour
+---------------------------
+- Belief that apples are in season
+    1. Awareness of attitude toward some content
+        - Bonjours analysis of what it is to have a conscious belief ^
+    2. Awareness of the content that apples are in season
+         - ----(justifies)--> Belief that I believe that apples are in season (Basic Belief) (Meta Belief)
+- Justification for meta-beliefs is not your observation of your own mind
+    * Justification for own mind is that you are not observering and making inferences
+    * Justifiaction is the conscious thought
+
+- Sensory experience of this room -> Awareness of a certain non-conceptual content
+    * Basic Belief -> Belief that I'm having a sensory experience of ...
+    * The way the world affects you is not conceptual
+
+- Beliefs about Sensory Experience ----(how could it justify?)---> Beliefs about the External Worl
+- Possibilities for such justification
+    1. Physical world concepts are just sensory concepts
+        * Response: Don't have phenomonelaist language
+    2. Having an experience of x makes the existence of x more probable
+    3. Bonjour's Favorite Route:
+        - Physical Objects provide the best explanations of your sensory experience
