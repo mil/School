@@ -11,13 +11,14 @@ h1 {
 	border-bottom: 1px solid #d0d0d0;
 	font-size: 25px;
 	line-height: 38px;
+  display: none;
 }
 
 h2 {
 	color: #641818;
-	border-bottom: 1px dashed #d0d0d0;
-	font-size: 23px;
-	line-height: 30px;
+	border-bottom: 1px solid #d0d0d0;
+	font-size: 22px;
+	line-height: 25px;
 }
 
 
@@ -45,11 +46,11 @@ h6 {
 
 ul {
 	border: 1px dotted gray;
-	margin: 5px;
+	margin: 5px 2px;
 	
 }
 li {
-	padding: 5px;
+	padding: 3px 2px;
 }
 
 ul li ul {
