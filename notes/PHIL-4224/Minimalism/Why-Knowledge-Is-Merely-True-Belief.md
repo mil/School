@@ -46,5 +46,38 @@ Why Knowledge is Merely True Belief -- Crispin Sartwell
         - Yield duties or permission that conduece to knowledge
         - Alston: presupposes doxastic volunatrism
             * Idea that Beliefs are under voluntary control
+    * Evaluative/Strong Position Account (Alston)
+        - Desirable to get in strong psotion to give view about:
+            1. Correct procedures for inquiry
+            2. Some account of evaluation
+        - We don't give praise/blame to epistemic mattter
+        - Some epistemic matters are simply better than others
+        - Thus Alstons J is a matter of getting in a good position
 
+- Truth Conduciveness
+    * Beliefs jutified have good reason to be true
+    * Bonjour: Epistemic justification is of instrumental value
+    * Telos of K is Merely true belief
+    * Now I will be assumed of begging the question by assuming K to be the goal of inquiry
+        - What better telos is there for epistemology
+    * Epistemic telos not true belief but is true belief based on adequete grounds/strong position.
+    * But we can't establish what said adequeate grounds/strong position is...
 
+- Lycan's Explanationism
+    * Denies that true is overall goal of inquiry
+    * Beliefs justified in virtue of expanatory role
+        - Justified by choerence with previously held beliefs
+        - Goes on to say all inference relies on I.B.E
+        - Even in MP deduction, we are not forces to accept conclusion
+            * Always can reject one of premises
+    * Lycan is similar to Bonjour
+        - Bonjour hjolds that we have spotenous noninffered belief with prima facie justificatoin
+        - DIFFERENT:
+            1. Lycan goes further toward coherence in description of explanatory cirtues
+            2. Does not require Bonjour's Metajustificatory view
+        - If J is necessary for K then we must take Lycans approach
+            * Thus, we cannot mantain the telos of K to be true belief
+        - Drawbacks of Lycan:
+            * Absorbs epistemic value into sheer utility
+                - Occam's razor, accept similar hypotheses, but not epistemically correct
+            * We must use explantory criteria in generating beliefs
