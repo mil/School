@@ -16,3 +16,9 @@ Argument From Evil
     * ReplY: Yet then God is not a personal God
         - DOes it make sense to worship him/her?
     * Reply 2: There are objective features about humans that makes them importatnly different from ants
+
+- Aspects
+    * Evil is necessary for a greater good (FW, Bad Ass, Virtue)
+    * Omnipotentece means able to do anything possible
+    * SO: This is the best world possible
+        - Plus a lil' faith
