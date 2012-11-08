@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>PHIL-4224: Paper Proposal</title>
+    <meta name="author" content="Miles Sandlar"/>
+    <meta name="date"   content="2012-09-30"/>
+  </head>
+  <body>
+    <div id="header">
+      Miles Sandlar<br/>
+      October 23rd, 2012<br/>
+      PHIL-4224<br/>
+    </div>
+    <div id="title">Paper Proposal: Is Justification Necessary for Knowledge?</div>
+    <div class="response">
+      <p>
+        Traditional epistemological analyses of knowledge assert knowledge to be justified true belief.  However, as shown by Gettier, such accounts of knowledge are insufficient. The classical Gettier case showing the insufficiency of the JTB analysis of knowledge is: Suppose Jones forms the belief <i>p</i> being the man who will get the job has 10 coins in his pocket. Jones holds <i>p</i> on the well-founded evidence that he knows: 1. Smith will get the job and 2. Smith has 10 coins in his pocket. Then, it turns out that Smith does not get the job, but rather Jones himself gets the job and has 10 coins. In this case, <i>p</i> still holds (and is a justified true belief) -- however it seems intuitively wrong to say that Jones knew that <i>p</i>. Gettier cases spawned a slew of theories tacking on an additional criteria for knowledge to the JTB to avoid such dilemma.  Another approach, to the Gettier problem is to consider knowledge to be merely true belief as presented by Crispin Sartwell in <i>Knowledge is Merely True Belief</i> and <i>Why Knowledge is Merely True Belief</i>.
+      </p>
+        
+      <p>This idea of excluding justification from the analysis of knowledge avoids the Gettier problem all together by including in the scope of knowledge all true beliefs.  My paper will support the claim that justification is not a necessary criteria for knowledge. Or, in other words I wish to show that knowledge can be adequately construed as mere true belief. So if it turns out Jones gets the job, he did actually know that <i>p</i>.  If true belief is the goal of inquiry, justification is only instrumental to inquiry.  The essential idea at play is that while justification is a sufficient criteria for knowledge it is not a necessary criteria. Knowledge is just true belief. This is not to say that justification is of no epistemological significance. Justification gives general procedures for inquiry to true belief and establishes standards for evaluating inquiry. However, justification is not intrinsic to knowledge but rather instrumental. I wish to explain Sartwell's goals in establishing a true belief analysis of knowledge and further support such analysis as superior to the JTB analysis of knowledge.
+      </p>
+    </div>
+  </body>
+</html>
