@@ -46,6 +46,15 @@ The Value of Truth and a New Value Gettier Problem
     * Based in a love of truth = Admirable
     * Constituted in part by a true belief = Desirable
 - New Gettier Probelm
+    * Desirable & Admirable is what makes K valuable
+        - Desirable:  (TB)
+            * True beliefs are good/valuable in the sense of being good for you.
+            * Ex: Find out wife is cheating on you <--- not desirable
+                - Are desirable because -- where roanokae airport is <-- desirable , helps you achieve sucess
+        - Admirable:  (J)
+            * Credit ot the agent/subject
+            * The A/S does something, earns their knowledge/praise/blame
+            * Knowledge is worked for
     * Admirable but not desirable belief
         - Leaves on the tree
     * Lucky is admirable but not desirable
@@ -56,3 +65,35 @@ The Value of Truth and a New Value Gettier Problem
     * ~A & ~D = Least Valuable
 - But What if A&D is accidental, well formed belief on important topic
     * But well formed belief on desirable topic formation is accidental
+
+- Explaning the value of knolwedge as flowing from the credit the agent gets for the true belief
+    * Zagzebski: that their TB is due to their love of the Truth
+    * Agent -> Actor
+    * Subject -> Belief
+        - Best way to understand belief is that whatever values you accrue or create in forming belief -- can be passed on to the belief
+        - When a belief is formed out of a love of truth, there is room for value of love of belief to be passed onto the belief itself
+        - This is why knowledge is more valuable than true belief
+
+- New Gettier Problem
+    * If you have a Desirable Admirable Knowledge -- they may only be connected by chance
+        - Non-Accidential connection of D&A type knowledge will be more valuable
+        - How do we explain how V(K) in regards to D(B) + A(B) and D&B's association
+    * ~D & ~A -- could be just a true belief -- ex prejudices, no good reason, etc.
+    * Gettier case is Desirable and Admirable
+    * Lesson of the New Gettier Problem:
+        - Valuf of K is not jus tthe sum of the value of a belief in so far as it's good for you and the value of a belief, in so far as it's admirably held
+        - Speicfy time the dinosaurs killed by meteor --- no practical time to scientists
+            * Admirable
+            * Desirable? <-- free up time
+- Why D<->A > D A
+    * Value of K flows, in part from its motive (love of truth)
+    * Value of the motive of the love of truth from what  motivates it.
+        - Pracitcal Ends
+        - Living a moral life
+    * Love of truth motivated by desire for certain practical ends
+        - or mmaybe a corn to behave morally
+        - This can be all motivated by -- desired by the good life -- eudamonia, etc....
+            * At some leve eudamonia speicifies whtat beliefs are desirable
+                - time dinosaurs killed not desirable beliefs
+        - Collpases epistemiollgy into value theory / moral philosophy
+            * Study of good life - eudamonia
