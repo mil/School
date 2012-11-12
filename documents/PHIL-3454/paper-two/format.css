@@ -12,7 +12,10 @@
 /* Double Spaced */
 body { line-height: 2em; }
 div#title { text-align: center; }
-p { text-indent: 0.5in; }
+p { 
+  margin: 0;
+  text-indent: 0.5in; 
+}
 
 li {
   line-height: 1.5em;
