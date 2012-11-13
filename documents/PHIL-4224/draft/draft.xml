@@ -12,8 +12,45 @@
       Matthew Presilac<br/>
       PHIL-4224<br/>
     </div>
-    <div id="title">Epistemeological Minimalism</div>
+    <div id="title">In Defence of Sartwell's Epistemeological Minimalism</div>
     <div class="response">
+      <p>
+        Traditional epistemological analyses of knowledge assert knowledge to be justified true belief.  However, as shown by Gettier, such accounts of knowledge are insufficient. The classical Gettier case showing the insufficiency of the JTB analysis of knowledge is: Suppose Jones forms the belief <i>p</i> that: the man who will get the job has 10 coins in his pocket. Jones holds <i>p</i> on the well-founded evidence that he knows: 1. Smith will get the job and 2. Smith has 10 coins in his pocket. Then, it turns out that Smith does not get the job, but rather Jones himself gets the job and has 10 coins. In this case, <i>p</i> still holds (and is a justified true belief) -- however it seems intuitively wrong to say that Jones knew that <i>p</i>. Gettier cases spawned a slew of theories tacking on an additional criteria for knowledge to the JTB to avoid such dilemma.  Another approach, to the Gettier problem is to consider knowledge to be merely true belief as presented by Crispin Sartwell in <i>Knowledge is Merely True Belief</i> and <i>Why Knowledge is Merely True Belief</i>. This a minimimal analysis, considering merely true belief to consitutde knowledge, avoids the Gettier problem all together.  My paper will support the claim that justification is not a necessary criteria for knowledge. Or, in other words I wish to show that knowledge can be adequately construed as merely true belief. So if it turns out Jones gets the job, then he did actually know that <i>p</i>. Proceeding, I will firstly analyze the motivation and design of Sartwell's minimal analysis of knowledge, secondly, refute criticisms directed at Sartwell's minimalist analysis of knowledge, and finally offer additional counter-argumentation which may arise in defense of Sartwell's minimal analysis of knowledge.
+      </p>
+
+      <p>
+        The purpose of Sartwell's first article, <i>Knowledge is Merely True Belief</i> is to offer an initial consturction of knowledge as mere true belief and justification being instrumental to knowledge. Sartwell does not offer "proof" that knowledge is merely true belief but rather offers a persuasive construction of knowledge such that this is the case.  Firstly, Sartwell provides counter-examples that will likely be argued from those denying that knowledge is mere true belief. He then uses these examples to show that when his opponents question the validity of <i>TB</i>, that intutitive counter-examples will not suffice as being even instances of belief. Defining what constitues belief is an essential component of dismissing potential counter-examples to TB. Sartwell defines belief according to R. B. Braithwaite's <i>The Nature of Believing</i>. In Braithwaite's account, for a subject S to hold the belief that p, the following two criteria must be met: 
+      </p>
+      <ol>
+        <li>S entertains p</li>
+        <li>S has a disposition to act as if p were true</li>
+      </ol>
+      <p>
+        Sartwell provides 4 counter-examples which could be provided by somebody denying TB but fail to satify these criteria of believe. Mainly the point Sartwell wishes to make with his counter-examples is that (2) is very commonplace to occur and appear prima facie as belief in the absence of (1). Proceeding, I will reconstruct two of Sartwell's counter-examples to TB and show how while they may suffice for (2) they will not suffice for (1). The first example I will provide is that of a gambler. A gambler closes his eyes, puts his finger on a horse on a racing form, and then conseqeuntly bets the baby on that horse. Surely in this case, the gambler may have a dispotion to assent that the horse will win the race and thus fufill requirement (2) for belief. However, how could the gambler be said to truly entertain the belief p: that the horse would win? Perhaps if the gambler had some sort of complex and rigorous statical system then he could truly entertain that p, however if as described the gambler simply closes his eyes and picks the horse at random we cannot say that the gambler enterained that p. A second example is that of a man who's brain is operated on by a mad scientist and awakes asserting that "Goldbach's conjecture is true". No evidence  but mere disposition to assent stands in this case and it would seem that for the man to hold the belief that "Goldbach's conjecture is true" would be unjustified. This highlights an intergal component of Sartwell's view of belief: no belief can stand in isolation. Sartwell holds that "I cannot have the belief that Goldbach's conjecture is true and fail to have any related beliefs" (158). From this Sartwell goes on to comment that in order to have a belief (1) is critical. As Sartwell puts it "If the claim is withdrawn as soon as it it brought into question... we may rightly say it was not believed". Each belief for Sartwell must fit within a system of beliefs otherwise it is not correct to say that the belief was actually held. As such if a man trapped in a cave claims that: "it is raining out" and when asked how he knows, he fails to provide any grounding or foundations for the belief then we cannot reliabilbly say that the man initllay did hold the belief in the first place.
+      </p>
+
+      <p>
+        Sartwell proceeds by bringing knowledge into question from a linguist level. Sartwell asserts that when somebody asks the question of "How do you know?" that this is a request for justification. In most cases a justification can be provided in face of the question "how do you know?", however there is a point at which no more justification can be given in that "the demand for justification will eventually be rejected with regard to some proposition embedded in the justificaiton of the original claim". Sartwell uses the example of a child questioning the claim that "elephants have trunks". To this extent the child's parent could justify the claim by telling the child that he has seen pictures of elephants with trunks or have even seen actual elephants with trunks. However, the justification request can always be asked and at some point "the demand for justification will eventually be rejected with regard to some proposition embedded in the justificatoin of the original claim". The point Sartwell wishes to make is that regardless of an epistemological analysis of knowledge, from a linguistic persepective knowledge is best construed as merely true belief. In light of linguist analysis of knowledge Sartwell provides several counter-examples to typical analysis of knowledge as being justified true belief.
+      </p>
+
+      <p>
+        Although in <i>Knowledge is Merely True Belief</i> Sartwell offers a positive account of the rationale behind accepting knowledge to be mere true beleif he does not offer any a concrete proof. Accordingly, I would now like to turn to Sartwell's <i>Why Knowledge is Merely True Belief</i> in which he does offer a proof construing knowledge to be merely true belief. Following is my reconstructio of Sartwell's argument that knowledge is true belief:
+      </p>
+      <ol>
+        <li>Knowledge is the goal (or telos) of inquiry</li>
+        <li>A belief is justified if it is produced by a correct proceudure for inquiry</li>
+        <li>
+        
+
+      </ol>
+
+      <p>
+        If true belief is the goal of inquiry, justification is only instrumental to inquiry.  The essential idea at play is that while justification is a sufficient criteria for knowledge it is not a necessary criteria. Knowledge is just true belief. This is not to say that justification is of no epistemological significance. Justification gives general procedures for inquiry to true belief and establishes standards for evaluating inquiry. However, justification is not intrinsic to knowledge but rather instrumental. I wish to explain Sartwell's goals in establishing a true belief analysis of knowledge and further support such analysis as superior to the JTB analysis of knowledge.
+      </p>
+
+
+
+
       A first intuition or response to the conjecture that knowledge is merely true belief is most likely disgust. 
 
 
