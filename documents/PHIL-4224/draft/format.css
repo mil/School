@@ -21,8 +21,22 @@
 body { line-height: 2em; }
 div#title { text-align: center; }
 p { text-indent: 0.5in; }
+ol {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
 ol li {
   line-height:1.8em;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 12pt;
+  margin: 0;
+  margin-top: 1em;
+}
+p {
+  margin: 0;
 }
 
 /* MLA Style Works-Cited */
