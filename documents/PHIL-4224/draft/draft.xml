@@ -71,15 +71,31 @@
     <h3>Lycan's Criticism of TB</h3>
 
     <p>
-      In an article entitled <i>Sartwell's Minimalism Analysis of Knowledge</i>, William Lycan critisizes TB in a deduction by showing that if one hold TB that as a result some obviously false instances of knowledge can be derived. As Lycan puts it: "....uncontroversioally false". Consider Lycan's argument against TB, taken as a direct citation:
+      In an article entitled <i>Sartwell's Minimalist Analysis of Knowledge</i>, William Lycan critisizes TB in a deduction by showing that if one believes TB and further that if we assume for reductio that TB is in fact true then we can derive by way of TB that one could <i>know TB</i>. Lycan presents his proof as:
     </p>
 
     <ol>
-      <li></li>
+      <li>Sartwell believes TB. [Premise; I presume he is sincere]</li>
+      <li>TB is true. [Assumption for <i>reductio</i></li>
+      <li>If TB is true, the whoever believes truly that P, knows that P. [Trivial, given what TB says.]</li>
+      <li>If (1) and (2), then Sartwell knows TB. [From (3).]</li>
+      <li>Thus: Sartwell knows TB. [(1), (2), (4).]</li>
     </ol>
 
-    <p>As a result of this proof, Lycan holds that anyone who can come to belief a certain claim that p, in the case that p is true can be said to know that p. Lycan's primary failing here is that he mis-interpret's Sartwell's sense of belief. 
+      <p>
+        My inclination in response to Lycan is to question his assumption for reductio, (2). While I do concede that one can hold a sincere disposition to a philosophical claim, I do not think that (2) or for that matter any teleological claim could said to have propositional value. Asserting that one could ever possibly know a philosophical analaysis in terms of propositional content is absurd. And indeed Lycan himself concedes that in the case of <i>knowledge</i> that "it is unlikely that anyone <i>knows<i> any highly controversial philosophical claim to be true, and it is unlikely that Sartwell is so arrogant to believe he knows TB in particular. This highlights the critical failing of Lycan's argument against TB: Lycan's deduction is a matter of fitting the wrong kind of belief into TB and then critisizing its outputs. Additionally, I question wheter (1) would be accepted on Sartwell's analysis of belief. Although Sartwell may hold a strong disposition to assent for TB, how could Sartwell ever entertain TB as being "true" outside of his own philosophical workings?  Along the same lines in which Lycan offer his "ugly consequence from TB" equally ugly consequences could be dervied of a JTB+ system:
+          </p>
 
+          <ol>
+            <li>Lycan believes JTB+</li>
+            <li>JTB+ is true and justified. [Assumption for <i>reductio</i></li>
+            <li>If JTB+ is true and justified, then whoever believes truely that P and is justified that P, knows that P</li>
+            <li>If (1) and (2), then Sartwell knows TB. [From (3).]</li>
+            <li>Thus: Lycan knows JTB+ [From (1), (2), (4)]</li>
+          </ol>
+          <p>
+            And thus, the same commentary Lycan provides in critisim of TB applied to a theory of JTB+. This highlight Lycan's mis-application of a analysis of knowledge to a teleological philosophical claim. Does this highlight some sort of massive failing of prospects of analyses of knowledge?  I think not -- however it does bring back in to light the quintessential point Sartwell provides in precusor to his positve account for TB in <i>Why Knowledge is Mere True Beleif</i> that we should be aiming strictly for a normative teleological analysis of knowledge.
+          </p>
 
 
       <h3>III. On Gettier and the True Belief Analysis of Knowledge</h3>
