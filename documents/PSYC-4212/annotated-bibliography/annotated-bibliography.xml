@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>PSYC-4214 : Synopsis Reading Response 11</title>
+    <meta name="author" content="Miles Sandlar"/>
+    <meta name="date"   content="2012-11-4"/>
+  </head>
+  <body>
+
+    <div class="title">
+      <div class="title">How Information is Stored in Hierarchial Memory</div>
+      <div id="information">
+        Miles Sandlar<br/>
+        November 8th, 2012<br/>
+        Patrick T. Coyle<br/>
+        PSYC-4212<br/>
+      </div>
+    </div>
+
+    <div class="abstract">
+      <div class="center">Abstract</div>
+      <p>
+        A recurring concept which arises in analyzing complex cognitive tasks is that of an underlying hierarchial structure to such tasks. Hierarchies can be used to understand the ordering and semantic structure of information involved in accomplishing a tasks' end-goals. Additionally, hierarchies are often employed in cognitive tasks in order to categorize and provide meaningful relations between each component task. Unlike studies which study the effects of memory and how we may store seemingly random bits of information, when accomplishing complex tasks we seek to understand underlying structure to each bit of information. Thus, hierarchies come in handy for such tasks.
+      </p>
+    </div>
+
+    <div class="synopsis">
+      <div class="source">
+        Burns, C. &amp; Vicente, K. (2001). Model-Based Approaches for Analyzing Cognitive Work: A Comparison of Abstraciton Hierarchy, Multilevel Flow Modeling, and Decision Ladder Modeling. <i>Journal of Cognitive Ergonomics</i>, <i>5</i>, 357-366.
+      </div>
+      <p>
+
+      </p>
+    </div>
+
+      <div class="response">
+        <p>
+          This article surveys existing literatere to help understand model-based approaches to cognitive task processes. It's authors do so by considered three distinictive models utilizing in analyzing cognitive tasks: the Abstraction Hierarchy (AH), Multilevel Flow Modeling (MF), and Decision Ladder Modeling (DL). Work domain structure models (WDS) and Work Domain Goal models (WDG) are distinguished as being two types of approaches which the three models at hand can be classified in the contenxt of. WDS models describe the structure of the system being controlled. WDS models exist independent of worker, automation, task, or interface. WDS purely describes abstraction and not iimplementation. Contrarilty, WDG models describes the goals of components of a system such as the desired states. Additionally one more abstraction must be provided to understand the three models at hand. Action-means-end (AME) is to be in contrast to stuctural-means-end (SME). Where AME describes actions which conduce means to an end goal in a WDG framwork, SME simply  describes the structural relation between the means and the end goal.
+        </p>
+      </div>
+    </div>
+
+  </body>
+</html>
