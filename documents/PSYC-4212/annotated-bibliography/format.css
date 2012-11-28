@@ -2,25 +2,26 @@
   margin: 72pt 72pt 72pt 72pt;
   font-family: Times New Roman;
  /*  font-family: Tymes;*/
-  @top-left  { content: "Running Head: INFORMATION IN HIERARCHIAL MEMORY"; }
+  @top-left  { content: "Running Head: HIERARCHIES USE IN COGNITIVE TASKS"; }
   @top-right { content: counter(page); }
 }
 
 body {
   line-height: 2em;
 }
+.center { text-align: center; }
 
-.source {
+.title, .abstract, .synopsis {
+  page-break-before: always;
+}
+
+.synopsis {
   /* APA Formatted
    * Handing Indent */
   margin-top: 2em;
   text-indent: -22px;
   padding-left: 22px;
 }
-
-.response {
-}
-
-.response p {
-  padding-left: 22px;
+.synopsis > p:nth-child(2) {
+  text-indent: 0;
 }

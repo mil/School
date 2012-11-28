@@ -8,7 +8,7 @@
   <body>
 
     <div class="title">
-      <div class="title">How are hierarchies used in task-based cognitive processes</div>
+      <div class="title">How are hierarchies used in cognitive tasks</div>
       <div id="information">
         Miles Sandlar<br/>
         November 29th, 2012<br/>
@@ -17,56 +17,46 @@
       </div>
     </div>
 
+    <!-- Abstract -->
     <div class="abstract">
       <div class="center">Abstract</div>
       <p>
-        The question I wish to address is generally: how are hierarchies utilized in cognitive task-based processes? Additionally, this entails addressing specifically: what role hierachies serve in cognitive processes and additionally is the formtion of hierarchies in memory from tasks constructed bottom-up or in a top-down fashion. In answering what roles hierarchies serve in cognitive processes, a study of the literature reveals that organizing tasks into mental hierarchierces provides structure for enabling meaningful relationships between various sets of tasks and sub-tasks . As such, if your ultimate goal is to bake a cake, there are several tasks and numerous nested sub-tasks that must be achieved in order to achieve to the ultimate goal of getting the baked cake (first must make the batter, then put the batter in a tray, then in the oven, and so on in a sequential ordering of tasks). While, this top-down decomposition of cognitive tasks seems omnipresent when retrospecitvly anlyzing tasks, when addressing each specific task or sub-task, the hierarchy can be seen as being utilzed bottom-up. As such, there are multiple ways to prepare the battter, multiple trays to put the batter in, and numerous ways to make the batter rise. As such, in the analysis of congitive tasks, the top-down/bottom-up distinction is not so clear cut.  Hence, there is a interconnected bi-directional relation between the tasks of a hierarchy's end goals and the tasks themselves. Addressing this discordance between hierarchies instantiated top-down versus bottom-up in relation to memory is severly lacking in the literature. The view I wish to develop through this survey of the literature is that task hierarchies need a more complex abstraction of memory in order fully understood.
+        The question I wish to address is generally: how are hierarchies utilized in cognitive tasks? Very generally, the line of inquiry which I am concerned is: what is the role of hierarchies in cognition? This additionally entails addressing how we construct hierarchies in memory (bottom-up / top-down). In answering what role hierarchies serve in cognition, a study of the literature reveals that organizing tasks into mental hierarchierces provides structure for enabling meaningful relationships between various sets of tasks and sub-tasks . As such, if your ultimate goal is to bake a cake, there are several tasks and numerous nested sub-tasks that must be achieved in order to achieve to the ultimate goal of getting the baked cake (first must make the batter, then put the batter in a tray, then in the oven, and so on in a sequential ordering of tasks). While, this top-down decomposition of cognitive tasks seems omnipresent when retrospecitvly anlyzing tasks, when addressing each specific task or sub-task, the hierarchy can be seen as being utilzed bottom-up. As such, there are multiple ways to prepare the battter, multiple trays to put the batter in, and numerous ways to make the batter rise. As such, in the analysis of congitive tasks, the top-down/bottom-up distinction is not so clear cut.  Hence, there is a interconnected bi-directional relation between the tasks of a hierarchy's end goals and the tasks themselves. Addressing this discordance between hierarchies instantiated top-down versus bottom-up in relation to memory is severly lacking in the literature. The view I wish to develop through this survey of the literature is that task hierarchies need a more complex abstraction of memory in order fully understood.
       </p>
     </div>
 
+    <!-- (1) Structure for Following Directions Synopsis -->
     <div class="synopsis">
       <div class="source">
-        Burns, C. &amp; Vicente, K. (2001). Model-Based Approaches for Analyzing Cognitive Work: A Comparison of Abstraciton Hierarchy, Multilevel Flow Modeling, and Decision Ladder Modeling. <i>Journal of Cognitive Ergonomics</i>, <i>5</i>, 357-366.
+        Dixon, P. (1987). The Structure of Mental Plans for Following Directions. <i>Journal of Experimental Psychology</i>, <i>13</i>, 18-26.
       </div>
       <p>
-        This article surveys existing literatere to understand model-based approaches to cognitive task processes. It's authors do so by considered three distinictive models utilzied in analyzing cognitive tasks: the Abstraction Hierarchy (AH), Multilevel Flow Modeling (MF), and Decision Ladder Modeling (DL). Work domain structure models (WDS) and Work Domain Goal models (WDG) are distinguished as being two types of approaches which the three models at hand can be classified in the contenxt of. WDS models describe the structure of the system being controlled. WDS models exist independent of worker, automation, task, or interface. WDS purely describes abstraction and not iimplementation. Contrarilty, WDG models describes the goals of components of a system such as the desired states. Additionally one more abstraction must be provided to understand the three models at hand. Action-means-end (AME) is to be in contrast to stuctural-means-end (SME). Where AME describes actions which conduce means to an end goal in a WDG framwork, SME simply  describes the structural relation between the means and the end goal.
+        This study illustrates how the phrasing of written directions leads to a hierarchial representation of cognitive tasks. In this study, subjects were provided sentences in which depenent information needed to complete a cognitive task was embeded in each sentence along with the overall goal of the task. One such example of a sentence used was: "Press button A to turn light Y on". In this example, in order to understand and cognitivly process the direction "turn light Y on", the dependency embeded in the sentence of "Press button A" needed to be processed first. Thus, a hierarchy of tasks in each trial was induced in either a top-down or bottom-up fashion depending on the placement of the dependent action. In initial experimention, this study found that when the goal came before the dependent action, such as: "light Y should be on after pressing button A", execution time was both slower and less accurate than when the dependent information proceeded the goal outright. However, a subsequent experiment proved that while execution was slower and less accurate when viewed top-down, when recall instaed of execution was requested of the subjects, the top-down presentation seemed more efficient. This suggests that hierarchies of tasks are stored in memory top-down regardless or how the hierarchy of tasks is initially presented. However, the question still is, it is necessary for hierarchy to be invoked in simple tasks with a one step dependence.. as is the case with: "light Y should be on after pressing button A". In these cases, if the task is viewed in abscence of a hierarchy, normal sequential presentation yields quicker results than result sequential presentation of the task.
       </p>
       <p>
-        some additional anlysis of how this relates
+        These results positivly adress my research question by showing that when actions are translated into written language that hierarchies can be seen in the nature of cognitive task-dependence. It seems that if the tasks are simple and do not need be stored past short-term memory, then it seems hierarchies are merely a contigent component of cognitive task modeling. However, once recall of the task is invoked and working-memory in some way processes the tasks in cognitive, a hiererchial representation of the tasks is invoked. As such, in this study it was observed that recall was more efficient when presented in a top-down hierarchial fashion as the processing needed for recall was presented initially. As such, when pressenting the phrase "light Y shoul dbe on after pressing button A", less further cognition and processeing was required to store this simple hierarchy of tasks in working memory. This offers strong evidence of the presence and natural invokation of hierachial structures in storing tasks in working memory.
       </p>
     </div>
 
 
+    <!-- (2) Types of Hierarchy Implies Model -->
     <div class="synopsis">
       <div class="source">
-        Dixon, p. (1987). the structure of mental plans for following directions. <i>journal of experimental psychology</i>, <i>13</i>, 18-26.
+        Bainbridge, L. (1993). Types of hierarchy imply types of model. <i>Ergonomics</i>, <i>11</i>, 1399-1412.
       </div>
       <p>
-        This study illustrates how the phrasing of written directions creates a cognitive hierarchial representation of tasks. In this study, subjects were provided sentences in which information needed to construct a cognitive task was embeded in the sentence. One such example of a sentence used was: "press button A to turn light Y on". In this example, in order to understand and cognitivly process the direction "turn light Y on", the dependency embeded in the sentence of "press button A" needed to be first be processed. Thus, a hierarchy of tasks in each trial was induced in either a top-down or bottom-up fashion depending on the placement of the depenednet clause. This study found that when the goal proceeded the dependent action, such as: "light Y should be on after pressing button A", execution time was both slower and less accurate than when the dependent action proceeded the goal outright. This gives support that forming mental hierarchiecial models of tasks based on directions is more efficient when approached from a bottom-up or constructive persepective.
+        This survey of existing literature gives inquiry into the semantics and nature of hierachies in relation to being models. The primary purpose of this article is to show that hierarchies very abstractly are a way in which we can understand the relations between models of independent modules. Hierarchies merely provide means for linking these modules together. Take for example the task hierarchy of baking a cake. Take the module of making making the cake batter. The cake batter task module can be executed in several different ways, as such this modules breaks down into several smaller sub-modules or cognitive tasks (such as how are the ingredients mixed, at what temperature is each ingredient stored, so-on and so-forth). The author refers to this kind of module as an is-a relation (each individual cake batter prepration technique <i>is-a</i> cake batter prerepation task). However, the author goes onto note this is not the only relation present in hierarchies. There is also the parts-whole relation in which say for example certain ingredient compose a <i>parts-whole</i> relation of the cake batter itself. There are several more distinctions which the author notes however, for our purposes it will sufficie to say the relevant conclusion the author reaches encompas: 1. The relations between modules of a hierarchy are abstraction 2. The levels of the hierachy themselfs antecdotally in research are abstract. Thus from these two conclusions, the author concedes that hierarchies serve the purpose of associating cognitivly independnet structures to form higher-order congitive structures.
       </p>
       <p>
-        These results positivly adress my research question by showing that when actions are translated into written language that hierarchies can be seen in by way of the nature of task-dependence. Additionally, this study adds that bottom-up processing seems more effective then top-down processing of task hierarchies in application to simple sets of tasks. I would like to positivly note that the scope of the directions encoded to tasks in this study do not provide grounding that bottom-up cognitive processing of task hierechiaies is more efficient than bottom-down methodologies. The directions used to describe tasks in the current study were simple and not-representative of any sort of complex higher-order tasks in which hierarchies are seemingly more useful. as such, the current study could be seen as an analysis of sequential information processing just as easily as it could be seen as an analysis of hierarchial information processing.
+        This article relates to my research question in that it provides grounding and insight into the nature of hierarchial structures. Hierachial structure are relativly abstract and when applied to cognitive tasks will remain abstract. It is not possible to give an objective standard for each level of a hierarchy because that would entail assuming that each tasks were concrete. As we say with the previous article and we will see with continued articles, hierarchies can be viewed in concerete grounding, however outside of inquiring research there can be no definitions of the "necessary" component of congitive task hierarchies. However, the exception to this rule would be if there was a limited scope to the cognitive task set at hand and each component only need to relate to it. Thus, the take away from this article is that hierarchies in generalized temology helps us to relate models which seem to stand indepdent of one another into componened models.
       </p>
     </div>
 
 
+    <!-- (3) Object Recognition and Segmentation into Fragment Hierarchies-->
     <div class="synopsis">
       <div class="source">
-        Christie, J. &amp;,
-        A comparison of simple hierarchy and grid metaphors for option layouts on small-size screens
-      </div>
-      <p>
-
-      </p>
-      <p>
-        This study questions the need for hierarchies in option selection tasks all together. While for some complex tasks hierarchies are a necessary construct as they the result of top-down analysis of each sub-task this is not always the case. For simple option selection categorization within hierarchial structures provides a way to organize tasks. While performance in such examples actually suffered, subjects maintained a preference for hierarhcially ordeered item selection over simple single isolated task item selection. This addreses the oher studies by showing the cognitive need and function of hierarchies in tasks: organization. Hierarchies help provide meaningful relations between items such that each item (and resulting selection-taski in the context of this study) can be understood in context to the other items. Again, as with the last study, this study only seeked to analyze relativly simple cognitive tasks and thus we must question: would these results generalize to more complex cognitive tasks? It may be the case that at a certain level of cognitive processing that hierarchial structure in understanding the depdnence of tasks must be imposed.
-      </p>
-    </div>
-
-
-    <div class="synopsis">
-      <div class="source">
-        Objection recognition and segmentation by a fragment-based hierarchy
+        Ullman, S. (2006). Object recognition and segmentation by a fragment-based hierarchy. <i>Trends in Cognitive Sciences</i>, <i>11</i>, 58-64.
       </div>
       <p>
         This article suggests an that in the task of objection recognition, we use a hierarchial structure to identify properties or parts as conforming to a whole. For example, when we recognize a dog "object", the reason we are justified in saying that it is a dog and not some other object is that numerous components which can be organized hierarchial to conform to the properties of a dog. As such a dog, inherits properties from other animals, as such it has a face, and associated with its face it has ears of a certain type, a nose of a certain type, and so on and so forth. This article additionally suggests that the same properties we use to construct a hierarchial model of particular objects is used subsequently in a top-down fashion to delineate between objects and further used to classify objects. Thus, in the view of the author of this article, the cognitive process or task of categorization is nothing more than comparing existing known hierarchies of objects to see which hierarchial representation could most likely fit the object in question.
@@ -75,9 +65,29 @@
       </p>
     </div>
 
+    <!-- (4) Coding, Recoding, and Decoding into Longterm Memory-->
+    <div class="synopsis">
+      <div class="source">
+        Objection recognition and segmentation by a fragment-based hierarchy
+      </div>
+      <p>
+      </p>
+      <p>
+      </p>
+    </div>
 
-
-
+    <!-- (5) Comparison of Hierachy and Grid in Small Screens -->
+    <div class="synopsis">
+      <div class="source">
+        Christie, J. &amp;,
+        A comparison of simple hierarchy and grid metaphors for option layouts on small-size screens
+      </div>
+      <p>
+      </p>
+      <p>
+        This study questions the need for hierarchies in option selection tasks all together. While for some complex tasks hierarchies are a necessary construct as they the result of top-down analysis of each sub-task this is not always the case. For simple option selection categorization within hierarchial structures provides a way to organize tasks. While performance in such examples actually suffered, subjects maintained a preference for hierarhcially ordeered item selection over simple single isolated task item selection. This addreses the oher studies by showing the cognitive need and function of hierarchies in tasks: organization. Hierarchies help provide meaningful relations between items such that each item (and resulting selection-taski in the context of this study) can be understood in context to the other items. Again, as with the last study, this study only seeked to analyze relativly simple cognitive tasks and thus we must question: would these results generalize to more complex cognitive tasks? It may be the case that at a certain level of cognitive processing that hierarchial structure in understanding the depdnence of tasks must be imposed.
+      </p>
+    </div>
 
 
   </body>
