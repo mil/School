@@ -35,7 +35,7 @@ Religion and the "Meaning of Life"
 - **The Circularity Objection Generalized**
     * Let e be the ultimate explanation for what makes x valuable
     * E.g. e could be the fact that "x is willed by God", "x is endorsed by natural law", "x maximizes human well-being", etc...
-    * Another Nihilist Argument
+    * **Another Nihilist Argument**
         1. If x is valuable, then x is ultimatly valuable because of e.
         2. e makes x valuable only if e is itself valuable.
         3. If e is valuable, then e is ultimatly valuable because of e. [From (1)-(2)]
