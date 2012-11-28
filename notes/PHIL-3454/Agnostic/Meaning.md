@@ -29,9 +29,21 @@ Religion and the "Meaning of Life"
     * Against (11)
         - Freedom is enhanced by knowing truths
         - And religion purports to give us important truths about the universe
-    * More Positive Affects
+    * More Positive Affects - **Other Advantages of (Some Religions)**
         1. There is a rationale for our existence.
-        2. God will prevail.
+        2. Good will prevail.
+        3. God loves and care for us.
+        4. It is in one's own interest to be good.
+        5. Justice reigns in the universe.
+        6. All persons are of equal worth.
+        7. We can be liberated from guilt by divine forgiveness.
+        8. There is life after death.
+    * Replies:
+        - (2) may bread apathy about working to improve the world.
+        - (3) and (7)  may bread apathy about self-improvement.
+        - (4) and (5) instill fear, potentionally on a false pretense.
+        - The Humanist can have reasons for accepting (6).
+        - (8) may not be desirable.
 - **The Circularity Objection Generalized**
     * Let e be the ultimate explanation for what makes x valuable
     * E.g. e could be the fact that "x is willed by God", "x is endorsed by natural law", "x maximizes human well-being", etc...
@@ -42,3 +54,7 @@ Religion and the "Meaning of Life"
         4. Nothing can explain its own value.
         5. So, x is not valuable [From the preceding]
         6. So humanity/pleasure/my life is not valuable [From (5)]
+- **Nietzsche's Solutions**
+    * Suppose e = "x is what I will to be valuable." 
+        - Then I am the source of all value.
+
