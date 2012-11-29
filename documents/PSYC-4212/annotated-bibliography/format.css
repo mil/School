@@ -1,32 +1,42 @@
 @page { 
-  margin: 72pt 72pt 72pt 72pt;
+  margin: 85pt 88pt;
   font-family: Times New Roman;
  /*  font-family: Tymes;*/
-  @top-left  { content: "Running Head: HIERARCHIES USE IN COGNITIVE TASKS"; }
+  @top-left  { content: "Running Head: HIERARCHIES IN COGNITION AND MEMORY"; }
   @top-right { content: counter(page); }
 }
 
 body {
   line-height: 2em;
+  margin: 0;
 }
+
 .center { text-align: center; }
 
 .title, .abstract, .synopsis {
   page-break-before: always;
+  margin-top: -20pt;
 }
 
 .title {
   text-align: center;
-
+}
+.title .study-name {
+  margin-top: 140pt;
+}
+.title .information {
+  margin-top: 85pt;
 }
 
-.synopsis {
+.synopsis .source {
   /* APA Formatted
    * Handing Indent */
-  margin-top: 2em;
-  text-indent: -22px;
-  padding-left: 22px;
+  margin-top: -20pt;
+  text-indent: -36pt;
+  padding-left: 36pt;
 }
-.synopsis > p:nth-child(2) {
-  text-indent: 0;
+
+
+.synopsis p {
+  padding-left: 36pt;
 }
