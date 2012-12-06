@@ -46,10 +46,12 @@ h6 {
 
 ul {
 	margin: 5px 2px;
+  margin-bottom: 0px;
 	
 }
 li {
 	padding: 3px 2px;
+  padding-bottom: 0px;
   padding-left: 10px;
 }
 
@@ -64,6 +66,19 @@ ul li ul li {
 ul li ul li ul {
 	background: #eeeeee;
 }
+
+ol {
+  padding-top: 0;
+}
+ol li {
+  padding-bottom: 0px;
+}
+
+ol li ul li {
+  margin  : 0;
+  padding : 0;
+}
+
 
 
 
