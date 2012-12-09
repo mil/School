@@ -1,0 +1,12 @@
+1.	What is the difference between an impression and an idea, for David Hume? Explain your answer, and give at least one concrete (everyday, specific) example of an impression and an idea. 
+
+Hume makes a clear distinction between impressions and ideas. For Hume, an impression is the immediate sensation of the event or experience. For example, if you were to put your hand in a fire, you would feels the burning sensation at that moment. Impressions are instantaneous and the mind has no control over impressions. You cannot prevent yourself from feeling your hand being incredibly hot while it is burning in the fire. Impressions are quite vivid, intense, and take effect instantaneously. Any sort of sensory experience that a human could experience including: touch, smell, taste, sound, and so on and so forth could readily be called an impression at its time of affect.
+
+Ideas, in comparison, are quite different. Ideas are the mere reflections on prior impressions. What this means is any time you reflect, think back, or remember a prior impression, this is an idea. For example, after you put your hand in the fire, you can later reflect on that event. You can think back to how hot your hand felt and how intense the pain may have been. This reflection is the idea. However, regardless of how much your idea may epitomize the impression, the idea itself can never meet the magnitude of the impression itself. You can't put yourself in a flashback state where you feel an idea that puts forth the same vivacity of an impression itself.
+
+However, unlike impressions, ideas may be combined to form new "creative" ideas. For example, unicorns may not exist in our world and we may be unable to ever receive a direct impression of a unicorn as it walks by us. However, we could combine ideas we have of horses and spiraling horns to create the idea of a unicorn in our mind. Thus, through the combination of ideas (originated from impressions), we can fabricate many new ideas completely unlike direct ideas formed originally from impressions.
+
+2.	Hume expresses doubts about the necessity and universality of causal relationships in the passages we read from the Enquiry. Does he think that we do have a justification, that is, some reason for, our causal beliefs? What is that justification? 
+
+3.	Does Hume think it is possible that causal relationships are real, or not? Why - you need to explain your answer. 
+
