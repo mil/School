@@ -1,0 +1,55 @@
+/* Page Layout for MLA */
+@page { 
+  margin: 72pt 72pt 72pt 72pt;
+  font-family: Times New Roman;
+
+  @top {
+    text-align: right;
+    content: "Sandlar " counter(page);
+  }
+}
+
+
+.break {
+  page-break-before: always;
+  page-break-inside: avoid;
+}
+
+
+
+/* Double Spaced */
+body { line-height: 2em; }
+div#title { text-align: center; }
+p { text-indent: 0.5in; }
+ol {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+ol li {
+  line-height:1.8em;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 12pt;
+  margin: 0;
+  margin-top: 1em;
+}
+p {
+  margin: 0;
+}
+
+/* MLA Style Works-Cited */
+#works-cited {
+  page-break-before: always;
+}
+
+#works-cited .title {
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+#works-cited .citation {
+  padding-left: 0.5in;
+  text-indent: -0.5in;
+}

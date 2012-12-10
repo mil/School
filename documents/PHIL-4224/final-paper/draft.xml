@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>PHIL-4224: Final Paper Draft</title>
+    <meta name="author" content="Miles Sandlar"/>
+    <meta name="date"   content="2012-11-7"/>
+  </head>
+  <body>
+    <div id="header">
+      Miles Sandlar<br/>
+      November 16th, 2012<br/>
+      Matthew Presilac<br/>
+      PHIL-4224<br/>
+    </div>
+    <div id="title">In Defense of Sartwell's True Belief Analysis of Knowledge</div>
+    <div class="response">
+      <p>
+        Gettier cases have spawned a whole slew of theories tacking on an additional criteria for knowledge to the justified true belief analysis of knowledge (JTB). As such, in epistemology the view that is often endorsed as the solution to the Gettier problem is that knowledge is at least justified true belief (<i>JTB+</i>). Another approach to the Gettier problem is to consider knowledge to be merely true belief (TB) as presented by Crispin Sartwell in <i>Knowledge is Merely True Belief</i> and <i>Why Knowledge is Merely True Belief</i>. TB is not an anecdote for epistemological anarchy but rather simply suggests a re-evaluation of the analysis of knowledge such that justification should be considered as merely instrumental to knowledge. TB avoids the Gettier problem all together by actually including Gettier cases as cases of knowledge. Proceeding, in (I-III) I will analyze the motivation for Sartwell's TB, in (IV) I will present my reconstruction of Sartwell's argument in favor of TB, in (V-VII) I will refute criticisms directed at TB, and concluding with (VIII-IX) I will offer additional explanation of why counter-argumentation to TB is bound to be easily refuted by emphasizing the key methodology Sartwell takes in the development of TB.
+      </p>
+
+      <h2>I. The Scope of an Analysis of Knowledge: Teleological and Normative</h2>
+      <p>
+        In the face of Gettier, the intuition for the epistemologist is to morph JTB into JTB+ rather than skin JTB into TB.  Sartwell pushes for the latter over the former by emphasizing that we need an account of knowledge that teleological and normative. Although only stressed in Sartwell's second article, <i>Why Knowledge is Merely True Belief</i>, considering the distinctions between both: telelogical versus deontological and normative versus descriptive epistemological projects is critical to understanding the scope of TB. It is only through Sartwell appealing to provide in scope a strictly a teleological and normative analysis of knowledge that TB should be considered a functional argument.
+      </p>
+      <p>
+        Firstly: a teleological epistemology project should seek very generally to understand the ends and ultimate goals of knowledge. This is in contrast with a deonotological project which should seek to understand the methodological processes of belief forming and how we can obtain knowledge in terms of every day action. Sartwell concerns TB as heading solely in the direction of a teleological conception of knowledge and not at all bridging into deontology. Further, Sartwell notes that a purely deontological analysis of knowledge is bound to fail in the same way a purely deonotological ethical system will fail. An analysis of knowledge which fails to provide an underlying reason or is un-able to answer the question of ultimate means or end goals is insufficient for an analysis of knowledge.       
+      </p>
+
+      <p>
+        Secondly: a normative epistemology project should address the philosophical questions such as: "How should we generate beliefs with regard to achieving knowledge? How should inquiry be conducted and evaluated? And what, exactly, is its goal, i.e., what is knowledge?". These kinds of normative questions are in contrast to descriptive epistemology which is essentially an extension of psychology or cognitive science that seeks to determine identifying reliable belief forming processes or seeking out the cognitive mechanisms involved in the generation of beliefs and formation of knowledge. As such, Sartwell seeks for a normative project in his analysis of knowledge over a descriptive project. Sartwell's intention for TB is more along the line of philosophical analysis than explaining descriptive cognitive processes.
+      </p>
+
+      <p>
+        Sartwell provides an in depth analysis of this epistemological taxonomy (teleological/deontological and normative/descriptive) which he chooses to work. Sartwell's taxonomoy is largely modeled after a parallel to ethical systems developed by William Alston and he concedes to work strictly in a normative and teleological framework. Many of the shortcomings of epistemological theories of knowledge along the lines of JTB/JTB+ can be seen as failings in distinguishing what is teleological versus what is deontological. It is obvious the two are intertwined in a complex fashion, however for now it will suffice for me to simply emphasize that Sartwell is strictly concerned with a teleological normative analysis of knowledge.  By limiting TB's scope to be a strictly teleological and normative account, Sartwell puts TB in the position of just appealing to determine the ultimate goals of knowledge and very generally what knowledge is and determine in what sense knowledge is valuable anecdotally.
+      </p>
+
+
+      <h2>II. A Primer on Belief: Can a Lucky Guess be Knowledge?</h2>
+
+      <p>One of the initial concerns for TB offered by the JTB+ advocate might be to assert that it is incoherent to build an analysis of knowledge lacking justification simply because on such account lucky guesses could easily be counted as knowledge. To this conjecture, it is essential we consider the way in which Sartwell regards belief. Sartwell defines belief according to the account R. B. Braithwaite's offers in <i>The Nature of Believing</i>. According to Braithwaite's account, for a subject <i>S</i> to hold the belief that <i>p</i>, the following two criteria must be met: 
+      </p>
+
+      <ol>
+        <li>S entertains p</li>
+        <li>S has a disposition to act as if p were true</li>
+      </ol>
+
+      <p>
+        Sartwell uses the construction above to highlight two critical features of belief. The first feature is that the presence of (2) can quite often be observed in the absence (1). The example Sartwell cites to this extent is that of the gambler who closes his eyes, draws his finger to a horse on a racing form, and then bets the baby on that horse. The gambler's proposition that the horse will win, p, is not entertained in this instance but rather the gambler merely has disposition to bet on the horse. His disposition is simple: he's a gambler.  Perhaps if the gambler had some sort of complex statistical system then maybe he could entertain p and p would meet the criteria of belief. However, this brings into question deontological conceptions of justification of which Sartwell is not concerned. Thus, in this case we can say that the gambler simply had disposition. Disposition can come in many forms but only in the case that disposition aligns with <i>S</i> entertaining that <i>p</i> were actually true can we assert that <i>S</i> held the belief that <i>p</i>. 
+
+      </p>
+      <p> 
+        The second critical feature of belief is that no belief stands in isolation.  Sartwell cites the case of a man who's brain is operated on by a mad scientist and the man awakes asserting that "Goldbach's conjecture is true". No evidence  but mere disposition stands in this case as well and it would seem that for the man to entertain the proposition that "Goldbach's conjecture is true" would be unjustified. Sartwell asserts that "I cannot have the belief that Goldbach's conjecture is true and fail to have any related beliefs" (158). Belief is a notion intertwined with a system of beliefs and merely asserting a true claim does not count as knowledge. If there is reason, or justification on the level of belief for the claim to be true, then it is possible to entertain the claim and form belief. However, as Sartwell points out: "If the claim is withdrawn as soon as it is brought into question... we may rightly say it was not believed".
+      </p>
+
+      <p>
+        In conclusion to this section note: the typical inclination of the JTB+ advocate to criticize TB for including lucky gueseses in the scope of knowledge fails. A proposition must have some reason to be entertained to be considered a belief. Lucky guesses do not meet the criteria for belief in most cases. Thus, before passing a belief into any analysis of knowledge, such as TB, we need consider as a precursor the question: are we even dealing with an instance of a belief?
+      </p>
+
+      <h2>III. The Role of Justification: Truth-Conduciveness</h2>
+      <p>
+        The core of TB is to construe not that justification is an superfluous concept, but rather to conclude that justification should be construed as being merely of instrumental value to knowledge. Proper proof for this claim will follow in (IV), but for now I would like to highlight Sartwell's motivation for this view. Sartwell points out that an anecdotal account of theories of justification, from both coherentist and reliablist accounts, offer different methodologies in regards to the formation of beliefs. However, the critical convergence for all existing theories of justification is that they seek truth-conduciveness. Both internalist and externalist accounts of knowledge will concede that the purpose of justification is to provide methodology as to be truth-conducive.  Sartwell directly cites the coherentist Laurence Bonjour in saying, "If finding epistemically justified beliefs did not substantially increase the likelihood of finding true ones, epistemic justification would be irrelevant to our main cognitive goal and of dubious worth... epistemic justification is therefore in the final analysis only an instrumental value, not an intrinsic one". 
+      </p>
+      <p>
+        Sartwell additionally adds that while Bonjour explicitly states that justification is of mere instrumental value to knowledge, all proponents of justification implicitly concede that justification is of mere instrumental value as well. It must be the case that justification is of mere instrumental value to knowledge if justification is construed as having a purpose of solely conducing to the truth. Further, there are no accounts of justification that hold justification to be intrinsic to the value of knowledge. What then is left to theories of knowledge considering that hold justification is of instrumental value in conducing to the truth? Simply, that knowledge should be construed as merely true belief. And thus, with Sartwell's methodological and motivational components of TB now illustrated,  I will proceed to Sartwell's positive argument in favor of TB.
+      </p>
+
+      <h2>IV. Sartwell's Proof for TB: Why Knowledge is Merely True Belief</h2>
+      <p>
+        (I)-(III) established it now is appropriate to introduce Sartwell's proof for TB which he presents in <i>Why Knowledge is Merely True Belief</i>. Consider the my following reconstruction of Sartwell's argument for TB:
+      </p>
+      <ol>
+        <li>Knowledge is the goal of Inquiry (inquiry defined as: procedures that have their goal in generation of belief)</li>
+        <li>Justification is a correct procedure for Inquiry</li>
+        <li>Justification is a means to Knowledge<i>[From (1)-(2)]</i></li>
+        <li>X being a means to goal Y does not make X a necessary component of Y</li>
+        <li>Thus: Justification is only an instrumental component of Knowledge</li>
+      </ol>
+
+
+      <h2>V. Kvanig's Criticism of TB</h2>
+      <p>
+        Johathan Kvanig in an article entitled <i>The Value of Knowledge is External to It</i> attacks (1) arguing: "Is knowledge the goal of inquiry?... When we engage in inquiry we are trying to get to the truth about the subject matter in question. Inquiry ceases when we take ourselves to have found the truth". Kvanig adds that inquiry is intended to be truth-seeking rather than knowledge-seeking and to that extent that knowledge's purpose is "directed at finding the truth" and to "avoid error". 
+      </p>
+      <p>
+        Sartwell indeed concedes that (1) is un-defended, however he also notes that any analysis of knowledge need make such inference.  A theory of knowledge is bound to such inclination and Sartwell poses the question that if knowledge is not the goal of inquiry or the epistemological telos then why a "tremendous emphasis has been placed on the theory of knowledge in the history of philosophy"? Further he inquires what better goal might be construed for a normative account of epistemology? It seems as if Kvanig wholly ignored Sartwell's commentary on the nature of a normative teleological analysis of knowledge in this regard and thus Kvanig's attack of (1) does not hold.
+    </p>
+    <p>
+      However for argument's sake, let's grant that Kvanig is right in holding that inquiry must: find the truth and avoid error. Assume that Kvanig holds a JTB+ account of knowledge, as he denies outright TB. Kvanig would now agree that inquiry seeks knowledge (in the JTB+ sense).  The point is that Kvanig's argument is contingent upon what is meant by knowledge and ignoring the teleological value of TB, Kvanig completely miscomprehends Sartwell's argument.  Sartwell puts it as: "I would ask my accusers at this point whether they can set out to analyze or describe without begging the question in favor of some such theory". Begging the question is unavoidable for both TB or any teleological JTB+ theory. As such, outside of a deeper study on linguistics I think this point need not be defended any further.
+    </p>
+
+    <p>
+      Kvanig goes on to attack (4), saying that while often (4) is granted, it is also sometimes the case that the means to something does in fact constitute a necessary component of its goal. Kvanig cites the example: "If becoming elected a senator is the result of a successful campaign, then running a successful campaign can be both a means to this goal and a constituent as well" (42). Kvanig adds that while Sartwell wishes to claim that a means to a goal does not make said means necessary for a goal, in many cases means toward a goal are both necessary and sufficient for achieving that goal. Kvanig cites a second example that a means toward getting a million dollars is "getting a half a million, or getting nine hundred thousand, or getting the first dollar" in claiming "means can be necessary constituent of the goal in question".
+      </p>
+      <p>
+        One short note before commenting on Kvanig's criticism of (4) is that Kvanig represents from my reconstruction of Sartwell's argument (4) as: "Nothing that is merely a means to a goal is a necessary component of that goal" (42). This is not the stance Sartwell takes and I would refer the reader to the text in which Sartwell argues: "it is incoherent to build a specification of something regarded merely as a means of achieving some goal into the description of the goal itself". I am inclined to think that Sartwell was not attempting to assert claims about the axiomatic connection between means and goals at a fundamental level. As such, I believe my (4) to be a better interpretation of Sartwell's premise than Kvanig provides. 
+      </p>
+
+      <p>
+        Regardless I will grant Kvanig his rendering of (4) for argument's sake in his first analogy. Let's consider the senator's who means to winning the election is the "necessary" constituent such that the senator must run a successful campaign. Is the senator running a successful campaign truly his only means to win the campaign? What if the senator rigs the election? Or, what about the case in which the senator simply kills all members of the opposing party in town?  In this first analogy, even if we accept Kvanig's (4),  his analogy fails to resist counter-example.  What about needing to get one, ten, or a half a million dollars in order to get a million dollars? Well, I would simply not say that Kvanig here has provided a relevant analogy of the justification-knowledge relation here. This is simply a poor analogy with its goal to provide a path in rejecting the inference from (3)-(4) to (5) prima facie. 
+      </p>
+
+      <p>
+        Thus, in both cases of analogies I do not believe Kvanig has provided relevant analogies to compare the justification-knowledge relation as to weaken in any sense TB. Additionally, his attack of (1) is nothing more than an misunderstanding of the teleological normative nature of TB. Thus, Kvanig's attacks on TB prove to be incredibly.
+      </p>
+
+      <h2>VI. Lycan's Criticism of TB</h2>
+
+      <p>
+        In an article entitled <i>Sartwell's Minimalist Analysis of Knowledge</i>, William Lycan criticizes TB in a deduction by showing that if one believes TB and further that if we assume for reductio that TB is in fact true then we can derive by way of TB that one could <i>know TB</i>. Lycan presents his proof as:
+      </p>
+
+      <ol>
+        <li>Sartwell believes TB. [Premise; I presume he is sincere]</li>
+        <li>TB is true. [Assumption for <i>reductio</i>]</li>
+        <li>If TB is true, then whoever believes truly that P, knows that P. [Trivial, given what TB says.]</li>
+        <li>If (1) and (2), then Sartwell knows TB. [From (3).]</li>
+        <li>Thus: Sartwell knows TB. [(1), (2), (4).]</li>
+      </ol>
+
+      <p>
+        My inclination in response to Lycan is to question his assumption for reductio, (2). While I do concede that one can hold a sincere disposition to a philosophical claim, I do not think that (2) or for that matter any normative claim could said to have propositional value. Asserting that one could ever possibly believe to be true any philosophical analysis in terms of propositional content is absurd. And indeed Lycan himself concedes that in the case of <i>knowledge</i> that "it is unlikely that anyone <i>knows</i> any highly controversial philosophical claim to be true, and it is unlikely that Sartwell is so arrogant to believe he knows TB in particular". This illustrates the fault of Lycan's argument against TB: Lycan's deduction for reductio is simply a matter of fitting a philosophical claim into TB and then criticizing its outputs. This is not what TB or any anlaysis of knowledge is designed to do. Besides (2), additionally, I question whether (1) could be accepted on Sartwell's analysis of belief covered in (III). Although, Sartwell may hold a strong disposition to assent for TB, how could Sartwell ever entertain TB as being "true" outside of his own philosophical workings?  
+      </p>
+      <p>
+        Along the same lines in which Lycan offers his "ugly consequence" deduced from TB, an equally ugly consequence could be derived of a JTB+ system:
+      </p>
+
+      <ol>
+        <li>Lycan believes JTB+</li>
+        <li>JTB+ is true and justified. [Assumption for <i>reductio</i>]</li>
+        <li>If JTB+ is true and justified, then whoever believes truly that P and is justified that P, knows that P</li>
+        <li>If (1) and (2), then Lycan knows JTB+. [From (3).]</li>
+        <li>Thus: Lycan knows JTB+ [From (1), (2), (4)]</li>
+      </ol>
+      <p>
+        And thus, the same commentary Lycan provides in criticism of TB can be applied to a theory of JTB+. This highlight Lycan's mis-application of a analysis of knowledge in testing a teleological philosophical claim. Does this highlight some prospect of a massive failing of analyses of knowledge?  I think not, however it does bring back in to light the quintessential point Sartwell provides as precursor to his positive account for TB in <i>Why Knowledge is Mere True Belief</i>: the aim of an analysis of knowledge should be normative and teleological. Additionally we need consider the criteria of what is belief before feeding any supposed claim of belief into system designed for the analysis of knowledge.
+      </p>
+      <h2>VII. But Gettier Cases are Not Knowledge</h2>
+      <p>
+        I would like to introduce a potential objection which I have not found argued against Sartwell explicitly in the literature, but surely it is present. The objection I speak of is that of the JTB+ advocate arguing: "Gettier cases cannot be instances of knowledge". The JTB+ advocate will likely balk at TB solely for the reason that it seems intuitively wrong to call Gettier cases instances of knowledge.
+      </p>
+
+
+      <p>
+        Consider the classical Gettier case: Jones' boss tells him that the man who will get the job has ten coins in his pocket. Further, Jones has the evidence that Smith has ten coins in his pocket. On these two pieces of evidence, Jones forms the belief that p: the man who will get the job has ten coins in his pocket. As it turns out, Jones' boss has deceived him and it is not Smith who will get the job but Jones himself. Jones gets the job and looks in his pocket and as it turns out he has ten coins in his pocket. Did Jones know that p?
+      </p>
+
+      <p>
+        A JTB+ advocate would surely deny that Jones knew that p. However, why is it relevant or of any epistemological importance to deny Jones the knowledge that p? Is not the ultimate epistemological goal truths? What is our motive in caring to be right for the right epistemological reasons?  The Gettier case I feel truly reveals the beauty of TB. On TB, Jones can know that p but at the same time not be justified that p.  Whether or not Jones is justifed that p will likely solely rest on which theory of justification Jones adheres to. Maybe on some justificatory theory A, Jones is justified in p and on justificatory theory B Jones is not justified in p. However, knowledge is not the question Gettier should have initially concerned himself with. If we were to interview Jones and ask him if he did know that p, he would likely reply, "Surprisingly, I did!". 
+      </p>
+
+      <p>
+        The Gettier case illustrates an interesting observation for the distinction between knowledge and justification. While justification is relatively subjective in that depending on which theory of justification you adhere to, whether you were justified that p can vary. As such, the narcissist Jones will likely concede that of course he was justified in p, while the meek Jones may say no I wasn't justified that p. However, knowledge is not and should not be as forgiving. Outside of the field of philosophical epistemological endeavors I think it would be rather absurd to claim that Jones didn't have knowledge of some true belief. While the Gettier case and my explanation may seem like begging the question for TB, I think accepting a theory of knowledge ultimate boils down how exactly "knowledge" is referred to anecdotally.
+      </p>
+
+      <h2>VIII. Sartwell's View of Knowledge in Language</h2>
+
+      <p>
+        Sartwell in <i>Knowledge is Merely True Belief</i> introduces TB largely by way of making claims paralleling a TB analysis of knowledge to the way "knowledge" is referred to in everyday language. I think this is an incredibly interesting point Sartwell makes for TB and a large part of both of his articles can be seen as a appeal to language in such regard. In natural and common language when somebody claims to have knowledge of a claim it means that they truly believe the claim. Everyday people do not think, how do I know this, or why do I know this or why am I justified? Rather, when a knower claims that they know that p and are challenged about their knowledge that p, only then is justification considered.
+      </p>
+
+      <p>
+        Thus justification in language is instrumental. Justification provides us a way to confirm and assess both: 1. Whether the claimant actually entertains the belief that p and 2. What their justification was in forming the belief that p.  As Sartwell puts it in <i>Knowledge is Merely True Belief</i>, TB is an appeal to "what we would say" and further he holds that "This is not because I hold that ordinary language is invariably a good guide to meaning... but simply because the only arguments which appear to demand a serious response are framed in terms of linguistic practice".
+
+      </p>
+        
+      <h2>IX. The Pragmatism of Epistemological Minimalism</h2>
+
+      <p>
+        In conclusion, epistemological minimalistic or accepting that knowledge is merely true belief can be seen essentially as a recipe for epistemological pragmatism. Speculating on what knowledge is beyond so far as what is true belief is a question that is solely a concern within the field of epistemology. As we have seen in (VIII) if you consider Sartwell's appeal to language, TB is the most accurate analysis of knowledge in such regard.
+      </p>
+      <p>
+        Sartwell does not concede the project on which he embarks explicitly as "pragmatism" however I do think that is the term which best describes TB. Epistemological minimalism seeks to be pragmatic in that is pushes justification into a separate domain of epistemology. Mainly it acknowledges that while justification may not be able to provide concrete answers for subject S being justified that p, we can provide a definition for what it is for subject S to know that p. Further, in fact the reason that we can provide that definition of subject S knowing that p is that anecdotally this is already how we view "knowledge" in language.
+      </p>
+
+      <p>
+        One final note is that while epistemological minimalism pushes for pragmatism in so far as knowledge is concerned, it allows for debates of justification to remain intact. Is justification best a coherentist or a reliabalist conception? The answer to that question we are not sure of but both can co-exist under the umbrella of TB. TB provides a level of minimalism and pragmatism that doesn't impend on the projects of justification and other essential parts of the epistemological field while it halts debate where it need be halted.
+      </p>
+    </div>
+  </body>
+</html>
