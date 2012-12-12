@@ -15,13 +15,13 @@
     <div id="title">Rationalism, Empericism, and Epistemelogical Perspectivism</div>
     <div class="response">
       <p>
-        In this paper I will present the philosophical debate of empericism versus rationalism to be of little value to the epistemelogical persepectivist. I will develop this view through firstly looking at one of Leibniz's rationalism arguments claiming that the senses can only ever provide us with contigent emperical knowledge in (I). Nextly, I will reconstruct one of Locke's emperical arguments claiming that even seemingly innate or rational truths are emperically grounded in (II). Then, with these two arguments from the rationalist and empericists camps developed, I will present my own notion of what it is to be an epistemological persepctivist in (III). In (IV), I will reveal myself to be an epistemological persepectivist and further use this view to show why there is no winner and why I would not care about a winner of a philosophical debate between Locke's empericism and Leibniz's rationalism. Finally, in closing, I will offer additional insight into the nature of epistemological persepctivism.
+        In this paper I will present the philosophical debate of empericism versus rationalism to be of little value to the epistemelogical persepectivist. I will develop this view through firstly looking at one of Leibniz's rationalism arguments claiming that the senses can only ever provide us with contigent emperical knowledge in (I). Next, I will reconstruct one of Locke's emperical arguments claiming that even seemingly innate or rational truths are emperically grounded in (II). Then, with these two arguments from the rationalist and empericists camps developed, I will present my own notion of what it is to be an epistemological persepctivist in (III). Then, in (IV), I will reveal myself to be an epistemological persepectivist and further use this view to show why there is no winner to the empericism versus rationalism debat. Finally, in closing, I will offer additional insight into the nature of epistemological persepctivism.
       </p>
 
       <h2>I. Leibniz's Rationalist Argument</h2>
 
       <p>
-        In Gottfried Wilhelm Leibniz's <i>New Essays on Human Understanding</i>, Leibniz offers a critical argument for why the senses are inadequete to provide necessary truths. Leibniz feels that because the cause-and-effect relations employed in deriving from experience cannot themselves be explained a priori, emperical knowledge cannot provide us with necessary truths. What this means is that each time we deduce a piece of knowledge from experience, we are only able to deduce this knowledge though noticing the recurrence of singular instances. For example, each morening we watch the sun rise and as a result we deduce that the sun will rise tomorrow morning. However, a priori (or before any original occurence of the event of the sun rising), it would seem ludacris to assert that the sun would rise. If we had never in our lives seen the sun rise we would have no reason to believe the sun would rise. Thus, our emperical knowledge is grounded purely in singular expereinces which seem un-generalizable. Consider the following formalized reconstruction of Leibniz's argument:
+        In Gottfried Wilhelm Leibniz's <i>New Essays on Human Understanding</i>, Leibniz offers a critical argument for why the senses are inadequete to provide necessary truths. Leibniz feels that because the cause-and-effect relations employed in deriving from experience cannot themselves be explained a priori, emperical knowledge cannot provide us with necessary truths. What this means is that each time we deduce a piece of knowledge from experience, we are only able to deduce this knowledge though noticing the recurrence of singular instances. For example, each morning we watch the sun rise and as a result we deduce that the sun will rise tomorrow morning. However, a priori (or before any original occurence of the event of the sun rising), it would seem ludacris to assert that the sun will necessarily rise tommorow morning. If we had never in our lives seen the sun rise we would have no reason to believe the sun would rise. Thus, our emperical truths are grounded soley in singular expereinces which seem necessarily un-generalizable. Consider the following formalized reconstruction of Leibniz's argument:
       </p>
       <ol>
         <li>The senses can only ever give us knowledge of singular or instances of experiences.</li>
@@ -74,8 +74,14 @@
       <div id="works-cited">
         <div class="title">Works Cited</div>
         <div class="citation">
-          Montaigne, Michael. "Appsdjfoiadjfioasdfimsoidf." Reprint in <i>Modern PHil</i> 2nd ed. Indianapolis: Hackett, 2011. 4-15. Print.
+          Locke, John. "An Essay Concerning Human Understanding." Reprint in <i>Modern Philosophy</i>. Roger Ariew and Eric Watkins. Second Edition. Indianapolis: Hackett, 2009. 316-330. Print.
         </div>
+
+        <div class="citation">
+          Leibniz, Gottfried Wilhelm. "New Essays on Human Understanding." Reprint. Jonathan Bennett, 2005. 1-34. Print.
+        </div>
+
+
       </div>
     </div>
   </body>
