@@ -12,6 +12,13 @@
 /* Double Spaced */
 body { line-height: 2em; }
 div#title { text-align: center; }
+
+h2 {
+  font-size: 12pt; 
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 p { 
   margin: 0;
   text-indent: 0.5in; 
