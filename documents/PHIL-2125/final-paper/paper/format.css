@@ -5,7 +5,7 @@
 
   @top {
     text-align: right;
-    content: "Sandlar " counter(page);
+    content: "905550624" counter(page);
   }
 }
 
@@ -24,6 +24,10 @@ p {
   text-indent: 0.5in; 
 }
 
+ol {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
 li {
   line-height: 1.5em;
   margin-bottom: .5em;
@@ -48,4 +52,7 @@ span.small {
 #works-cited .citation {
   padding-left: 0.5in;
   text-indent: -0.5in;
+}
+a {
+  color: black;
 }
