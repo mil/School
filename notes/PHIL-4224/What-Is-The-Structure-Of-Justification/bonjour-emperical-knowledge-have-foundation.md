@@ -1,3 +1,47 @@
+Bonjour: Can Empirical Knowledge Have Foundation?
+=================================================
+- Basics:
+    * The Regress Problem:
+        - JTB leads to a regress problem
+        - If A is justified by B, B must be jusified by C, C justified by D......
+    * Foundationalism
+        - Motivated by the Regress problem
+        - The regress must stop at some point
+- Where to Go From the Regress Problem:
+    * Skepticism
+    * Regress proceeds Infintly Backwards 
+        - Justification ends with beliefs of which no justification available
+    * Coherentism
+        - Regress just circles upon itself
+    * Foundationalism
+        - Regress ends in some beliefs w/o J
+        - Variants:
+            * Strong Foundationalism
+                - Regress ultimatly ends in a some "basic belief"
+                - Basic beliefs need no justification
+                - Basic beliefs are very liekly to be true
+            * Weak Foundationalism
+                - Accepts central Foundatalist concept
+                - Basic Beliefs have quite low degree of warrant
+                    * Lower than strong foundationalism
+                    * Insufficient to satisfy J condition for K
+                - Hybrid between strong foundationalism and coherence view
+        - Key Problem for Foundationalism
+            * Can it solve the regress problem w/o ad hoc stipulation?
+- Basic Beliefs:
+    * Serve as the foundation for strong foundationalism
+    * Defined by the foundationalist theory
+
+
+
+
+
+
+
+
+Older Shit:
+-----------
+
 - Coherentism (Davidson)
     * Beliefs are only justified by other beliefs
 - Foundationalism
