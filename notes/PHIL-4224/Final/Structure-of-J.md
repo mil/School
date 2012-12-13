@@ -51,8 +51,14 @@ Sosa, “The Raft and the Pyramid: coherence versus foundations in the theory of
 ----------------------------------------------------------------------------
 
 1.  Sosa claims that the coherentist critique of foundationalism depends on the Intellectualist Model of Justification. What is the Intellectualist Model of Justification? How does the coherentist critique of foundationalist depend on the Intellectualist Model of Justification?
+    - The intellectualist model of justification is that justification is grounded in logical relations amont propositions. As such the beleif that the streets are wets (W) depends on two propositions:(A) it is raining out and (B) if (A) then the streets will be wet. From a simply modus ponus of A into B will yield (W). Or formally stated: A, A->B, thus B.
+    - The coherentist uses this logical model of inference or the intellecutualist model of justification to critque the foundationalist model. The general lines of reasoning:
+        * If a mental state does not give us direct contact with reality, then it provides no  garuntee against error. Further, all a mental state does not give us direct contact with reality (Pure existence, unfiltered concepts of belief). Thus, our mental states cannot provide garuntee against error and therefore not serve as a foundation for knowledge.
+    - Further, from this line of reasoning, assuming that our mental states cannot give us a direct contact of reality, our mental states cannot therefore serve as a foundation for our knowledge. 
 
 2. Sosa gives several arguments to the effect that the coherentist critique fails because of its reliance on the Intellectual Model of Justification. Explain at least one of those arguments.
+    - If we assume the intellectual model of justification is detrimental for foundtaionalism that further we must accept that any normative theory of epistmology is un-achievable. SInce propositional attutiudes can justify propositional attitudes ad no more, how do we say what this set of propositional attutitudes supervenes on.
+    - What is supervenience?
 
 .
 3. Sosa argues that the foundationalist does not adequately motivate their position by drawing on the regress argument. Explain one such way the foundationalist attempts to motivate their view using the regress problem and then explain why Sosa thinks that the argument fails.
