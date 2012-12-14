@@ -13,7 +13,11 @@ BonJour, Can empirical knowledge have a foundation?
     - Alternativly under stong foundationalism there is the idea that a set of baisc beliefs may have some feature or property X which ground all baisc beliefs. Any belief with property X may thus be said to be a basic belief. THese basic beliefs need not much justified any further and all other beliefs may build upon them. Not so much epistemoic as it is law.
 
 3.  BonJour argues that the foundationalist cannot actually solve the regress problems using basic beliefs. Explain his argument.
-    - IN both cases mentioned before: the law like connection and the cognitive giveness, they are both insufficient and unsound groundings for knowledge. They end epistemic justification regreess problem with ad-hoc solutions. There are no ways to distinguish between cognitive given believes and epistemically concerned beleifs. Without a clear distinction between these two types of beliefs, there seems to be little true grounding for foundatlism.
+    - IN both cases mentioned before: the law like connection and the cognitive giveness, they are both insufficient and unsound groundings for knowledge. They end epistemic justification regreess problem with ad-hoc solut2. Sosa gives several arguments to the effect that the coherentist critique fails because of its reliance on the Intellectual Model of Justification. Explain at least one of those arguments.
+    - If we assume the intellectual model of justification is detrimental for foundtaionalism that further we must accept that any normative theory of epistmology is un-achievable. SInce propositional attutiudes can justify propositional attitudes ad no more, how do we say what this set of propositional attutitudes supervenes on.
+    - What is supervenience?
+
+.ions. There are no ways to distinguish between cognitive given believes and epistemically concerned beleifs. Without a clear distinction between these two types of beliefs, there seems to be little true grounding for foundatlism.
     - They both resort to solve the epistemic justification poblem by simply saying: at no point further epistemic justification is necessary. At this point, justification can take several forms but either way they just fall back into the pitfalls of skepticism.
 
 
@@ -42,7 +46,11 @@ Klein, “Human Knowledge and the Infinite Regress of Reasons”
     - Klein responds that pointing out that accepting this kind of arbitariness avoids PAA simply by remaining prudential. This line of reasoning is purely to help achieve The goal and is only one way the goal may be achieved. We have no reason to this is the ultimate way to achieve a complete and accurate picture. THis idea of rationality is purely instrumental in nature.
     - If at the bsae, we must accept that reasons are arbitrary, there seems to be no reason, other than an arbitrary one, that would allow that we should accept any reasons. Thus, in line of epistemic questioning we should maintain the purest questioning form of rationality and accept as little as possible in desires to get as close to the truth as possible.
 
-5.  Klein considers and rejects the possibility that infinitism leads to skepticism.  Explain that objection and Klein’s response.
+5.  Klein considers and rejects the possibility 2. Sosa gives several arguments to the effect that the coherentist critique fails because of its reliance on the Intellectual Model of Justification. Explain at least one of those arguments.
+    - If we assume the intellectual model of justification is detrimental for foundtaionalism that further we must accept that any normative theory of epistmology is un-achievable. SInce propositional attutiudes can justify propositional attitudes ad no more, how do we say what this set of propositional attutitudes supervenes on.
+    - What is supervenience?
+
+.that infinitism leads to skepticism.  Explain that objection and Klein’s response.
     - The genereal idea is that infinitism will lead into skepticism. Under infinitism there is no way to "settle" an issue because all reasoning seems to rest upon inferences. There are no foundations and thus all justification is conditional or provisional and no belief will ever become unprovisionally justified. 
     - The answer Klein gives is that it may be that you can never "settle" matters once and for all. Skepticism will always reamin as long as there is no nitty gritty concrete answer to these questions. A theory X is not justified in transcendence, but rather any theory X is just more justified than other theory Y,Z, and W. Thus, it is true that we won't have any sort of "lifetime" garuntee that settles our knowledge once and for all... however, this is what makes human knowledge distinct from other seemingly doxastic kinds of knowledge. OUr garuntee is limited. Whenever we may think any proposition p to be true, J is out limited garuntee that assures us we can question and try to figure out why that is the case.
 
@@ -61,7 +69,7 @@ Sosa, “The Raft and the Pyramid: coherence versus foundations in the theory of
     - What is supervenience?
 
 .
-3. Sosa argues that the foundationalist does not adequately motivate their position by drawing on the regress argument. Explain one such way the foundationalist attempts to motivate their view using the regress problem and then explain why Sosa thinks that the argument fails.
+3. Sosa argues that the foundationalist does not adequately motivate their position by drawing on the regress argument. Explain one such way the foundationalist attempts to motivate their view using the regress problem areliable belief forming process or other theories of the sort nd then explain why Sosa thinks that the argument fails.
 
 4. What is formal foundationalism? How is substantive foundationalism a version of formal foundationalism? How are different kinds of coherentism also versions of formal foundationalism?
 
