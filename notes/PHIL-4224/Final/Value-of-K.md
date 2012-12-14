@@ -24,7 +24,13 @@ Zagzebski, The search for the source of epistemic good
 
 Greco, The value problem
 -------------------------
-1.  Greco carefully separates out four different questions that one might pose as the ‘value problem’ in epistemology. Explain each question and how it differs from the other.
+1.  Greco carefully separates out four different questions that one might pose as the "value problem" in epistemology. Explain each question and how it differs from the other.
+    - The four questions are
+        1. Why is knowledge valuable?
+        2. Why is knowledge more valuable than true belief?
+        3. Why is knowledge more valuable than any subset of its parts?
+        4. Why is knowledge more valuable than the value of all of its parts speratly?
+
 
 2.  Explain which questions about the value of knowledge need not be answered by an account of knowledge and why.
 4.
