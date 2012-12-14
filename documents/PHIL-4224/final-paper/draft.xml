@@ -1,21 +1,21 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
-    <title>PHIL-4224: Final Paper Draft</title>
+    <title>PHIL-4224: Final Paper</title>
     <meta name="author" content="Miles Sandlar"/>
-    <meta name="date"   content="2012-11-7"/>
+    <meta name="date"   content="2012-12-17"/>
   </head>
   <body>
     <div id="header">
       Miles Sandlar<br/>
-      November 16th, 2012<br/>
+      December 17th, 2012<br/>
       Matthew Presilac<br/>
       PHIL-4224<br/>
     </div>
     <div id="title">In Defense of Sartwell's True Belief Analysis of Knowledge</div>
     <div class="response">
       <p>
-        Gettier cases have spawned a whole slew of theories tacking on an additional criteria for knowledge to the justified true belief analysis of knowledge (JTB). As such, in epistemology the view that is often endorsed as the solution to the Gettier problem is that knowledge is at least justified true belief (<i>JTB+</i>). Another approach to the Gettier problem is to consider knowledge to be merely true belief (TB) as presented by Crispin Sartwell in <i>Knowledge is Merely True Belief</i> and <i>Why Knowledge is Merely True Belief</i>. TB is not an anecdote for epistemological anarchy but rather simply suggests a re-evaluation of the analysis of knowledge such that justification should be considered as merely instrumental to knowledge. TB avoids the Gettier problem all together by actually including Gettier cases as cases of knowledge. Proceeding, in (I-III) I will analyze the motivation for Sartwell's TB, in (IV) I will present my reconstruction of Sartwell's argument in favor of TB, in (V-VII) I will refute criticisms directed at TB, and concluding with (VIII-IX) I will offer additional explanation of why counter-argumentation to TB is bound to be easily refuted by emphasizing the key methodology Sartwell takes in the development of TB.
+        Gettier cases have spawned a whole slew of theories tacking on an additional criteria for knowledge to the justified true belief analysis of knowledge (JTB). As such, in epistemology the view that is often endorsed as the solution to the Gettier problem is that an anlaysis of knowledge should contrue knowledge is at least justified true belief (<i>JTB+</i>). Another approach to the Gettier problem is to consider an analysis of knowledge to be merely true belief (TB) as presented by Crispin Sartwell in <i>Knowledge is Merely True Belief</i> and <i>Why Knowledge is Merely True Belief</i>. TB is not an anecdote for epistemological anarchy but rather simply suggests a re-evaluation of the analysis of knowledge such that justification considered as merely instrumental to knowledge. TB avoids the Gettier problem all together by actually including Gettier cases as cases of knowledge. Proceeding, in (I-III) I will analyze the motivation for Sartwell's TB, in (IV) I will present my reconstruction of Sartwell's argument in favor of TB, in (V-VII) I will refute criticisms directed at TB, and concluding with (VIII-IX) I will offer additional explanation of why counter-argumentation to TB is bound to be easily refuted by emphasizing the key methodology Sartwell takes in the development of TB.
       </p>
 
       <h2>I. The Scope of an Analysis of Knowledge: Teleological and Normative</h2>
@@ -23,8 +23,23 @@
         In the face of Gettier, the intuition for the epistemologist is to morph JTB into JTB+ rather than skin JTB into TB.  Sartwell pushes for the latter over the former by emphasizing that we need an account of knowledge that teleological and normative. Although only stressed in Sartwell's second article, <i>Why Knowledge is Merely True Belief</i>, considering the distinctions between both: telelogical versus deontological and normative versus descriptive epistemological projects is critical to understanding the scope of TB. It is only through Sartwell appealing to provide in scope a strictly a teleological and normative analysis of knowledge that TB should be considered a functional argument.
       </p>
       <p>
-        Firstly: a teleological epistemology project should seek very generally to understand the ends and ultimate goals of knowledge. This is in contrast with a deonotological project which should seek to understand the methodological processes of belief forming and how we can obtain knowledge in terms of every day action. Sartwell concerns TB as heading solely in the direction of a teleological conception of knowledge and not at all bridging into deontology. Further, Sartwell notes that a purely deontological analysis of knowledge is bound to fail in the same way a purely deonotological ethical system will fail. An analysis of knowledge which fails to provide an underlying reason or is un-able to answer the question of ultimate means or end goals is insufficient for an analysis of knowledge.       
+        Firstly: a teleological epistemology project should seek very generally to understand the ends and ultimate goals of knowledge. A teloelogical project is in contrast with a deonotological project which should seek to understand the methodological processes of belief forming and how we can obtain knowledge in terms of every day action. A crude rendering of this distinction from a birds-eye view is that a deonotological project could largely be concerned with the means while a telogogical project is concerned with the end.
       </p>
+      <p>
+        Now, let us return to Sartwell's analysis of knowledge. Sartwell asserts that an analysis of knowledge should be telelogical conception and not bridge into deontology. What is the motivation for this view? Specifications conforming to how to achieve knowledge on deontological level already exist within epistomology. These specifications are called theories of justification. Consider one such theory of when subject S is justified in beliving that p:
+      </p>
+
+      <blockquote>
+        "Person S is ex ante justified in believing p at t if and only if there is a reliable belief-forming operation available to S which is such that if S applied that operation to this total cognitive state at t, S would believe p at t-plus-delta (for a suitably small delta) and that belief would be ex post justified" (Goldman, 171). 
+      </blockquote>
+
+      <p>
+        This analysis Goldman gives of when someone is "reliably" justified sounds quite in depth. Howver, it is quite in depth rightly so. It's the last rendering Goldman reaches of what it is to be "reliably" justified in an entire article entitled <i>Reliablism: what is justified belief</i>. Deontological justificatory theories drill down completly on the means in regards to the formation of belief. In this theory, Goldman talks extensivly about what exactly it is to be reliably justified, at what time, in what cogntive state, and strictly sticks to the general of how can we be epistemically justified.
+      </p>
+
+      <p>
+        This is the motivation for Sartwell's notion that an analysis of knowledge should be strictly telelological. Justificatory thoery are by their nature defined to be deontological. They consider the means however they are not at all considered with the end goal. In fact, Goldman's reliablist theory does not mention anything about the nature of truth, why truth is good, why it is something we'd like to have, or even that truth is the goal. Goldman's reliablist theory of justification merely states in eseence that to be justified is to have your belief formed by a reliable belief forming mechanism. In fact, it purposly additionally does not allude to both mentioning anything about the indvidiual belief at hand, what if the belief turns out to be true or false, so on or so forth.
+      </p> 
 
       <p>
         Secondly: a normative epistemology project should address the philosophical questions such as: "How should we generate beliefs with regard to achieving knowledge? How should inquiry be conducted and evaluated? And what, exactly, is its goal, i.e., what is knowledge?". These kinds of normative questions are in contrast to descriptive epistemology which is essentially an extension of psychology or cognitive science that seeks to determine identifying reliable belief forming processes or seeking out the cognitive mechanisms involved in the generation of beliefs and formation of knowledge. As such, Sartwell seeks for a normative project in his analysis of knowledge over a descriptive project. Sartwell's intention for TB is more along the line of philosophical analysis than explaining descriptive cognitive processes.
@@ -59,8 +74,11 @@
 
       <h2>III. The Role of Justification: Truth-Conduciveness</h2>
       <p>
-        The core of TB is to construe not that justification is an superfluous concept, but rather to conclude that justification should be construed as being merely of instrumental value to knowledge. Proper proof for this claim will follow in (IV), but for now I would like to highlight Sartwell's motivation for this view. Sartwell points out that an anecdotal account of theories of justification, from both coherentist and reliablist accounts, offer different methodologies in regards to the formation of beliefs. However, the critical convergence for all existing theories of justification is that they seek truth-conduciveness. Both internalist and externalist accounts of knowledge will concede that the purpose of justification is to provide methodology as to be truth-conducive.  Sartwell directly cites the coherentist Laurence Bonjour in saying, "If finding epistemically justified beliefs did not substantially increase the likelihood of finding true ones, epistemic justification would be irrelevant to our main cognitive goal and of dubious worth... epistemic justification is therefore in the final analysis only an instrumental value, not an intrinsic one". 
-      </p>
+        The core of TB is to construe not that justification is an superfluous concept, but rather to conclude that justification should be construed as being merely of instrumental value to knowledge. Proper proof for this claim will follow in (IV), but for now I would like to highlight Sartwell's motivation for this view. Sartwell points out that an anecdotal account of theories of justification, from both coherentist and reliablist accounts, offer different methodologies in regards to the formation of beliefs. However, the critical convergence for all existing theories of justification is that they seek truth-conduciveness. Both internalist and externalist accounts of knowledge will concede that the purpose of justification is to provide methodology as to be truth-conducive.  Sartwell directly cites the coherentist Laurence Bonjour in saying:
+      </p> 
+      <blockquote>
+        "If finding epistemically justified beliefs did not substantially increase the likelihood of finding true ones, epistemic justification would be irrelevant to our main cognitive goal and of dubious worth... epistemic justification is therefore in the final analysis only an instrumental value, not an intrinsic one". 
+      </blockquote>
       <p>
         Sartwell additionally adds that while Bonjour explicitly states that justification is of mere instrumental value to knowledge, all proponents of justification implicitly concede that justification is of mere instrumental value as well. It must be the case that justification is of mere instrumental value to knowledge if justification is construed as having a purpose of solely conducing to the truth. Further, there are no accounts of justification that hold justification to be intrinsic to the value of knowledge. What then is left to theories of knowledge considering that hold justification is of instrumental value in conducing to the truth? Simply, that knowledge should be construed as merely true belief. And thus, with Sartwell's methodological and motivational components of TB now illustrated,  I will proceed to Sartwell's positive argument in favor of TB.
       </p>
@@ -84,13 +102,13 @@
       </p>
       <p>
         Sartwell indeed concedes that (1) is un-defended, however he also notes that any analysis of knowledge need make such inference.  A theory of knowledge is bound to such inclination and Sartwell poses the question that if knowledge is not the goal of inquiry or the epistemological telos then why a "tremendous emphasis has been placed on the theory of knowledge in the history of philosophy"? Further he inquires what better goal might be construed for a normative account of epistemology? It seems as if Kvanig wholly ignored Sartwell's commentary on the nature of a normative teleological analysis of knowledge in this regard and thus Kvanig's attack of (1) does not hold.
-    </p>
-    <p>
-      However for argument's sake, let's grant that Kvanig is right in holding that inquiry must: find the truth and avoid error. Assume that Kvanig holds a JTB+ account of knowledge, as he denies outright TB. Kvanig would now agree that inquiry seeks knowledge (in the JTB+ sense).  The point is that Kvanig's argument is contingent upon what is meant by knowledge and ignoring the teleological value of TB, Kvanig completely miscomprehends Sartwell's argument.  Sartwell puts it as: "I would ask my accusers at this point whether they can set out to analyze or describe without begging the question in favor of some such theory". Begging the question is unavoidable for both TB or any teleological JTB+ theory. As such, outside of a deeper study on linguistics I think this point need not be defended any further.
-    </p>
+      </p>
+      <p>
+        However for argument's sake, let's grant that Kvanig is right in holding that inquiry must: find the truth and avoid error. Assume that Kvanig holds a JTB+ account of knowledge, as he denies outright TB. Kvanig would now agree that inquiry seeks knowledge (in the JTB+ sense).  The point is that Kvanig's argument is contingent upon what is meant by knowledge and ignoring the teleological value of TB, Kvanig completely miscomprehends Sartwell's argument.  Sartwell puts it as: "I would ask my accusers at this point whether they can set out to analyze or describe without begging the question in favor of some such theory". Begging the question is unavoidable for both TB or any teleological JTB+ theory. As such, outside of a deeper study on linguistics I think this point need not be defended any further.
+      </p>
 
-    <p>
-      Kvanig goes on to attack (4), saying that while often (4) is granted, it is also sometimes the case that the means to something does in fact constitute a necessary component of its goal. Kvanig cites the example: "If becoming elected a senator is the result of a successful campaign, then running a successful campaign can be both a means to this goal and a constituent as well" (42). Kvanig adds that while Sartwell wishes to claim that a means to a goal does not make said means necessary for a goal, in many cases means toward a goal are both necessary and sufficient for achieving that goal. Kvanig cites a second example that a means toward getting a million dollars is "getting a half a million, or getting nine hundred thousand, or getting the first dollar" in claiming "means can be necessary constituent of the goal in question".
+      <p>
+        Kvanig goes on to attack (4), saying that while often (4) is granted, it is also sometimes the case that the means to something does in fact constitute a necessary component of its goal. Kvanig cites the example: "If becoming elected a senator is the result of a successful campaign, then running a successful campaign can be both a means to this goal and a constituent as well" (42). Kvanig adds that while Sartwell wishes to claim that a means to a goal does not make said means necessary for a goal, in many cases means toward a goal are both necessary and sufficient for achieving that goal. Kvanig cites a second example that a means toward getting a million dollars is "getting a half a million, or getting nine hundred thousand, or getting the first dollar" in claiming "means can be necessary constituent of the goal in question".
       </p>
       <p>
         One short note before commenting on Kvanig's criticism of (4) is that Kvanig represents from my reconstruction of Sartwell's argument (4) as: "Nothing that is merely a means to a goal is a necessary component of that goal" (42). This is not the stance Sartwell takes and I would refer the reader to the text in which Sartwell argues: "it is incoherent to build a specification of something regarded merely as a means of achieving some goal into the description of the goal itself". I am inclined to think that Sartwell was not attempting to assert claims about the axiomatic connection between means and goals at a fundamental level. As such, I believe my (4) to be a better interpretation of Sartwell's premise than Kvanig provides. 
@@ -163,7 +181,7 @@
         Thus justification in language is instrumental. Justification provides us a way to confirm and assess both: 1. Whether the claimant actually entertains the belief that p and 2. What their justification was in forming the belief that p.  As Sartwell puts it in <i>Knowledge is Merely True Belief</i>, TB is an appeal to "what we would say" and further he holds that "This is not because I hold that ordinary language is invariably a good guide to meaning... but simply because the only arguments which appear to demand a serious response are framed in terms of linguistic practice".
 
       </p>
-        
+
       <h2>IX. The Pragmatism of Epistemological Minimalism</h2>
 
       <p>
