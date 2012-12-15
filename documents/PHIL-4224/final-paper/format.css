@@ -43,6 +43,11 @@ h2 {
   margin: 0;
   margin-top: 1em;
 }
+
+h2 span.small {
+  font-size: 10pt;
+}
+
 p {
   margin: 0;
 }
