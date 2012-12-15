@@ -1,3 +1,11 @@
+@media screen {
+  body {
+    max-width: 7.5in;
+    padding: 1in;
+    margin: 0 auto;
+  }
+
+}
 /* Page Layout for MLA */
 @page { 
   margin: 72pt 72pt 72pt 72pt;
