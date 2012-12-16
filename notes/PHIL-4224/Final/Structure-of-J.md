@@ -22,11 +22,12 @@ BonJour, Can empirical knowledge have a foundation?
 
 
 
-Davidson, “A coherence theory of knowledge and justification”
+Davidson, A coherence theory of knowledge and justification
 -------------------------------------------------------------
 1.  Davidson argues that sensory experiences or sensations cannot provide epistemic foundations for our beliefs about the external world, even if they are causally responsible for our beliefs about the external world. Why not?
+    - 
 
-Klein, “Human Knowledge and the Infinite Regress of Reasons”
+Klein, Human Knowledge and the Infinite Regress of Reasons
 ------------------------------------------------------------
 1.  Explain and motivate the Principle of Avoiding Arbitrariness (PAA) and the Principle of avoiding Circularity (PAC). How do the PAA and the PAC lead to infinitism? Which principle do coherentists violate? Which principle to foundationalists violate?
     - The Principle of Avoiding Circularity speaks to the foundationalist in that there can not be circularity of belief. For example if subject S has justifcation for some x in y, then the ancestral justificatory evidence for y will not contain x. This supports the idea that justification is a linear path as foundationalist assert it to be.

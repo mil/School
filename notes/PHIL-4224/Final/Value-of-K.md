@@ -17,10 +17,40 @@ Zagzebski, The search for the source of epistemic good
             - agent --> action
             - agent --> true belief
             - There is nothing especially valuable about reliability other than it gets us to the truth more frequently
+    - Knowing is related to the knower not as product to machine but as to act agent
+        * achieving knowledge is admirable
+        * there are undesirable true beliefs
+        * agent or subject does something to 
+        * credit given to agent or subject
+            - agent or subject does something to earn the praise or blame that comes with knowledge
+        * leads to creation of hierarhcial foundation for the value of k
+           - 
 
 3.  How does Zagzebski invoke the love of truth to develop an answer to the value problem? Why does she believe that an answer to the value problem simply based on the love of truth is not an adequate answer to the value problem?
+    - Good beliefs are formed based on love of truth
+        * Its good for you = Desirable
+        * It is an important acheivment = Admirable
+    - Explainign the value of knowledge is flowing from the credit the agent gets from the true belief
+        * True belief due to love of truth
+            - Agents actions can 
+    - hierachy:
+            - ~D & ~A --> strong racist predjucice
+            - Two fold:
+                * A & ~D --> wife cheating on you, admirable, not desirable
+                * D & ~A --> cheating on a test, or knowing how to make a nuclear bomb
+            - D & A ---> Any JTB
+    - must go above this heirarchy
+        * D&A that are somehow connected is better than unconnect D & A
+
+        * value of knowledge flow in part from the motive
 
 4.  Describe what Zagzebski calls the New Gettier Problem, based in the value problem. How is it similar to the original Gettier problem? How is it different? Be sure to explain the difference between admirable beliefs and desirable beliefs.
+    - THe new Gettier problem is the difference between sucess through virtue and sucess and virtue.
+        * Fake barn case
+            - Call barn a barn, success and virtue
+    - Appears that you have succes and virtue 
+        * Success and virtue = attributiable to luck
+        * Success through virtue = 
 
 Greco, The value problem
 -------------------------
@@ -30,7 +60,7 @@ Greco, The value problem
         2. Why is knowledge more valuable than true belief?
         3. Why is knowledge more valuable than any subset of its parts?
         4. Why is knowledge more valuable than the value of all of its parts speratly?
-    - (1) is the very broad question which is often referred to as the value problem.  However, (1) typically arises out of our prethoetic conviction that knowledge must be more valuable in some way than true belief. This prehtoetihic idea that knowlege is in fact more valuable than true belief is the topic of the Meno and primarily answered by (2). Further, it seems if an adequete answer could be given to (2), (1) would follow since out of the virtue that knowledge is more valuable than true belief, we would understand why knowledge is valuabled: simply, its more valuable than true belief. Thus, the main question the value problem is concerned with is that of (2).
+    - (1) is the very broad question which is often referred to as the value problem.  However, (1) typically arises out of our pre-thoretic conviction that knowledge must be more valuable in some way than true belief. This prehtoetihic idea that knowlege is in fact more valuable than true belief is the topic of the Meno and primarily answered by (2). Further, it seems if an adequete answer could be given to (2), (1) would follow since out of the virtue that knowledge is more valuable than true belief, we would understand why knowledge is valuabled: simply, its more valuable than true belief. Thus, the main question the value problem is concerned with is that of (2).
     - Another question that arises from the value problem is pointed out by Kvanig in the for of (3). The idea that we should be able to explain the value of knowledge in comparison with any subset of its parts. For example, why is knowledge more valuable than a justified belief is entailed in this question as is why is knowledge more valuable than justified true belief. Additionally, (3) entails, why is knowledge more valuable than justified true belief + some additional criteria.
     - THe fourth question seeks to understand why knowledge is more valuable than the additive value of knowledges parts taken seperatly. For example, when we say a bachelor is an unmmaried man, being unmmaried and being a man both have individual value assignment. The question (4) is concerned with is why is knowledge itself or the combined value of all of the components of knowledge taken together any more valuable than the indivdual added value of ecah component of knowledge (tradtionally contrued as J+T+B).
 
@@ -43,19 +73,33 @@ Greco, The value problem
 
     - This solution is similar to the Gettier problem soutions in that each adhere that we formed true beliefs on good based justification. Each solution to the Gettier problem seeks to affix additional criteria to JTB and thus avoid gettiered TBs. However, regardless while they may not always succceed and a truth-tracking theory or other knowledge theories of the sort may not always succeed they adhere that we use good virtues in 
 
+    -
     
 Sosa, The place of truth in epistemology
 ----------------------------------------
-1.  Sosa isolates four different ways in which beliefs can be valuable by virtue of being true. One of those ways is a way in which all beliefs, merely as true, are valuable. Explain this value of true beliefs and why Sosa thinks that merely accounting for this kind of value of true beliefs is not enough to account for the value of knowledge.
-    - Sosa believes that if the value of true beliefs  is merely in the virtue that they are true any belief that is true is valuable. The problem with this view is that  true beliefs are not valuable in and of themselves but only in answering questions of higher order. For example, one many pick up a handful of sand on the beach and count each grain and at the end wind up with a true belief of the number of grains of sand there were. However, there seems little value in knowing the number of grains of sands and having the truth about this number independent of that belief itself.
+1.  **Sosa isolates four different ways in which beliefs can be valuable by virtue of being true. One of those ways is a way in which all beliefs, merely as true, are valuable. Explain this value of true beliefs and why Sosa thinks that merely accounting for this kind of value of true beliefs is not enough to account for the value of knowledge.**
+    - **Ways in Which Belief can be Valuable**
+        * **Instrinsic**
+            - A belief can be intrinsicly value just out of the virtue that it is a true belief
+        * **Instrumental** (or performance value if you assign value)
+            - A belief can be valuable in term of it being able to generate other true beliefs 
+            - Leads to more true beliefs
+        * **Instric Praxical**
+            - A belief can be valuable in terms of valuing the act of getting at the truth
+            - This may have ties in with eduamonia
+        * **Extrnsic Praxical**
+            - Others may evaluate a belief in term of it being adhering to the truth
+            - That was a good action to take in regards to conforming to the truth
+    - Sosa believes that if the value of true beliefs is merely in the virtue that they are true any belief that is true is valuable. The problem with this view is that  true beliefs are not valuable in and of themselves but only in answering questions of higher order. For example, one many pick up a handful of sand on the beach and count each grain and at the end wind up with a true belief of the number of grains of sand there were. However, there seems little value in knowing the number of grains of sands and having the truth about this number independent of that belief itself.
     - Rather than randomly seeking true beliefs, true is something we seek when we seek out belief. This can be understood by an analogy of eating nutrious food. We all need food and seek out food to stay alive. Furthermore, it is likely we seek out and desire nutrious food over non-nutrious food, however this is only a virtue of eating food to begin with. We do not value nutriousness of food independent of food itself but rather nutriousness is a mere virtue to adhere to. Similarly, truth is not valuable in and of itself but rather valuable in the gerneation of belief. We prefer true beliefs to false beliefs but ultimatly our end goal is mere belief.
+     
 
-2. True beliefs can have what Sosa calls an extrinsic, or instrumental, value.  Explain what this value of true beliefs is and why it alone is not enough to account for the value of knowledge.
+2. **True beliefs can have what Sosa calls an extrinsic, or instrumental, value.  Explain what this value of true beliefs is and why it alone is not enough to account for the value of knowledge.**
     - True beliefs can have instrumental value in that they may cause more true beliefs. For example, if you consider you know the proposition a -> b. Then if you have a true belief of a then you also intuivity will be able to derived toe true belief of b. The reason you are enabled to make this derivation is through the virtue that a and a->b are both true beliefs. Thus, you may conclude that b. The instrumental value of the true beliefs allowed you to connect a & a->b and get another true belief b. Further, the b is valuable just in virtue of being true as is a and a -> b.
     - However, this instrumental value which in lamemans terms lets us derive more instrinsically valuable ture belief from known true beliefs is not alone enought to explain the value of knowledge. Consider a world scenario in wwhere there are 3 events X Y and Z. In one world X Y and Z and casually linked, such that X causes Y which later causes Z. This casual linking is equivilant to the extrinsic value we can note in true beliefs. In the other world X Y and Z are not casually associated but never the less occur independent.
     - In these two worlds, the total value is merely derived from the value of X&Y&Z and since in both worlds since all three events occured it is irrelevant if one caused another. As such, instrumental value cannot in isolation be treated to have value or be virtuous if the thing we instrinsically value is the true beliefs themselves.
 
-3. True beliefs can have what Sosa calls Praxical, intrinsic value. What is this kind of value and, in particular, how is it different from the merely instrumental value a true belief has?
+3. **True beliefs can have what Sosa calls Praxical, intrinsic value. What is this kind of value and, in particular, how is it different from the merely instrumental value a true belief has?**
     - If you assume that some agent S performs some action that brings about E. E is indpendetnly intrinsically valuable in its own right. S's bring about E has value in that it is instrumental, however S's action bringing about E also has praxical value. The praxical value is the intrinsic value in the action itself.
     - Unlike in the two worlds example, in the world casually connected there may not be more instrinsic value in the events themselves there is instrinic value in the actions. This value is the praxical value that can be attributed to the agent performing the action. As such when somebody comes upon a true belief through some actions, those actions themself are virtuous independent of the value of the true belief. THis is what seperates praxical value from instrumental value.
     - Instrumental value is only valuable in virtue of the instrisic value of the end event. However, praxical value is the notion that there is value in the action itself. This value can be assigned to the agent and is of higher worth than mere instrumental value.
@@ -66,6 +110,7 @@ Sosa, The place of truth in epistemology
     - Performance value is value of performances of agents that is double faced. Performance value is evaluated in terms of the outcome of the performance and in addition to the agent involved in the formance. Credible performances are attributable to the agents skills and vritues and thus attributed to the agent ultimatly.
     -  Consider a man who forms the belief that he is thinking, p. Now consider two worlds, one in which the man forms this belief because he is actually thinking and the world is as it appears to him. Alternativly consider that the man's thought is just a brain in a vat case. Someone stimulated him to believe this. In this second case we would credit the performance value of the man to be of equal worth to that of the man in the first case. However, in the second case, regardless of the performance value there is less value in terms of knowledge.
     - This has wide implications for epistemology and furthermore it just points back to the idea our knowledge fundamentall will have no value without extrinsic value. There is no epistemic intrinsic value to our epistemic knowledge outside of performance value.
+    - Performance value of eliverance induced believng, measuerd by how well of 
 
 Brady, Evaluative attitudes
 ---------------------------
