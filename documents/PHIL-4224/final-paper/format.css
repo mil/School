@@ -13,7 +13,7 @@
 
   @top {
     text-align: right;
-    content: counter(page);
+    content: "Sandlar " counter(page);
   }
 }
 
