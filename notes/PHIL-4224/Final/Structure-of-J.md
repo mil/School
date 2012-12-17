@@ -13,13 +13,17 @@ BonJour, Can empirical knowledge have a foundation?
     - Alternatively under strong foundationalism there is the idea that a set of baisc beliefs may have some feature or property X which ground all basic beliefs. Any belief with property X may thus be said to be a basic belief. These basic beliefs need not much justified any further and all other beliefs may build upon them. Not so much epistemic as it is law.
 
 3.  **BonJour argues that the foundationalist cannot actually solve the regress problems using basic beliefs. Explain his argument.**
-    - In both cases mentioned before: the law like connection and the cognitive giveness, they are both insufficient and unsound groundings for knowledge. They end epistemic justification regress problem with ad-hoc solution. Sosa gives several arguments to the effect that the coherentist critique fails because of its reliance on the Intellectual Model of Justification. Explain at least one of those arguments.
-    - If we assume the intellectual model of justification is detrimental for functionalism that further we must accept that any normative theory of epistmology is un-achievable. Since propositional attitudes can justify propositional attitudes ad no more, how do we say what this set of propositional attitudes supervenes on.
+    - In both cases mentioned before: the law like connection and the cognitive giveness, they are both insufficient and unsound groundings for knowledge. They end epistemic justification regress problem with ad-hoc solution. 
     - There are no ways to distinguish between cognitive given believes and epistemically concerned beliefs. Without a clear distinction between these two types of beliefs, there seems to be little true grounding for foundationalism.
     - They both resort to solve the epistemic justification problem by simply saying: at no point further epistemic justification is necessary. At this point, justification can take several forms but either way they just fall back into the pitfalls of skepticism.
-    - What is supervenience?
-
-
+    - Furthermore, Cognitive givenist  is a myth:
+        * If intuitions or immediate apprehensions construed as cognitive, 
+            - Then will be both capable of giving justificationand in need of it themselves
+            - *Thus*: Cognition cannot stand alone for we need some sort of grounding for our cognition
+        * If intuitions or immediate apprehensensions *not* construed as cogntiive
+            - Then cognitive giveness is not needed to provided justification but also incapable or provoding it
+            - *Thus*: Will be impossible to say what *is* a basic belief
+        * Thus: Either Way.... Cognitive Giveness is a Myth
 
 Davidson, A coherence theory of knowledge and justification
 -------------------------------------------------------------
