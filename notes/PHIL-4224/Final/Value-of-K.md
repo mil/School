@@ -4,50 +4,58 @@ The Value of Knowledge
 Zagzebski, The search for the source of epistemic good
 -------------------------------------------------------
 1.  **What is the value problem of knowledge? Why does reliabilism offer a particularly bad answer to the value problem?**
-    - The value problem is that we want to be able to distinguish what is the value of a justified true belief (or knowledge) and mere true belief. An example of this is say you are taking a multiple choice test and in one scenario you studied and correctly answer all the questions by applying you knowledge to the test. In another scenario you simply guess each question randomly, but as it turns out, you get every question right on the test. Why is there more value in having knowledge of the answers here than having the mere true belief for each answer?
-    - Reliablism  attempts to solve this problem by asserting that reliably held believes on a more frequenty or reliable scale deliver more true beliefs. However, Zagzebski points out that truth plus a mere independtly valuable source cannot explain the value of knowledge itself. IN analogy, imagine two coffee machines, one is a $5000 premium exclusive coffee machines that exclusivly spit out the best cups of coffee you drink in your life. Then imagine another coffee machine that spits out some pretty horribly tasting coffe but every once in a while spits out a coffee equiivlant to the one from the $5000 machine. In this instance, is there any difference between the value of two coffees that are identical in composition and from from the two different machines?
-    - The point is that a indepedntly valuable source (or a reliable mechanism) coupled with a TB does not explain the value of knowledge. Further, this disconnect of value is derived from the machine product model of knowledge. I.E TB + J = K. Justification is the machine that transforms an unvaluable TB into valuable K. Cognitive methods as seen as justificatory to reliablism fail to make the Truebelief better in any way.
+    - The value problem is that we want to be able to distinguish what is the value of a justified true belief (or knowledge) over mere true belief. An example of this is say you are taking a multiple choice test and in one scenario you studied and correctly answer all the questions by applying you knowledge to the test. In another scenario you simply guess each question randomly, but as it turns out, you get every question right on the test. Why is there more value in having knowledge of the answers than having the mere true belief for each answer?
+    - Reliablism  attempts to solve this problem by asserting that reliably held beliefs a more frequently or reliably deliver true beliefs than merely seeking out true beliefs. However, Zagzebski points out that truth plus an independently valuable source cannot explain the value of knowledge itself. In analogy, imagine two coffee machines, one is a $5000 premium exclusive coffee machines that exclusively spit out the best cups of coffee you drink in your life. Then imagine another coffee machine that spits out some pretty horribly tasting coffee but every once in a while spits out a coffee equivalent to the one from the $5000 machine. In this instance, is there any difference between the value of two coffees that are identical in composition and from from the two different machines?
+    - The point here is that an independently valuable source (or a reliable mechanism) coupled with a TB does not explain the value of knowledge. Further, this disconnect of value is derived from the machine product model of knowledge. I.E TB + J = K. Justification is the machine that transforms an invaluable TB into valuable K. Cognitive methods as seen as justificatory to reliablism fail to make the true belief better in any way.
+    - In the machine product model as proposed by reliablism: the product is distinct from the machine and this disconnect makes it so the value of each is evalutated speartly. If we just evaluate the value of the TB in the end, reliably formed TBs are no different from non reliably formed TB is mere value.
 
 2.  **Zagzebski draws three morals of the value problem. Explain each moral, using examples to illustrate the morals.**
-    - The first moral is that truth plus a reliable source cannot explain knowledge.
+    - Moral #1: *Truth plus a reliable source cannot explain knowledge.*
         * Reliable methods in forming belief do not make the actual true beliefs any better.
         * If there are two espresso machines....
-    - The second moral is that: **Truth plus an independently valuable source cannot explain the value of K**
+            - Mainly the disconnect between the machine and the product is relevant here
+    - Moral #2: *Truth plus an independently valuable source cannot explain the value of K*
         * Reliability is not good indpendent of everything else
-            - agent --> action
-            - agent --> true belief
+            - Agent --> action (is to)
+            - Agent --> true belief
             - There is nothing especially valuable about reliability other than it gets us to the truth more frequently
+        * The reliablity of the machine doesn't give a shit about the product itself
     - The third moral is: **Knowing is related to the knower not as product to machine but as to act agent**
-        * achieving knowledge is admirable
-        * there are undesirable true beliefs
-        * agent or subject does something to 
-        * credit given to agent or subject
-            - agent or subject does something to earn the praise or blame that comes with knowledge
-        * leads to creation of hierarhcial foundation for the value of k
+        * Achieving knowledge is admirable
+        * There are undesirable true beliefs
+        * Agent or subject does something to credit given to agent or subject
+            - Agent or subject does something to earn the praise or blame that comes with knowledge
+        * Leads to creation of hierarhcial foundation for the value of k
+        * *Thus:* We should view Knower to TB as not *Machine/Product* but as *Agent/Act*
 3.  **How does Zagzebski invoke the love of truth to develop an answer to the value problem? Why does she believe that an answer to the value problem simply based on the love of truth is not an adequate answer to the value problem?**
-    - Good beliefs are formed based on love of truth
+    - Good beliefs are formed based on love of truth (eudamonia)
         * Its good for you = Desirable
         * It is an important acheivment = Admirable
-    - Explainign the value of knowledge is flowing from the credit the agent gets from the true belief
+    - Explaining the value of knowledge is flowing from the credit the agent gets from the true belief
         * True belief due to love of truth
-            - Agents actions can 
-    - hierachy:
-            - ~D & ~A --> strong racist predjucice
-            - Two fold:
-                * A & ~D --> wife cheating on you, admirable, not desirable
-                * D & ~A --> cheating on a test, or knowing how to make a nuclear bomb
-            - D & A ---> Any JTB
-    - must go above this heirarchy
+    - Value Hierachy of TBs:
+        * ~D & ~A --> strong racist predjucice
+        * Two fold:
+            * A & ~D --> wife cheating on you, admirable, not desirable
+            * D & ~A --> cheating on a test, or knowing how to make a nuclear bomb
+        * D & A ---> Any JTB
+    - However, We must go above this heirarchy to explain  K's value
         * D&A that are somehow connected is better than unconnect D & A
-        * value of knowledge flow in part from the motive
+        * Value of knowledge flow in part from the motive
+            - Value of Actor (Eudamonia) --flows to--> Value of Act ---flows to---> Value of TB
+            - Value of actor must be question
+                * In here is the desirability and admirability
 
 4.  **Describe what Zagzebski calls the New Gettier Problem, based in the value problem. How is it similar to the original Gettier problem? How is it different? Be sure to explain the difference between admirable beliefs and desirable beliefs.**
-    - THe new Gettier problem is the difference between sucess through virtue and sucess and virtue.
+    - The new Gettier problem is the difference between success through virtue and success and virtue.
         * Fake barn case
             - Call barn a barn, success and virtue
     - Appears that you have succes and virtue 
-        * Success and virtue = attributiable to luck
-        * Success through virtue
+        * Success and virtue = can be attributiable to luck
+        * Success through virtue cannot be attributed to luck
+            - In Gettier case you may have a desirable belief that was formed admirably, however the two are not connected
+            - The desirable component of the belief is not adirmable?
+            - [[[Need to figure out how these are related]]]
 
 Greco, The value problem
 -------------------------
@@ -85,14 +93,14 @@ Sosa, The place of truth in epistemology
         * **Extrnsic Praxical**
             - Others may evaluate a belief in term of it being adhering to the truth
             - That was a good action to take in regards to conforming to the truth
-    - Sosa believes that if the value of true beliefs is merely in the virtue that they are true any belief that is true is valuable. The problem with this view is that  true beliefs are not valuable in and of themselves but only in answering questions of higher order. For example, one many pick up a handful of sand on the beach and count each grain and at the end wind up with a true belief of the number of grains of sand there were. However, there seems little value in knowing the number of grains of sands and having the truth about this number independent of that belief itself.
-    - Rather than randomly seeking true beliefs, true is something we seek when we seek out belief. This can be understood by an analogy of eating nutrious food. We all need food and seek out food to stay alive. Furthermore, it is likely we seek out and desire nutrious food over non-nutrious food, however this is only a virtue of eating food to begin with. We do not value nutriousness of food independent of food itself but rather nutriousness is a mere virtue to adhere to. Similarly, truth is not valuable in and of itself but rather valuable in the gerneation of belief. We prefer true beliefs to false beliefs but ultimatly our end goal is mere belief.
+    - Sosa believes that if the value of true beliefs is merely in the virtue that they are true, any belief that is true is valuable. The problem with this view is that true beliefs are not valuable in and of themselves but only in answering questions of higher order. For example, one many pick up a handful of sand on the beach and count each grain and at the end wind up with a true belief of the number of grains of sand there were. However, there seems little value in knowing the number of grains of sands and having the truth about this number independent of that belief itself.
+    - Rather than randomly seeking true beliefs, truth is something we seek when we seek out belief. This can be understood by an analogy of eating nutrious food. We all need food and seek out food to stay alive. Furthermore, it is likely we seek out and desire nutrious food over non-nutrious food, however this is only a virtue of eating food to begin with. We do not value nutritiousness of food independent of food itself but rather nutritiousness is a mere virtue to adhere to. Similarly, truth is not valuable in and of itself but rather valuable in the generation of belief. We prefer true beliefs to false beliefs but ultimately our end goal is mere belief.
      
 
 2. **True beliefs can have what Sosa calls an extrinsic, or instrumental, value.  Explain what this value of true beliefs is and why it alone is not enough to account for the value of knowledge.**
-    - True beliefs can have instrumental value in that they may cause more true beliefs. For example, if you consider you know the proposition a -> b. Then if you have a true belief of a then you also intuivity will be able to derived toe true belief of b. The reason you are enabled to make this derivation is through the virtue that a and a->b are both true beliefs. Thus, you may conclude that b. The instrumental value of the true beliefs allowed you to connect a & a->b and get another true belief b. Further, the b is valuable just in virtue of being true as is a and a -> b.
-    - However, this instrumental value which in lamemans terms lets us derive more instrinsically valuable ture belief from known true beliefs is not alone enought to explain the value of knowledge. Consider a world scenario in wwhere there are 3 events X Y and Z. In one world X Y and Z and casually linked, such that X causes Y which later causes Z. This casual linking is equivilant to the extrinsic value we can note in true beliefs. In the other world X Y and Z are not casually associated but never the less occur independent.
-    - In these two worlds, the total value is merely derived from the value of X&Y&Z and since in both worlds since all three events occured it is irrelevant if one caused another. As such, instrumental value cannot in isolation be treated to have value or be virtuous if the thing we instrinsically value is the true beliefs themselves.
+    - True beliefs can have instrumental value in that they may cause more true beliefs. For example, if you consider you know the proposition a -> b. Then if you have a true belief of a then you also intuitively will be able to derived the true belief of b. The reason you are enabled to make this derivation is through the virtue that a and a->b are both true beliefs. Thus, you may conclude that b. The instrumental value of the true beliefs allowed you to connect a & a->b and get another true belief b. Further, the b is valuable just in virtue of being true as is a and a -> b.
+    - However, this instrumental value which in lamemans terms lets us derive more intrinsically valuable true belief from known true beliefs is not alone enough to explain the value of knowledge. Consider a world scenario in where there are 3 events X Y and Z. In one world X Y and Z and casually linked, such that X causes Y which later causes Z. This casual linking is equivalent to the extrinsic value we can note in true beliefs. In the other world X Y and Z are not casually associated but never the less occur independent.
+    - In these two worlds, the total value is merely derived from the value of X&Y&Z and since in both worlds since all three events occurred it is irrelevant if one caused another. As such, instrumental value cannot in isolation be treated to have value or be virtuous if the thing we intrinsically value is the true beliefs themselves.
 
 3. **True beliefs can have what Sosa calls Praxical, intrinsic value. What is this kind of value and, in particular, how is it different from the merely instrumental value a true belief has?**
     - If you assume that some agent S performs some action that brings about E. E is indpendetnly intrinsically valuable in its own right. S's bring about E has value in that it is instrumental, however S's action bringing about E also has praxical value. The praxical value is the intrinsic value in the action itself.
