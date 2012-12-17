@@ -20,7 +20,7 @@ Zagzebski, The search for the source of epistemic good
             - Agent --> true belief
             - There is nothing especially valuable about reliability other than it gets us to the truth more frequently
         * The reliablity of the machine doesn't give a shit about the product itself
-    - The third moral is: **Knowing is related to the knower not as product to machine but as to act agent**
+    - The third moral is: *Knowing is related to the knower not as product to machine but as to act agent*
         * Achieving knowledge is admirable
         * There are undesirable true beliefs
         * Agent or subject does something to credit given to agent or subject
