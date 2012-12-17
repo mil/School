@@ -3,12 +3,12 @@ The Value of Knowledge
 
 Zagzebski, The search for the source of epistemic good
 -------------------------------------------------------
-1.  What is the value problem of knowledge? Why does reliabilism offer a particularly bad answer to the value problem?
+1.  **What is the value problem of knowledge? Why does reliabilism offer a particularly bad answer to the value problem?**
     - The value problem is that we want to be able to distinguish what is the value of a justified true belief (or knowledge) and mere true belief. An example of this is say you are taking a multiple choice test and in one scenario you studied and correctly answer all the questions by applying you knowledge to the test. In another scenario you simply guess each question randomly, but as it turns out, you get every question right on the test. Why is there more value in having knowledge of the answers here than having the mere true belief for each answer?
     - Reliablism  attempts to solve this problem by asserting that reliably held believes on a more frequenty or reliable scale deliver more true beliefs. However, Zagzebski points out that truth plus a mere independtly valuable source cannot explain the value of knowledge itself. IN analogy, imagine two coffee machines, one is a $5000 premium exclusive coffee machines that exclusivly spit out the best cups of coffee you drink in your life. Then imagine another coffee machine that spits out some pretty horribly tasting coffe but every once in a while spits out a coffee equiivlant to the one from the $5000 machine. In this instance, is there any difference between the value of two coffees that are identical in composition and from from the two different machines?
     - The point is that a indepedntly valuable source (or a reliable mechanism) coupled with a TB does not explain the value of knowledge. Further, this disconnect of value is derived from the machine product model of knowledge. I.E TB + J = K. Justification is the machine that transforms an unvaluable TB into valuable K. Cognitive methods as seen as justificatory to reliablism fail to make the Truebelief better in any way.
 
-2.  Zagzebski draws three morals of the value problem. Explain each moral, using examples to illustrate the morals.
+2.  **Zagzebski draws three morals of the value problem. Explain each moral, using examples to illustrate the morals.**
     - The first moral is that truth plus a reliable source cannot explain knowledge.
         * Reliable methods in forming belief do not make the actual true beliefs any better.
         * If there are two espresso machines....
@@ -17,16 +17,14 @@ Zagzebski, The search for the source of epistemic good
             - agent --> action
             - agent --> true belief
             - There is nothing especially valuable about reliability other than it gets us to the truth more frequently
-    - Knowing is related to the knower not as product to machine but as to act agent
+    - The third moral is: **Knowing is related to the knower not as product to machine but as to act agent**
         * achieving knowledge is admirable
         * there are undesirable true beliefs
         * agent or subject does something to 
         * credit given to agent or subject
             - agent or subject does something to earn the praise or blame that comes with knowledge
         * leads to creation of hierarhcial foundation for the value of k
-           - 
-
-3.  How does Zagzebski invoke the love of truth to develop an answer to the value problem? Why does she believe that an answer to the value problem simply based on the love of truth is not an adequate answer to the value problem?
+3.  **How does Zagzebski invoke the love of truth to develop an answer to the value problem? Why does she believe that an answer to the value problem simply based on the love of truth is not an adequate answer to the value problem?**
     - Good beliefs are formed based on love of truth
         * Its good for you = Desirable
         * It is an important acheivment = Admirable
@@ -41,20 +39,19 @@ Zagzebski, The search for the source of epistemic good
             - D & A ---> Any JTB
     - must go above this heirarchy
         * D&A that are somehow connected is better than unconnect D & A
-
         * value of knowledge flow in part from the motive
 
-4.  Describe what Zagzebski calls the New Gettier Problem, based in the value problem. How is it similar to the original Gettier problem? How is it different? Be sure to explain the difference between admirable beliefs and desirable beliefs.
+4.  **Describe what Zagzebski calls the New Gettier Problem, based in the value problem. How is it similar to the original Gettier problem? How is it different? Be sure to explain the difference between admirable beliefs and desirable beliefs.**
     - THe new Gettier problem is the difference between sucess through virtue and sucess and virtue.
         * Fake barn case
             - Call barn a barn, success and virtue
     - Appears that you have succes and virtue 
         * Success and virtue = attributiable to luck
-        * Success through virtue = 
+        * Success through virtue
 
 Greco, The value problem
 -------------------------
-1.  Greco carefully separates out four different questions that one might pose as the "value problem" in epistemology. Explain each question and how it differs from the other.
+1.  **Greco carefully separates out four different questions that one might pose as the "value problem" in epistemology. Explain each question and how it differs from the other.**
     - The four questions are
         1. Why is knowledge valuable?
         2. Why is knowledge more valuable than true belief?
@@ -64,17 +61,15 @@ Greco, The value problem
     - Another question that arises from the value problem is pointed out by Kvanig in the for of (3). The idea that we should be able to explain the value of knowledge in comparison with any subset of its parts. For example, why is knowledge more valuable than a justified belief is entailed in this question as is why is knowledge more valuable than justified true belief. Additionally, (3) entails, why is knowledge more valuable than justified true belief + some additional criteria.
     - THe fourth question seeks to understand why knowledge is more valuable than the additive value of knowledges parts taken seperatly. For example, when we say a bachelor is an unmmaried man, being unmmaried and being a man both have individual value assignment. The question (4) is concerned with is why is knowledge itself or the combined value of all of the components of knowledge taken together any more valuable than the indivdual added value of ecah component of knowledge (tradtionally contrued as J+T+B).
 
-2.  Explain which questions about the value of knowledge need not be answered by an account of knowledge and why.
+2.  **Explain which questions about the value of knowledge need not be answered by an account of knowledge and why.**
     - An account of knowledge according to Greco need not be concerned with (3) or (4) because doing so has no value outside of pretheoretic conviction. Simpy, wondering about the answers to (3) or (4) is not something we naturally are curious to discover. These questions are only visible in the overt and initentional pretheorethical analysis of knowoedge. Put simply, they only arise out of the over analysis of (2) leading to the overanalysis of (1).
     - However, (2) and (1) are perfectly reasonable questions to be asking. (2) is reasonable because we naturally think that knowledge is more valuable than true belief and we wish to expalin this difference. (1) is a good question to ask because it is just a more generally rendering of (1) and possibly can stand independent of (1). 
 
 3.  What is Greco’s proposed solution to the value problem? How, in particular, is it similar to certain kinds of solutions to the original Gettier problem? Be sure to use examples to illustrate Greco’s solution.
     - Greco proposes that we invoke a sort of succes through virtue in order to solve the value problem. Knowledge is valuable because it is instristinclly good and constitiutive of human flourishing. Seeking true beliefs and avoiding false beliefs is such that we are searching for knowledge rather than just true beliefs. Flipping a coin and hoping you get a true belief is not constitutive of human flourishing and a "love" or virtue of knowledge. This is the added value of knowledge over true beliefs. Knowledge can be sought after, it is inteional, and virtous. On the contrary just having true beliefs is not virtous and it is questionable wheterh one can ever seek true beliefs in such manner without invoking a success through virtue.
-
     - This solution is similar to the Gettier problem soutions in that each adhere that we formed true beliefs on good based justification. Each solution to the Gettier problem seeks to affix additional criteria to JTB and thus avoid gettiered TBs. However, regardless while they may not always succceed and a truth-tracking theory or other knowledge theories of the sort may not always succeed they adhere that we use good virtues in 
-
-    -
     
+
 Sosa, The place of truth in epistemology
 ----------------------------------------
 1.  **Sosa isolates four different ways in which beliefs can be valuable by virtue of being true. One of those ways is a way in which all beliefs, merely as true, are valuable. Explain this value of true beliefs and why Sosa thinks that merely accounting for this kind of value of true beliefs is not enough to account for the value of knowledge.**
@@ -106,7 +101,7 @@ Sosa, The place of truth in epistemology
     - Archer EX
     - Instrnsic praxical = truth attributed to agent bringing out the truth
 
-4. Sosa claims that even false beliefs can have what he calls Performance Value.  What is performance value? What light does it shed on the value of knowledge, if any?
+4. **Sosa claims that even false beliefs can have what he calls Performance Value.  What is performance value? What light does it shed on the value of knowledge, if any?**
     - Performance value is value of performances of agents that is double faced. Performance value is evaluated in terms of the outcome of the performance and in addition to the agent involved in the formance. Credible performances are attributable to the agents skills and vritues and thus attributed to the agent ultimatly.
     -  Consider a man who forms the belief that he is thinking, p. Now consider two worlds, one in which the man forms this belief because he is actually thinking and the world is as it appears to him. Alternativly consider that the man's thought is just a brain in a vat case. Someone stimulated him to believe this. In this second case we would credit the performance value of the man to be of equal worth to that of the man in the first case. However, in the second case, regardless of the performance value there is less value in terms of knowledge.
     - This has wide implications for epistemology and furthermore it just points back to the idea our knowledge fundamentall will have no value without extrinsic value. There is no epistemic intrinsic value to our epistemic knowledge outside of performance value.
@@ -114,14 +109,14 @@ Sosa, The place of truth in epistemology
 
 Brady, Evaluative attitudes
 ---------------------------
-1.  What is the distinction that Brady draws between Acitve and Passive Evaluative Attitudes?
+1.  **What is the distinction that Brady draws between Acitve and Passive Evaluative Attitudes?**j
     - Brady draws a distinction between active and passive evaluative attitues. An active evaluative attitude are attitudes that are formed intentionally with adherence to virtues in mind. Examples of these attitudes include verbs such as: bring about, mainting, contemplating, protecting, guarding, so on and so forth. These active attitudes are many of the possible ways in which we can love or value the truth. The relevant point is that active evaluative attitudes are true seeking and motivated positivly in the pursuit of the truth.
     - Active evaluative attitudes are put in contrast with passive evaluative attitudes. Passive evluative attittudes are contemplative attitudes such as acceptance, affirm, embrace, respect, and so on and so forth. These attitudes have less value in that they are less goal or pursuit oriented toward the truth.
 
-2.  Brady draws a distinction between active and passive evaluative attitudes. He then uses that distinction to argue that reliabilism can solve the value problem of in epistemology. Explain his argument.
+2.  **Brady draws a distinction between active and passive evaluative attitudes. He then uses that distinction to argue that reliabilism can solve the value problem of in epistemology. Explain his argument.**
     - Brady argues that only active attitudes are conducive toward the epistemic goal of seeking the truth. To this he adds that active attitudes may be used to form reliably-formed true beliefs (RTB) however active attitudes cannot be used to form accidentially formed true beliefs (ATB). Accidentially formed true beliefs come about passivly. It would be absurd to say you have a love or a pursuit toward ATB formed purely through randomly stumbling upon the truth.
     - Thus, while RTB can be virtuous in a sense, ATB cannot possess these same virtues. Thus, the value of RTB is greater than the value of ATB. In this way we seek knowledge as defined as reliably formed true beliefs  in contrast.
 
-3.  Brady considers three objections to his argument that reliabilism can solve the value problem in epistemology. Pick on one of these objections and explain (i) the objection and (ii) how Brady responds to the objection.
+3.  **Brady considers three objections to his argument that reliabilism can solve the value problem in epistemology. Pick on one of these objections and explain (i) the objection and (ii) how Brady responds to the objection.**
     - One objection Brady offers is that it seems obvious that we should value RTB over ATB, however what about in the case of Gettier (GTB). It may be the case that we value RTB and activly go about our persuit of the truth but we wind up with GTBs which we shouldn't value any higher than ATBs.
     - Brady's response to this problem is that GTBs are unlike ATBs and RTBs all together in that we cannot seek out anamoulous or lucky factors leading to GTBs. Further, it may be that a GTB is no more valuable than an ATB. However, what we can do is seek out RTBs which are naturally of a more appropriate active evaluative attitude.
