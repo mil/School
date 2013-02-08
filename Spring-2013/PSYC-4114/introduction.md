@@ -152,3 +152,93 @@ Introduction to Cognitive Psychology
     * Detailed study of congition in everyday (non-laboratory) situations
     * Useful for hypothesis formulation (vs. testing)
         - Monitor decision making of pilots during flights
+- Case Studies
+    * Intesive studies of individuals
+        - May examine archival record, inteviews, direct observation, or participant-observation
+            * **Craetivity of successful individuals**
+            * **The deficits of a neglected child**
+            * **The most famous cognitive case study?**
+                - H.M (Henry Gustav Molaison)
+                - Age 27: Bilateral lobectomy for severe seizures. Hippocampus damaged -- anterograde amnesia
+                - Studied 55 Years! Died in 2008.
+- Computers & Cognitive Research
+    * Computers as analogy for _human_ cognition
+        - The _sequence_ of _symbol manipulation_ that unerlies **thinking**
+        - Goal : Discovery of the programs in *human* memory * other mental processes
+    * Computer simulations of **Artificial Intelligence**
+        - Recreate _human mental processes_ using computers
+            * **Eg manipulate objects in 3D space; pattern recognition
+- Recap: Some Underlying Themes
+    * Nature vs. Nurture
+        - Genes/Biology and enviroment influence cognition
+    * Rationalist cs. EMpericism
+        - Logical resasoning/theory and observation/experience/testing
+    * Structure vs. Processes
+        - Elements/content of mind and how they operate
+    * Domain Generality vs. Domain Specificity
+        - Processes relevant to multiple domains (e.g intellegence) vs. Fodor's "modularity" of mind (seperatre linguistic vs. perceptual processes)
+    * Causal Inferences vs. Ecological Validity
+        - E.g Internal Validity of experiemnts vs/. Ecological validity of case studies & naturalistic obs (see Table 1.1 Text)
+    * Applied vs. Basic Research
+        - **Basic**: Goal is discovery; to understand, satify curisity, expand our knowledge
+            * Although.. Baisc reaearch often leads to important applications
+                - But often there's no forseeable praticual use when conducted
+        - **Applied**: Goal is pragmatic; to create, invent, solve a pratical problem
+            * Often contirbutes to a more **basic** understandinf of cognition
+                -  Priming is explained by spreading activation in memory (basic)
+                    * Also expalins why skilled readers may read faster (application)
+    * Biological vs. Behavioral Methodology
+- Key Ideas in Cognitive...
+    * Data can only be fully explained with theories, and theories are insufficient without data, thus creating the ctycle of 
+    * Cognition is typically adaptive
+        - But erroes humans regularly make can be informative
+        - Example: Spoonerisms
+            * A "lack of pies" ( A pack of lies)
+            * Its "roaring with pain" (Its pouring with rain)
+            * Systematic (non-random)
+                - Hmm. what might this usggest about cognition of language and speech production?"
+    * Cogntiive processes **interact** with each other and with non-cognitive processes
+        - Emotions may affect decisions
+        - You learn better when you're motivated to learn
+        - Working memory capacity contributes to reading speed
+        - Brain Biology affects Cognitiion
+        - Cognition (e.g learning) affects brain biology
+    * Cognition and Intelligence
+        - Intelligence
+            * An integrating ("umbrella") psychological construct
+                - Ties together much research in cogntivie psychologi
+            * Involoves:
+                - The capacity to learn from experience, using metacognitive processes to enhance learning
+                - The ability to adapt to the surrounding enviroment
+            * Psychometric Approach to Intelligence
+                - IQ Tests
+                - Weschler: WASI, WISC, WAIS
+                - Standord Binet
+- Cognitive Models of Intelligence
+    * Three Stratum Model of Inelligence
+        - "Cattell-Horn-hCarroll Theory"
+        - Hierarchy of Contiive Abilities within 3 Stata
+            * Stratum I: Specigic Abilities (e.g Spelling ability)
+            * Stratum II: Broad Abilities (e.g fluid and crystallized intelligence)
+            * Stratum III: Generalized Intelligence ("g")
+        - Fluid Intelligence = Speed & Accuracy of abstract reasoning, novel problem solving
+        - Crystallized Intelligence = Accumulated knowledge & vocuabulary
+        - Also: Quant reasoning, Reading/writing ability, storage/retriveal/ visual & auditory processing, processing speed, decision/ reacion time
+    * Theory of Mutliple Itellgiences
+        - Gardner
+        - Claims 8 distinct, independent intelligences
+        - Modular but can interact
+            * Linguistic
+            * Logical-mathematical
+            * Spatial
+            * Musical
+            * Body-Kinesthic
+            * Interpersonal
+            * Intrapersonal
+            * Naturalist
+        - IQ Tests address only linguistic , logic, and spacial aspects
+        - Evidence: exceptional individual, lesions destroy 1 type, core operatoins for each type (vs. factor analysis of psychometric tests)
+        - Not well-established; untested, may be unfalsifiable
+    * Triarchic Theory of Intelligence
+        - Sternberg
+        - INtelligence constsis of creative, analytical, and pratical abilities
