@@ -1,6 +1,6 @@
 Chapter 2 - Cognitive Neuroscience
 ==================================
-- The Scientific Study of Biological Substrates underlying Cognition
+- The _Scientific_ Study of Biological Substrates underlying Cognition
     * (neural basis of mental processes)
     * Possible levels of analysis:
         - Genes, bio/neuro, cognitive, behavior, enviroment
@@ -111,9 +111,9 @@ Chapter 2 - Cognitive Neuroscience
             * Found right hemisphere also contributes to phoneme (language sounds) perception early in life
     * Martha Ann Bell's CAP Lab:
         - Examining working memory * emotional regulation across development -- here at VT
-- Brain Imaging Techniques
-    * Relativly non-invasive view of living brain
-    * Two types:
+- **Brain Imaging Techniques**
+    * Relatively non-invasive view of living brain
+    * Two types: Structural and MRI
         - Structural: shows nueroanatomy, static picture
             * CAT (Computerized Axial Tmography)
                - Cat Scan = "X ray CT"
@@ -134,9 +134,9 @@ Chapter 2 - Cognitive Neuroscience
                 - Magnets prclude metal in body (pacemakers)
                     * must lie still in small tunnel
                     * Expensive
-        - Functional: show brain activity during a task
+        - **Functional**: show brain activity during a task
             * PET, fMRI
-            * Functional (Metabolic Imagin: Positron Emission Tomography (PET)
+            * Functional - Metabolic Imaging: Positron Emission Tomography (PET)
                 - Radioactive amterial (oxygen or glucose) is injected or inhaled
                 - Blood flow or radioactive glucose consumtpion (metabolism) in brain measured
                     * More active regions consume more glucose (and oxygen)
@@ -144,5 +144,161 @@ Chapter 2 - Cognitive Neuroscience
                     * High IQ linked to less glucose use on cog. demanding tasks (efficeincy)
                     * Older (1970s), expensive, limited temporal resolution (1.5 minutes to an hour)
                     * SPEC (single-photon emission computed tomography) similar but cheaper than PET
-
-
+                - Now one of most popular ways to study brain activation
+                - Measures changes in _magnetic properties_ of blood as hemoglobin becomes deosygenated
+                    * Like PET but no radioactive particles
+                    * Magnet induces changes in osygen atoms
+                    * Shows areas with less oxygen (i.e consumed)
+                - Brain areas with more _blood flow_ have better visibility on MRI images
+                    * Correlates with brain activation during a task
+                - Less invasive & higher temporal resolution than PET
+                - But more costly ($ and time)
+- **Anatomy of the Brain**
+    * **Forebrain**
+        - Cerebral Cortex
+            * Thin layer of brain, barkish
+            * **Contralaterality**: 
+                - Right side of brain controls left side of body
+                - Left side of brain controls right side of body
+            * Corpus Callosum
+                - Neural fibers connecting left and right hemispheres
+                - Allows comminication between two sides of brain
+            * Localization of Function  
+                - Specific mental _processes_ are correlated with descrete _regions_ of the brain (Fodor's modularity)
+                - Hemisphereic Lateralitzation / Specialization
+            * Lobes:
+                - Frontal: Reasoning & Planning
+                - Parietal: Touch, Temperature, Pain, & Pressure
+                - Temporal: Auditory & Perceptual Processing
+                - Occipital: Visual processing
+        - Basal Ganglia
+        - Limbic System
+        - Thalamus
+        - Hypothalamus
+    * **Midbrain**
+        - Extends from the ponts to the lower portion of the thalamus
+        - Connects spinal cord and forebrain
+        - Parts
+            * Brainstem (RAS)
+                - Function: attention, arousal, and conciousness
+            * Reticular Activating System (RAS; reticular formation)
+                - Located in brain stem
+                - Function: regulates attention, consciousness (arousal/alerness & sleep); cardio-repiratory functions, movement
+            * Substaintia Nigra
+                - Function: Control of body movement
+                - Degreneration of DA - producing neurons produces Parkinson's diseas
+    * **Hindbrain**
+        - Medulla Oblongata
+            * Breathing, Swalloing, and Digestion
+        - Pons
+            * Relay station ( crossover info from left side of body to right side of brain & visa versa)
+        - Cerebellum
+            * Motor coordination, posture, and maintaining balance
+    * **Hemispheric Specialization**
+        - **Left** Hemisphere
+            * Language functions (pseech, song)
+                - >90% of people
+                    * (<10% are bilaterized or R. hem dominant)
+            * Logical thought (writing, logic)
+            * Purposeful movement
+                - Apraxia = disorder of skilled movement
+            * **Wernicke's Area
+                - Speech **comprehension**
+                - Wenick'es Aphasia: Fluent but nonsensical speech (lexical and gramatical errors)
+                - AKA: receptive, fluent and sensory aphasia
+            * **Broca's Area**
+                - Dax's area? (Dax discovered it)
+                - Speech **production**
+                - Broca's Aphasia: understands, but responds only in monosyllabic words
+        - **Right** Hmiesphere
+            * Spatial relations
+            * Auditory/Visual integration
+            * Perception of rhythm, abstract or intuitive thought
+            * Laregly "mute" (low grammatical understanding), but good smeantic (meanining) knowledge
+            * Self-Recognition: Recognition of own face
+- **Split Brain Studies**
+    * Sperry (1960-1998)
+        - First to study patients with a split corpus callosum
+        - Believed the two lobes function _independntly_
+    * Gazzaniga (1980s-current)
+        - Two lobes function _complimentarily_
+- Split Brain Methodology
+    * Corpus Callosum Severed -- 11 total cases
+    * Lateralize Stimuli (visual, tactile, olfactory, haptic, etc)
+        - Visual stimuli presented to only left or right visual field
+        - Participant focuses on fixation point
+    * Contralaterality
+        - Right hem. sees only left side
+        - Left hem. sees only right side
+    * Both hems see the cards on the table
+    * Instruct: " Point to what you see"
+- **Brain Disorders**
+    * Stroke (Vascular brain disorder, "CVA" cerebrovasular accident)
+        - Flow of blood to brain is disrupted
+        - Two types:
+            * Ischemic:
+                - (87% of strokes)
+                - Blood supply blocked by a clot (Thrombosis/Embolism)
+                - Clot busting mets (rtPA) within 3 hours usually helps
+                - But... increases hemmorhage risk in some
+            * Hemmorrhagic
+                - (13% of strokes)
+                - Can start after Ischemia
+                - Sometimes requires surgery
+                - Otherwise, manage blood pressure/sugar/O2
+        - Symptoms
+            * Diagnosis confirmed by VT and MRI scans
+            * Face: sudden weakness/droop
+            * Limbs: can't keep both arms raised (one shows downard drift)
+            * Speech: impaired/abnormal
+            * Vision: restricted visual field
+        - **Damage**:
+            * Depends on severity, location, and speed of treatment
+        - Risk Factors
+            * High blood pressure (biggest)
+            * High cholesterol, diabetes, smoking, alcohol use, drug use (esp. stimulants
+            * Lack of physical activity
+            * Obesity
+    * **Brain Tumors** (neoplasms)
+        - Primary vs. Secondary:
+            * Primary: Starts in brain
+                - Childhood brain tumors (usually age 5+)
+            * Secondary: Starts elsewhere
+                - E.g. Lungs
+        - Benign vs. Malignant (Cancerous)
+        - Detected by CAT scans or MRIs
+        - Symptoms:
+            * Headaches, Seizures, 
+            * Neurological Symptoms 
+                - (memory, concentratin, personality, sleep, limbs, hearing, vision, speech)
+        - Treatment:
+            * Surgery, Radiation, Chemotherapy
+            * Also, anticonulsants, Physical/occupational therapty, counseloing
+    * **Head Injury** (tramatic brain injury, TBI)
+        - Closed-head vs. Open-head (skull penerated)
+        - Loss of consciousness is primary symptom
+        - Common: 700K/year in North America
+            * 70-90K pemanelty disabled
+            * Speech, movement,
+            * Cognitive Deficits: memory, attention, judgment, emotion regulation
+- **Intelligence and Neuroscience**
+    * Intelligence and Brain Size
+        - Modest but signifigant + relation
+            * Only correlational data
+                - Association doesn't tell us casual diretionality
+        - Femals: Frontal lobe gray matter matters
+        - Males: Posterior ray matter matters more
+    * Intelligence and Neurons
+        - Conduction velocity may be + associated
+    * Intelligence and Brain Metabolism
+        - Efficiency: smarter consume less glucose?
+            * Controversial: other studies show opposite (more glucose consumed)
+    * Biological bases of Intelligence Testing
+        - IQ Tests: Over-focus on _crystallized_ (posterior) vs. _fluid_ intelligence
+            * Goal setting, planning, reasoning, problem-solving (frontal, temporal lobes)
+    * The P-FIT theory of intelligence
+        - Parieto-frontal integration theory
+        - Extrastriate cortex and fusionform gyrus
+            * Recogniton, imagrery, and eleboration of visual input
+    * (Executive Functions) : 
+        -only  Working memory, attentional control, Bx Inhibition, Planning, Monitoring

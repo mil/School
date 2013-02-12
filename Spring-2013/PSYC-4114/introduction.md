@@ -125,7 +125,7 @@ Introduction to Cognitive Psychology
             - Relecance of findings in different enviromental contexts
     * Example of a Correlational Cognitive Study
         - Relationship between **confidence** and **acuracy** of eyewitness in identifying perpetrators
-- Confidence vs. Knowledge
+- **Confidence vs. Knowledge**
     * How well do you know what you know (or don't know)?
     * Does this level of confidence predict accuracy?
         - "I attended every lecture, read the chapters several times, and thought I did pretty well on the exam but..."
