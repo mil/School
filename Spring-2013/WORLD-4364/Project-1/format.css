@@ -18,18 +18,15 @@
 }
 
 
-.break {
-  page-break-before: always;
-  page-break-inside: avoid;
-}
-
-
-
 /* Double Spaced */
 body { 
   line-height: 2em; 
 }
-div#title { text-align: center; }
+div#title { 
+  text-align: center; 
+  page-break-after: always;
+
+}
 p { text-indent: 0.5in; line-height: 2em;}
 ol {
   margin-top: 1em;
