@@ -23,6 +23,7 @@ body {
   line-height: 2em; 
 }
 div#title { 
+  padding-top: 3in;
   text-align: center; 
   page-break-after: always;
 
