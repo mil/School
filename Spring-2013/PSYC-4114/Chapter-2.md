@@ -166,15 +166,15 @@ Chapter 2 - Cognitive Neuroscience
             * Localization of Function  
                 - Specific mental _processes_ are correlated with descrete _regions_ of the brain (Fodor's modularity)
                 - Hemisphereic Lateralitzation / Specialization
-            * Lobes:
-                - Frontal: Reasoning & Planning
-                - Parietal: Touch, Temperature, Pain, & Pressure
-                - Temporal: Auditory & Perceptual Processing
-                - Occipital: Visual processing
-        - Basal Ganglia
+    * Basal Ganglia
         - Limbic System
         - Thalamus
         - Hypothalamus
+    * **Four Lobes**:
+        - **Frontal Lobe**: Reasoning & Planning (also Motor Processing)
+        - **Parietal Lobe**: Touch, Temperature, Pain, & Pressure
+        - **Temporal Lobe**: Auditory & Perceptual Processing
+        - **Occipital Lobe**: Visual processing
     * **Midbrain**
         - Extends from the ponts to the lower portion of the thalamus
         - Connects spinal cord and forebrain
@@ -233,25 +233,28 @@ Chapter 2 - Cognitive Neuroscience
     * Both hems see the cards on the table
     * Instruct: " Point to what you see"
 - **Brain Disorders**
-    * Stroke (Vascular brain disorder, "CVA" cerebrovasular accident)
-        - Flow of blood to brain is disrupted
-        - Two types:
-            * Ischemic:
-                - (87% of strokes)
-                - Blood supply blocked by a clot (Thrombosis/Embolism)
+    * **Stroke** 
+        - Is **Vascular Brain Disorder** --- "CVA" cerebrovasular accident
+        - **Flow of blood** to brain undergoes **sudden disruption**
+        - **Two Types**:
+            * **Ischemic**:
+                - More Common - **87%** of Strokes
+                - Blood supply **Blocked by a Clot** (Thrombosis/Embolism)
                 - Clot busting mets (rtPA) within 3 hours usually helps
-                - But... increases hemmorhage risk in some
-            * Hemmorrhagic
-                - (13% of strokes)
-                - Can start after Ischemia
+                - But... **increases hemmorhage risk in some**
+            * **Hemmorrhagic**
+                - Less Common - **13%** of Strokes
+                - **Blood Vessel** in brain suddenly **breaks**
+                - ***Blood spills** in**to** surrounding **tissue**
+                - *(Can start after Ischemia)
                 - Sometimes requires surgery
                 - Otherwise, manage blood pressure/sugar/O2
-        - Symptoms
+        - **Symptoms**:
             * Diagnosis confirmed by VT and MRI scans
-            * Face: sudden weakness/droop
-            * Limbs: can't keep both arms raised (one shows downard drift)
-            * Speech: impaired/abnormal
-            * Vision: restricted visual field
+            * _Face_: Sudden weakness/droop
+            * _Limbs_: Can't keep both arms raised (one shows downard drift)
+            * _Speech_: Impaired/abnormal
+            * _Vision_: Restricted visual field
         - **Damage**:
             * Depends on severity, location, and speed of treatment
         - Risk Factors
@@ -259,7 +262,9 @@ Chapter 2 - Cognitive Neuroscience
             * High cholesterol, diabetes, smoking, alcohol use, drug use (esp. stimulants
             * Lack of physical activity
             * Obesity
-    * **Brain Tumors** (neoplasms)
+    * **Brain Tumors** (AKA **Neoplasms**)
+        - Can occur in gray or white matter of brain
+            * **White is more common**
         - Primary vs. Secondary:
             * Primary: Starts in brain
                 - Childhood brain tumors (usually age 5+)
@@ -267,15 +272,21 @@ Chapter 2 - Cognitive Neuroscience
                 - E.g. Lungs
         - Benign vs. Malignant (Cancerous)
         - Detected by CAT scans or MRIs
-        - Symptoms:
-            * Headaches, Seizures, 
+        - **Symptoms**:
+            * Headaches, Seizures
             * Neurological Symptoms 
                 - (memory, concentratin, personality, sleep, limbs, hearing, vision, speech)
-        - Treatment:
+        - **Treatment**:
             * Surgery, Radiation, Chemotherapy
             * Also, anticonulsants, Physical/occupational therapty, counseloing
-    * **Head Injury** (tramatic brain injury, TBI)
+    * **Head Injury** (traumatic brain injury, TBI)
         - Closed-head vs. Open-head (skull penerated)
+            * **Closed-Head**: 
+                - Skull reamins in tact but damage to the brain
+                - _Caused By: Mechanical force of a blow to the head
+            * **Open-Head**
+                - Skull does not remain in tact but is penetrated
+                - Caused By: Ex. Bulletwound
         - Loss of consciousness is primary symptom
         - Common: 700K/year in North America
             * 70-90K pemanelty disabled

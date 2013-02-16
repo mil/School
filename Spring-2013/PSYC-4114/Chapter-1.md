@@ -1,46 +1,45 @@
 Introduction to Cognitive Psychology
 ====================================
 - **What is Cognitive Psychologists?**
-    * Study of how people
-        - Percieve
-        - Learn
-        - Remeber
-        - Think about Information
-    * Involves a variety of mental processes
+    * Study of how People
+        - **Percieve** , **Learn**, **Remember**
+        - **Think** about **Information**
+    * Involves a Variety of **Mental Processes**
         - Memory, Attention, Language, Problem Solving
         - Decision Making, Reading
+    * **Cognition**: People Think
+    * **Cognitive Psychology**: Scientists think about how people think
 - **Dialectic Progression** of Ideas
-    * Thesis
-        - Statement of opinion or belief
-        - e.g: "Biology determines human nature"
-            * (early 20th century view)
-    * Antithesis
-        - Counterstatement
-        - e.g: "The enviroment determines human nature"
-            * (1960s)
-    * Synthesis
-        - Integrates most credible features
-        - (best of both views)
-        - "Nature and nurture _interact_ to determine human nature"
-        - (modern view)
+    * **Thesis**
+        - **Statement** of **Opinion** or **Belief**
+        - e.g: "Biology determines human nature" (_Early 20th Century_ View)
+    * **Antithesis** (Anti-thesis)
+        - **Counterstatement**: **counters** a previous statement of belief
+        - e.g: "The enviroment determines human nature" (_1960s_ View)
+    * **Synthesis**
+        - **Integrates** most **Credible Features** of **Thesis and Antithesis **
+            * (Best of Both Views)
+        - e.g: "Nature and nurture _interact_ to determine human nature" (_Modern View_)
 - **Roots of (Cognitive) Psychology**
-    * A teacher and his student disagree...
+    * A _teacher_ and his _student_ **disagree**...
     * **Rationalism** (Plato)
-        - Logic & Reasoning is key to knowledge/truth
-        - Descartes
+        - _Logic & Reasoning_ is Key to knowledge/truth
+        - **Philosophy**: Introspection and reasoning
+        - **Descartes**
             * Cogito, ergo sum
-            * Senses can decieve. Knowledge comes from reason & math
+            * Senses can decieve. 
+            * Knowledge comes from Reason & Math
     * **Empiricism** (Aristotle)
-        - Experience & Observatoin is key
-        - Physiology: emperical study of body functions
-        - Locke
+        - _Experience & Observation_ is Key
+        - **Physiology***: Emperical study of body functions
+        - **Locke**
             * Knowledge comes from sensory experience (evidence)
             * "Tabula Rosa" -- Blank Slate
-    * **Synthesis**: Transcendental Idealism
-        - Kant's modern view
+    * **Synthesis** is called: **Transcendental Idealism**
+        - **Kant**'s modern view
         - Reason without experience is empty, devoid of any content
-            * and yet experience without reason and thought is blind
-        - Both experience & reason have a role
+            * And yet experience without reason and thought is blind
+        - **Both experience & reason have a role**
 - **Other Roots of (Cognitive) Psychology**
     * **Strucuralism**
         - Wundt & Tichener
