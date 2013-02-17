@@ -1,162 +1,244 @@
 Chapter 2 - Cognitive Neuroscience
 ==================================
-- The _Scientific_ Study of Biological Substrates underlying Cognition
-    * (neural basis of mental processes)
-    * Possible levels of analysis:
-        - Genes, bio/neuro, cognitive, behavior, enviroment
-    * What is: _reductionism_ and why is it hazardous?
-        - An attempt or tendency to explain a complex set of facts, entities, phenomena, or structures by another, simpler set.
-        - Ignores **emergent properties**
-            - Unique features that emerge when parts combine/interact.
-            - Gestaltic: Whole is greater than the sum of its parts
+- **Basics** of **Cognitive Neuroscience**
+    * The **Scientific** Study of **Biological Substrates** underlying Cognition
+        * (Neural Basis of Mental Processes)
+    * Possible **Levels of Analysis**:
+        - Genes, Bio/Neuro, Cognitive, Behavior, Enviroment
+    * What is: **Reductionism** and why is it hazardous?
+        - **Reductionism**: Explaining complex set of facts, entities, phenomena, or structures by a simpler set.
+        - Ignores **Emergent Properties**
+            - _Unique features_ that _emerge_ when _parts combine_/interact.
+            - **Gestaltic**: Whole is greater than the sum of its parts
 - **The Nueron**
-    * The Basic Unit of the Brain
-        - The brain is complex cellular system of 
+    * The **Basic Unit** of the **Brain**
+        - Nueron **transmits electrical signals** from one location to another in the nervous system
+        - **Greatest concentration** of neurons in the **Neocortex**
+        - The brain is complex **cellular system** of:
             * 10^11 nuerons
             * 10^14 synaptic connections
             * 10^12 = 1 Trillion, 10^15 = 1 Quadrillion
         -  Brain = ~100 Billion Nuerons
-    * Parts of the Neuron
-        - Soma
-            * Cell body containing the nucleus
-            * Integrates info from Dendrites
-        - Dendrites
-            * Branches that recieve information from other neurons (via Axons)
-        - Axon
-            * Information Transmitter
+    * **Parts of** the **Neuron**
+        - **Soma**
+            * **Cell body** containing the **nucleus**
+            * **Integrates** info **from Dendrites**
+        - **Dendrites**
+            * The Branches **extending from the Soma**
+            * **Dendrites recieve** information from other neurons (via Axons)
+        - **Axon**
+            * **Long thin tube**, extends from soma which responds to info
+            * Information **Transmitter**
             * **Axon Terminal**:
-                - Buttons at the ends of the axon
-                -  Releases Neurotransmitters
+                - **Buttons** at the **ends of the axon**
+                - **Releases Neurotransmitters**
             * **Synapse** (Synaptic Cleft)
                 - Junctions between axons and dendrites
-    * Action Potential
-        - Brief change in voltage over surface.
-        - Results in impulse transmission
+            * **Two Kinds of Axons**
+                - **Myelinated**: 
+                    * Surrounded by the **myelin** (a white fatty substance) surrounding
+                    * Has a mylin sheath: Insluates and protects longer axons from electrical interference
+                        - Also speeds up conduction of information
+                    * **Nodes of Ranvier**: small gaps in myelin coating serving to increase conduction speed
+                - **Un-Myelinated**: 
+                    * Typically **shorter** and **smaller**
+                    * No myelin surrounding
+        - **Terminal Button**
+            * **Small knobs** found at **ends of branches** of **axon**
+            * **Do not directly touch** the dendrites of next neuron
+        - **Synapse**
+            * **Small gaps** between terminal buttons of one or more neurons
+            * Important in cognition -- more synapses in learning
+            * Decreased synapses associated with Alzheimers
+    * **Action Potential**
+        - Brief **change in voltage** over surface.
+        - Results in **impulse transmission**
 - **Nuerotransmitters**
     * (Study the table 2.1 in the text)
-    * Monoamines
-        - _Synthesized by the nervous system_ through enyzmes on the amni acids in our diet
-            * **Ach**: memory
-            * **DA**: movement, attention, leanring
-            * **Serotonin**: sleep/dream, mood
-            * **Epinephrine**: alertness, F/F
-    * Amino-Acid Neutotransmitters
-        - Come from out diet _without_ further synthesis
-            * GABA: leanring/memory
-            * Glutamate: learning/memory
-        - Nueromodulators
-            * GABA inhibits presynaptic neurons
-            * Glutamate excites presynaptic neurons
-    * Neuropeptides
-        - Peptide chains (two/more amnio acids)
-            * Endorphins: pain relief
-        - Produced b y pituitary gland & hypotalmus during
-            * exercise, excitment, pain, spicy foods, love, orgasm
-        - Resmeble optiates: produce analgesia & feeling o fwell-being
-- **Postmortem** Studies
-    * Identify disorder, and then examine _after death_
-    * Famouse cases: 
-        - Phineas gage (frontal lobe),
-        - Tan (Broca's aphasic patient)
-    * More Recent Example:
-        - Young, Holcomb, Yazdani, Hicks & German (2004)
-            * Found more nerve cells in the thalamus devoted to emtional regulation in dpressed people upon their death
-- **Animal Studies** : In Vivo
-    * Using **live** animals...
-        - Single neuron monitorin
-            * Implant microelectrode
-            * Record electrical activity in response to stimulus
-        - Tracing Studies
-            * Inject radioactivate or fluoresecent tracer into brain
+    * **Monoamines**
+        - **Synthesized by the nervous system** through **enyzmes** in **amino acids** in our diet
+            * **Ach**: Memory
+            * **DA**: Movement, Attention, Leanring
+            * **Serotonin**: Sleep/Dream, Mood
+            * **Epinephrine**: Alertness, F/F
+    * **Amino-Acid Neutotransmitters**
+        - Come **from out diet** _without_ further synthesis
+            * **GABA**: Leanring/Memory
+            * **Glutamate**: Learning/Memory
+        - **Nueromodulators**
+            * **GABA inhibits presynaptic neurons**
+            * **Glutamate excites presynaptic neurons**
+    * **Neuropeptides**
+        - _Peptide_ **chains** (two/more amnio acids)
+            * **Endorphins**: Pain Relief
+        - Produced by **pituitary gland & hypothalamus** during:
+            * Exercise, Excitment, Pain, Spicy foods, Love, Orgasm
+        - **Resmeble optiates**: Produce Analgesia & Feeling of Well-Being
+- **Viewing/Looking at Brain Structures**
+    * **Postmortem** Studies
+        - **Identify disorder**, and then examine _after death_
+        - Look for **lesions**: areas where body tissue has been damaged
+        - **Famous cases**: 
+            * **Phineas Gage**: Frontal Lobe
+            * **Tan**: Broca's Aphasic Patient
+        - **Recent Example**:
+            * **Young, Holcomb, Yazdani, Hicks & German** (2004)
+                - Found more nerve cells in the thalamus devoted to emtional regulation in dpressed people upon their death
+    * **Animal Studies** : **In Vivo** (Testing Live Animals)
+        - **Single Neuron Monitoring**
+            * Implant **microelectrode**
+            * Record **electrical activity** in **response** to **stimulus**
+        - **Tracing Studies**
+            * Inject **radioactivate** or **fluoresecent tracer** into brain
                 - Absorbed by neurons
-            * Trace anterograde (from soma/source to termination/synaptse) or retrograde (reverse)
-            * To map neuronal connections & axon transport
-        - Selective Lesioning
-            * Cut neuronal connections
-            * Observe deficits
-- In Vivo Study: **Single Neuron Monitoring**
-    * Disterhoft & Matthew (2003):
-        - Young vs. Old Rabbbits compared: Learning of Eyeblink conditioning
-            * A form of classical conditioning
-            * UCS = puff of air
-            * CS = tone
-            * UR/CS = Blink
-        - Hippocampus Pyramidal Neurons were monitored
-        - Typically, older rabbits cannot lean the task
-        - Tx Groups: Metrifonate, Galanthamine, or CI-1017:
-            * Cholinestrase Inhibitors: Stop acetecholine breakdown
-        - Aged rabbits learn as quicky as youn controls
-- Electroencephanlography
-    * EEG: Recordings of broad electrical frequencies and instensities
-        - Scalp voltage fluctuations from neuron ion currents
-        - Delta, Theta, Alpha, Beta waves
-    * Not well localized to specific cells
-        - MRI & CT are more higher res (<1mm)
-    * Good temporal (time scale) resolution)
-- Event-Related Potentials
-    * ERPs
-        - Small change (<10 microvolts) in brain's electrical activity in response to a stimulus
-            * E.g readinging a word, viewing a picture, hearing a sound)
-        - Bckground noise removed, signal clarified (by avering EEG tracings over many stimulus presentations) to highlight signal
-        - Poor Localization, but high temportal precision
-            * Early latency (<100msec): sensing
-            * Middle latency (100-250msec): thalmus & early cortical (perception)
-            * Long latency (>250msec): higher-order processes
-- EEG/ERP Research Examples
-    * Dehaene-Lambertz, Pena, M., Christophe, & Landrieu(2004)
-        - Examining speech processing in infants using EEG
-            * Speech usually percieved by left hemisphere in adults
-            * Case study: Baby girl with infarct in left lateral sulcus
-            * Measured ERPs during speech perception tasks
-            * Found right hemisphere also contributes to phoneme (language sounds) perception early in life
-    * Martha Ann Bell's CAP Lab:
-        - Examining working memory * emotional regulation across development -- here at VT
+            * Trace **Anterograde**: From Soma/Source to Termination/Synapse 
+            * Trace **Retrograde**: From Termination/Synapse to Soma/Source
+            * To map **Neuron Connections** & **Axon transport**
+        - **Selective Lesioning**
+            * **Cut** neuronal **connections**
+            * **Observe deficits**
+    * **In Vivo** Study: **Single Neuron Monitoring**
+        - Monitor a single cell of neuron activity
+        - **Disterhoft & Matthew** (2003):
+            * Young vs. Old Rabbbits compared: Learning of Eyeblink Conditioning
+                - A form of classical conditioning
+                - UCS = Puff of Air
+                - CS = Tone
+                - UR/CS = Blink
+            * **Hippocampus Pyramidal Neurons** were **monitored**
+            * Typically, **older rabbits cannot lean the task**
+            * Tx Groups: Metrifonate, Galanthamine, or CI-1017:
+                - Cholinestrase Inhibitors: Stop acetecholine breakdown
+            * **Aged rabbits learn as quicky** as **young controls**
+- **Electrical Recording of Brain**
+    * **Electroencephanlography** (**EEG**)
+        - Recordings of **broad electrical frequencies** and **intensities**
+        - **Scalp voltage fluctuations** from **neuron ion currents**
+            * Delta, Theta, Alpha, Beta waves
+        - **Not well Localized** to specific cells
+            * **MRI & CT are more higher res** (<1mm)
+        - **Good temporal** (time scale) **resolution**
+    * **Event-Related Potentials** (**ERPS**)
+        - **Small change** (<10 microvolts) in **brain's electrical** activity in **response to a stimulus**
+            * E.G readinging a word, viewing a picture, hearing a sound)
+        - **Background noise removed**
+        - **Signal clarified** (by **averging EEG tracings** over many stimulus presentations) to **highlight signal**
+        - **Poor Localization**, but **High Temportal Precision**
+            * **Early Latency** (<100msec): _Sensing_
+            * **Middle Latency** (100-250msec): _Thalmus_ & Early Cortical (_Perception_)
+            * **Long Latency** (>250msec): higher-order processes
+    - **EEG/ERP Research** Examples
+        * **Dehaene-Lambertz, Pena, M., Christophe, & Landrieu** (2004)
+            - Examining **speech processing** in infants using EEG
+                * Speech usually **percieved by left hemisphere** in adults
+                * Case study: Baby girl with infarct in left lateral sulcus
+                * **Measured ERPs** during speech perception tasks
+                * Found **Right hemisphere** also **contributes to phoneme** (language sounds) perception early in life
+        * **Martha Ann Bell's** CAP Lab:
+            - Examining **Working Memory**
+            - Emotional regulation across development 
+            - (Here at VT)
 - **Brain Imaging Techniques**
-    * Relatively non-invasive view of living brain
-    * Two types: Structural and MRI
-        - Structural: shows nueroanatomy, static picture
-            * CAT (Computerized Axial Tmography)
-               - Cat Scan = "X ray CT"
-               - Focused X ray beams passed through at different angles
-               - Different densitites deflect rays differently (bone, blood, brain, cebrospinal fluid)
-               - Produces 9-12 image "slices" at different depths for 3-D image
-               - Used in neuropsychological diagnosis
-                    * Recent hemorrhage (blood) vs. older (cbs gluid); tumors
-                - Quick but older technique, radiation exosure , fuzzier images than MRI
-            * MRI (Magnetic Resonance Imaging)
-                - Strong _magnetic field_ passed through the skull
-                - Causes hydrogen (H) atoms in brain to align
-                - Radio frequency signals alter the alignment
-                    * Producing rotating magnetic field
-                    * Which is detected by scanner - 3D image of structure
-                        - E.g Violin players: larger area of R hemisphere (controls left hand)
-                - Better contrast that CAT, no ionzing radiation
-                - Magnets prclude metal in body (pacemakers)
-                    * must lie still in small tunnel
-                    * Expensive
-        - **Functional**: show brain activity during a task
-            * PET, fMRI
-            * Functional - Metabolic Imaging: Positron Emission Tomography (PET)
-                - Radioactive amterial (oxygen or glucose) is injected or inhaled
-                - Blood flow or radioactive glucose consumtpion (metabolism) in brain measured
-                    * More active regions consume more glucose (and oxygen)
-                    * Subtraction method: activity during generalized task - during task of interest
-                    * High IQ linked to less glucose use on cog. demanding tasks (efficeincy)
-                    * Older (1970s), expensive, limited temporal resolution (1.5 minutes to an hour)
-                    * SPEC (single-photon emission computed tomography) similar but cheaper than PET
-                - Now one of most popular ways to study brain activation
-                - Measures changes in _magnetic properties_ of blood as hemoglobin becomes deosygenated
-                    * Like PET but no radioactive particles
-                    * Magnet induces changes in osygen atoms
-                    * Shows areas with less oxygen (i.e consumed)
-                - Brain areas with more _blood flow_ have better visibility on MRI images
-                    * Correlates with brain activation during a task
-                - Less invasive & higher temporal resolution than PET
-                - But more costly ($ and time)
+    * Basics:
+        - Relatively non-invasive view of living brain
+        - **Two Types**: **Structural** and **MRI**
+    * **Structural**: shows nueroanatomy, static picture
+        - **CAT** (**Computerized Axial Tomography**)
+            - **Cat Scan**: "X ray CT"
+            - **Focused X ray beams** passed through at **different angles**
+            - **Different densities deflect** rays **differently** 
+                * (bone, blood, brain, cebrospinal fluid)
+            - Produces **9-12 image "slices"** at different depths for 3-D image
+            - Used in **neuropsychological diagnosis**
+                * Recent hemorrhage (blood) vs. older (cbs gluid); tumors
+            - **Quick but older technique**, **radiation exposure**, **fuzzier** images **than MRI**
+        * **MRI** (**Magnetic Resonance Imaging**)
+            - Strong **Magnetic Field** passed **through the skull**
+            - Causes **Hydrogen (H) atoms** in brain **to align**
+            - Radio frequency signals **alter the alignment**
+                * Producing **rotating magnetic field**
+                * Which is **detected by scanner** - 3D image of structure
+                    - E.g Violin players: larger area of R hemisphere (controls left hand)
+            - Better contrast that CAT, no ionzing radiation
+            - Magnets preclude metal in body (pacemakers)
+                * Must lie still in small tunnel
+                * Expensive
+    * **Functional**: Show brain activity during a task (PET, fMRI)
+        - **PET** (**Positron Emission Tomography**) -- _Metabolic Imaging_
+            * **Radioactive** Material (_Oxygen or Glucose_) is **injected or inhaled**
+            * **Blood flow** or **Radioactive Glucose Consumption** (metabolism) in brain **Measured**
+                - More **active regions consume more glucose** (and oxygen)
+                - **Subtraction Method**: Activity during **generalized task** - during **task of interest**
+                - **High IQ** linked to **less glucose use on cog. demanding tasks** (_efficeincy_)
+            * **Disadvantages**:
+                - **Older (1970s)**, expensive, limited temporal resolution (1.5 minutes to an hour)
+        - **SPEC** (Single-Photon Emission Computed Tomography) 
+            - Similar but **cheaper than PET**
+            - Now one of **most popular** ways to **study brain activation**
+            - Measures changes in _magnetic properties_ of blood as **hemoglobin becomes deosygenated**
+                * **Like PET** but **no radioactive particles**
+                * Magnet induces **changes in oxygen atoms**
+                * Shows areas with less oxygen (i.e consumed)
+            - Brain areas with more _blood flow_ have **better visibility on MRI images**
+                * Correlates with brain activation during a task
+            - **Less invasive & higher temporal resolution than PET**
+            - But more costly ($ and time)
 - **Anatomy of the Brain**
     * **Forebrain**
-        - Cerebral Cortex
-            * Thin layer of brain, barkish
+        - **Cerebral Cortex**
+            * **Thin layer** of brain, barkish
+            * **Sensory information processing**, **thinking**, and other cognitive processing
+        - **Basal Ganglia**
+            * **Collection of nucleui** and **neural fibers**
+            * Crucial to the **function of the motor system**
+        - **Limibic Systems**
+            * Involved in **learning**, **emotions**, and **motivation**
+            * **Hippocampus**: **Learning** and **Memory**
+            * **Amygdala**: **Anger** and **Aggression**
+            * **Septum**: **Anger** and **Fear**
+        - **Thalamus**
+            * Primary relay for **Sensory Information**
+            * **Transmits** info to correct regions of **Cerebral Cortex**
+        - **Hypothalamus**
+            * Controls the endocrine system
+            * Controls autonomic nervous system
+                - Temperature Regulation
+                - Apetite and thirst regulation
+                - Fight & Flight Response
+                - Emotions
+                - Pain, Pleasure, Stress Reactions
+    * **Midbrain**
+        - **Superior Colliculi**
+            * Involved in **Vision** (esp. Visual Reflexes)
+        - **Inferior Colliculi**
+            * Involved in **Hearing**
+        - **Reticular Activating System**
+            * **Consciousness Control** (Sleep Arousal)
+            * **Attention**
+            * **Cardiorespiratory** Function
+            * **Movement**
+        - **Gray Matter, Red Nucleus, Substantia Nigra, Ventral Region**
+            * Important in **Controlling Movement**
+    * **Hindbrain**
+        - **Cerebellum**
+            * Essential to **Balance**
+            * Also **Coordination** and **Muscle Tone**
+        - **Pons**
+            * (also _contains part of the RAS_)
+            * Involved in **consciouses** (sleep and arousal)
+            * **Bridge neural tranmissions** from one part of brain to another
+            * Involved with **facial nerves**
+        - **Medulla Oblongata**
+            * Serves as **juncture at which nerves cross**
+                - From one **side of body to opposite side of brain**
+            * Involved in cardiorespiratory function, digestion and swallowing
+
+
+
+
+
+
+
             * **Contralaterality**: 
                 - Right side of brain controls left side of body
                 - Left side of brain controls right side of body
@@ -312,4 +394,4 @@ Chapter 2 - Cognitive Neuroscience
         - Extrastriate cortex and fusionform gyrus
             * Recogniton, imagrery, and eleboration of visual input
     * (Executive Functions) : 
-        -only  Working memory, attentional control, Bx Inhibition, Planning, Monitoring
+        - Only Working Memory, attentional control, Bx Inhibition, Planning, Monitoring

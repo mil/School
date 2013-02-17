@@ -1,5 +1,5 @@
-Introduction to Cognitive Psychology
-====================================
+Chapter 1 - Introduction to Cognitive Psychology
+================================================
 - **What is Cognitive Psychologists?**
     * Study of how People
         - **Percieve** , **Learn**, **Remember**
