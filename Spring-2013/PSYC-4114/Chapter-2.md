@@ -54,13 +54,13 @@ Chapter 2 - Cognitive Neuroscience
         - Brief **change in voltage** over surface.
         - Results in **impulse transmission**
 - **Nuerotransmitters**
-    * (Study the table 2.1 in the text)
     * **Monoamines**
         - **Synthesized by the nervous system** through **enyzmes** in **amino acids** in our diet
-            * **Ach**: Memory
-            * **DA**: Movement, Attention, Leanring
+            * (Acetylcholine) **Ach**: Memory
+            * (Dopamine) **DA**: Movement, Attention, Leanring
             * **Serotonin**: Sleep/Dream, Mood
-            * **Epinephrine**: Alertness, F/F
+                - Ex: Inhibits dreaming; defects in serotonin = depression
+            * **Epinephrine**/Norepinephrine: Alertness, Fight/Flight
     * **Amino-Acid Neutotransmitters**
         - Come **from out diet** _without_ further synthesis
             * **GABA**: Leanring/Memory
@@ -172,10 +172,11 @@ Chapter 2 - Cognitive Neuroscience
                 - **High IQ** linked to **less glucose use on cog. demanding tasks** (_efficeincy_)
             * **Disadvantages**:
                 - **Older (1970s)**, expensive, limited temporal resolution (1.5 minutes to an hour)
-        - **SPEC** (Single-Photon Emission Computed Tomography) 
-            - Similar but **cheaper than PET**
+            * **SPECT** (Single-Photon Emission Computed Tomography) 
+                - Similar but **cheaper than PET**
+        - **fMRI** (**Functional Magnetic Resonance Imagine**)    
             - Now one of **most popular** ways to **study brain activation**
-            - Measures changes in _magnetic properties_ of blood as **hemoglobin becomes deosygenated**
+            - Measures changes in **magnetic properties** of blood as **hemoglobin becomes deosygenated**
                 * **Like PET** but **no radioactive particles**
                 * Magnet induces **changes in oxygen atoms**
                 * Shows areas with less oxygen (i.e consumed)
@@ -188,132 +189,130 @@ Chapter 2 - Cognitive Neuroscience
         - **Cerebral Cortex**
             * **Thin layer** of brain, barkish
             * **Sensory information processing**, **thinking**, and other cognitive processing
+            * **Cingulate Gyrus**
+                - Within cortex
+                - **Executive control** and **Respiratory** function
         - **Basal Ganglia**
             * **Collection of nucleui** and **neural fibers**
             * Crucial to the **function of the motor system**
         - **Limibic Systems**
             * Involved in **learning**, **emotions**, and **motivation**
-            * **Hippocampus**: **Learning** and **Memory**
-            * **Amygdala**: **Anger** and **Aggression**
-            * **Septum**: **Anger** and **Fear**
+        - **Hippocampus**: 
+            * **Learning** and **Memory**
+            * Forming **New Memory**
+            * Disease: **Korsakoff's Syndromone**
+                - Unable to form new memories
+        - **Amygdala**: 
+            * **Anger** and **Aggression**
+            * Emotion perception, learning & memory
+            * Object recognition, Sexual Behavior
+        - **Septum Lucidum**: 
+            * **Anger** and **Fear**
         - **Thalamus**
             * Primary relay for **Sensory Information**
             * **Transmits** info to correct regions of **Cerebral Cortex**
+            * Four groups of Nuclei:
+                - Visual
+                - Auditory
+                - Somatosensory (Pressue/pain)
+                - Motor (Balance/Equillibrium)
+            * Disease: **Schizophrenia**
+                - Abnormal changes in thalamus indicated by In Vivo studies
         - **Hypothalamus**
-            * Controls the endocrine system
-            * Controls autonomic nervous system
-                - Temperature Regulation
-                - Apetite and thirst regulation
-                - Fight & Flight Response
-                - Emotions
-                - Pain, Pleasure, Stress Reactions
+            * Controls the **endocrine system**
+            * Controls **autonomic nervous system**
+                - **Temperature Regulation**
+                - **Apetite** and **Thirst regulation**
+                - **Fight & Flight** Response
+                - **Emotions**
+                - **Pain**, **Pleasure**, **Stress** Reactions
     * **Midbrain**
-        - **Superior Colliculi**
-            * Involved in **Vision** (esp. Visual Reflexes)
-        - **Inferior Colliculi**
-            * Involved in **Hearing**
-        - **Reticular Activating System**
+        - Extends from the pons to the lower portion of the thalamus
+        - _Connects_ **spinal cord and forebrain**
+        - **Reticular Activating System** (RAS) -- Brainstem
             * **Consciousness Control** (Sleep Arousal)
             * **Attention**
             * **Cardiorespiratory** Function
             * **Movement**
-        - **Gray Matter, Red Nucleus, Substantia Nigra, Ventral Region**
+        - **Superior Colliculi**
+            * Involved in **Vision** (esp. Visual Reflexes)
+        - **Inferior Colliculi**
+            * Involved in **Hearing**
+                - **Gray Matter, Red Nucleus, Ventral Region**
             * Important in **Controlling Movement**
+        - **Substaintia Nigra**
+            * Function: **Control** of body **movement**
+            * **Degreneration of DA** - producing neurons produces **Parkinson's** disease
     * **Hindbrain**
-        - **Cerebellum**
-            * Essential to **Balance**
-            * Also **Coordination** and **Muscle Tone**
-        - **Pons**
-            * (also _contains part of the RAS_)
-            * Involved in **consciouses** (sleep and arousal)
-            * **Bridge neural tranmissions** from one part of brain to another
-            * Involved with **facial nerves**
-        - **Medulla Oblongata**
+       - **Medulla Oblongata**
+            * **Breathing**, **Swallowing**, and **Digestion**
             * Serves as **juncture at which nerves cross**
                 - From one **side of body to opposite side of brain**
             * Involved in cardiorespiratory function, digestion and swallowing
-
-
-
-
-
-
-
-            * **Contralaterality**: 
-                - Right side of brain controls left side of body
-                - Left side of brain controls right side of body
-            * Corpus Callosum
-                - Neural fibers connecting left and right hemispheres
-                - Allows comminication between two sides of brain
-            * Localization of Function  
-                - Specific mental _processes_ are correlated with descrete _regions_ of the brain (Fodor's modularity)
-                - Hemisphereic Lateralitzation / Specialization
-    * Basal Ganglia
-        - Limbic System
-        - Thalamus
-        - Hypothalamus
-    * **Four Lobes**:
-        - **Frontal Lobe**: Reasoning & Planning (also Motor Processing)
-        - **Parietal Lobe**: Touch, Temperature, Pain, & Pressure
-        - **Temporal Lobe**: Auditory & Perceptual Processing
-        - **Occipital Lobe**: Visual processing
-    * **Midbrain**
-        - Extends from the ponts to the lower portion of the thalamus
-        - Connects spinal cord and forebrain
-        - Parts
-            * Brainstem (RAS)
-                - Function: attention, arousal, and conciousness
-            * Reticular Activating System (RAS; reticular formation)
-                - Located in brain stem
-                - Function: regulates attention, consciousness (arousal/alerness & sleep); cardio-repiratory functions, movement
-            * Substaintia Nigra
-                - Function: Control of body movement
-                - Degreneration of DA - producing neurons produces Parkinson's diseas
-    * **Hindbrain**
-        - Medulla Oblongata
-            * Breathing, Swalloing, and Digestion
-        - Pons
-            * Relay station ( crossover info from left side of body to right side of brain & visa versa)
-        - Cerebellum
+        - **Pons**
+            * (also _contains part of the RAS_)
+            * Involved in **consciouses** (sleep and arousal)
+            * Relay station (crossover info from left side of body to right side of brain & visa versa)
+            * **Bridge neural tranmissions** from one part of brain to another
+            * Involved with **facial nerves**
+        - **Cerebellum**
+            * Essential to **Balance**
             * Motor coordination, posture, and maintaining balance
+            * Also **Coordination** and **Muscle Tone**
+- **Cerebral Coretex** (Forebrain)
+    * **Contralaterality**
+        - Right side of brain controls left side of body
+        - Left side of brain controls right side of body
+    * **Corpus Callosum**
+        - Neural fibers connecting left and right hemispheres
+        - Allows **comminication between two sides of brain**
+    * **Localization** of Function
+        * Specific mental _processes_ are correlated with descrete _regions_ of the brain 
+            - (**Fodor's modularity**)
+        * Hemisphereic Lateralitzation / Specialization
     * **Hemispheric Specialization**
         - **Left** Hemisphere
-            * Language functions (pseech, song)
+            * _Language functions_ (speech, song)
                 - >90% of people
                     * (<10% are bilaterized or R. hem dominant)
-            * Logical thought (writing, logic)
+            * **Logical thought** (writing, logic)
             * Purposeful movement
                 - Apraxia = disorder of skilled movement
-            * **Wernicke's Area
+            * **Wernicke's Area**
                 - Speech **comprehension**
-                - Wenick'es Aphasia: Fluent but nonsensical speech (lexical and gramatical errors)
+                - **Wenicke's Aphasia**: Fluent but _nonsensical speech_ (lexical and gramatical errors)
                 - AKA: receptive, fluent and sensory aphasia
             * **Broca's Area**
                 - Dax's area? (Dax discovered it)
                 - Speech **production**
-                - Broca's Aphasia: understands, but responds only in monosyllabic words
-        - **Right** Hmiesphere
-            * Spatial relations
-            * Auditory/Visual integration
-            * Perception of rhythm, abstract or intuitive thought
-            * Laregly "mute" (low grammatical understanding), but good smeantic (meanining) knowledge
-            * Self-Recognition: Recognition of own face
+                - **Broca's Aphasia**: understands, but responds only in monosyllabic words
+        - **Right** Hemisphere 
+            * **Spatial** relations
+            * **Auditory/Visual** integration
+            * Perception of rhythm, **abstract** or intuitive thought
+            * Largely "mute" (low grammatical understanding), but good smeantic (meanining) knowledge
+            * **Self-Recognition**: Recognition of own face
+    * **Lobes** of the **Cerebral Cortex**
+        - **Frontal Lobe**: _Reasoning & Planning_ (also Motor Processing)
+        - **Parietal Lobe**: _Touch, Temperature, Pain, & Pressure_
+        - **Temporal Lobe**: _Auditory & Perceptual Processing_
+        - **Occipital Lobe**: _Visual Processing_
 - **Split Brain Studies**
-    * Sperry (1960-1998)
-        - First to study patients with a split corpus callosum
+    * **Sperry** (1960-1998)
+        - First to study patients with a **split corpus callosum**
         - Believed the two lobes function _independntly_
-    * Gazzaniga (1980s-current)
+    * **Gazzaniga** (1980s-current)
         - Two lobes function _complimentarily_
-- Split Brain Methodology
-    * Corpus Callosum Severed -- 11 total cases
-    * Lateralize Stimuli (visual, tactile, olfactory, haptic, etc)
-        - Visual stimuli presented to only left or right visual field
-        - Participant focuses on fixation point
-    * Contralaterality
-        - Right hem. sees only left side
-        - Left hem. sees only right side
-    * Both hems see the cards on the table
-    * Instruct: " Point to what you see"
+    * Split Brain **Methodology**
+        - _Corpus Callosum Severed_ -- 11 total cases
+        - **Lateralize Stimuli** (visual, tactile, olfactory, haptic, etc)
+            * Visual stimuli presented to **only left or right visual field**
+            * Participant focuses on fixation point
+        - **Contralaterality**
+            - **Right hem**. sees only **left side**
+            - **Left hem**. sees only **right side**
+        - Both hems see the cards on the table
+        - Instruct: " Point to what you see"
 - **Brain Disorders**
     * **Stroke** 
         - Is **Vascular Brain Disorder** --- "CVA" cerebrovasular accident
@@ -322,75 +321,79 @@ Chapter 2 - Cognitive Neuroscience
             * **Ischemic**:
                 - More Common - **87%** of Strokes
                 - Blood supply **Blocked by a Clot** (Thrombosis/Embolism)
-                - Clot busting mets (rtPA) within 3 hours usually helps
+                - **Clot busting meds (rtPA)** within 3 hours usually helps
                 - But... **increases hemmorhage risk in some**
             * **Hemmorrhagic**
                 - Less Common - **13%** of Strokes
                 - **Blood Vessel** in brain suddenly **breaks**
-                - ***Blood spills** in**to** surrounding **tissue**
-                - *(Can start after Ischemia)
+                - **Blood spills** in**to** surrounding **tissue**
+                - _(Can start after Ischemia)_
                 - Sometimes requires surgery
                 - Otherwise, manage blood pressure/sugar/O2
         - **Symptoms**:
             * Diagnosis confirmed by VT and MRI scans
-            * _Face_: Sudden weakness/droop
-            * _Limbs_: Can't keep both arms raised (one shows downard drift)
-            * _Speech_: Impaired/abnormal
-            * _Vision_: Restricted visual field
+            * **Face**: Sudden weakness/droop
+            * **Limbs**: Can't keep both arms raised (one shows downard drift)
+            * **Speech**: Impaired/abnormal
+            * **Vision**: Restricted visual field
         - **Damage**:
             * Depends on severity, location, and speed of treatment
-        - Risk Factors
-            * High blood pressure (biggest)
-            * High cholesterol, diabetes, smoking, alcohol use, drug use (esp. stimulants
+        - **Risk Factors**
+            * _High_ **blood pressure** (biggest)
+            * _High cholesterol, diabetes, smoking, alcohol use, drug use (esp. stimulants)_
             * Lack of physical activity
             * Obesity
     * **Brain Tumors** (AKA **Neoplasms**)
-        - Can occur in gray or white matter of brain
+        - Can occur in **gray** or **white matter** of brain
             * **White is more common**
-        - Primary vs. Secondary:
-            * Primary: Starts in brain
+        - _Primary_ vs. _Secondary_:
+            * **Primary**
+                - **Starts in brain**
                 - Childhood brain tumors (usually age 5+)
-            * Secondary: Starts elsewhere
+            * Secondary
+                - **Starts elsewhere**
                 - E.g. Lungs
-        - Benign vs. Malignant (Cancerous)
-        - Detected by CAT scans or MRIs
+        - _Benign vs. Malignant_ (Cancerous)
+        - Detected by _CAT scans_ or _MRIs_
         - **Symptoms**:
-            * Headaches, Seizures
+            * _Headaches_, _Seizures_
             * Neurological Symptoms 
-                - (memory, concentratin, personality, sleep, limbs, hearing, vision, speech)
+                - Memory, Concentratin, Personality, 
+                - sleep, limbs, hearing, vision
+                - speech
         - **Treatment**:
             * Surgery, Radiation, Chemotherapy
             * Also, anticonulsants, Physical/occupational therapty, counseloing
-    * **Head Injury** (traumatic brain injury, TBI)
+    * **Head Injury** (traumatic brain injury = **TBI**)
         - Closed-head vs. Open-head (skull penerated)
             * **Closed-Head**: 
-                - Skull reamins in tact but damage to the brain
+                - Skull **remains in tact** but damage to the brain
                 - _Caused By: Mechanical force of a blow to the head
             * **Open-Head**
-                - Skull does not remain in tact but is penetrated
+                - Skull **does not remain** in tact but is penetrated
                 - Caused By: Ex. Bulletwound
-        - Loss of consciousness is primary symptom
-        - Common: 700K/year in North America
+        - **Loss of consciousness** is primary symptom
+        - Common Frequency: 700K/year in North America
             * 70-90K pemanelty disabled
             * Speech, movement,
             * Cognitive Deficits: memory, attention, judgment, emotion regulation
 - **Intelligence and Neuroscience**
-    * Intelligence and Brain Size
-        - Modest but signifigant + relation
+    * _Intelligence and Brain Size_
+        - Modest but signifigant relation
             * Only correlational data
                 - Association doesn't tell us casual diretionality
-        - Femals: Frontal lobe gray matter matters
-        - Males: Posterior ray matter matters more
-    * Intelligence and Neurons
+        - **Females**: _Frontal lobe gray matter_ matters
+        - **Males**: _Posterior gray matter_ matters more
+    * **Intelligence and Neurons**
         - Conduction velocity may be + associated
-    * Intelligence and Brain Metabolism
-        - Efficiency: smarter consume less glucose?
-            * Controversial: other studies show opposite (more glucose consumed)
-    * Biological bases of Intelligence Testing
+    * **Intelligence and Brain Metabolism**
+        - Efficiency: **smarter consume less glucose**?
+            * _Controversial_: other studies show opposite (more glucose consumed)
+    * **Biological Bases** of Intelligence Testing
         - IQ Tests: Over-focus on _crystallized_ (posterior) vs. _fluid_ intelligence
             * Goal setting, planning, reasoning, problem-solving (frontal, temporal lobes)
-    * The P-FIT theory of intelligence
-        - Parieto-frontal integration theory
+    * The **P-FIT Theory** of Intelligence
+        - **Parieto-frontal integration** theory
         - Extrastriate cortex and fusionform gyrus
             * Recogniton, imagrery, and eleboration of visual input
     * (Executive Functions) : 
