@@ -1,66 +1,95 @@
 Chapter 3 -- Perception
 =======================
 * **Definition**:
-    - Complex process of recognizing, organizing, and interpreting sensory info
+    - Complex process of **recognizing, organizing, and interpreting sensory** info
     - And how we attach meaning to it
 * **Modalities**:
     - Examples:
-        - Visual(sight)
-        - Auditory(hearing)
-        - Olfactory(smell)
-        - Haptic(touch)
-        - Gustatory(taste)
-    - **Distal Object**: The actual stimulus in external World
-    - **Informaiton Medium**: Energy pattern imposed by stimulus
-        * Reflecte dlight, sound waves, chemical molecules, mechinal pressure, vibration
-    - **Proximal Stimulation**: Of sensory rectors by info medium.:
+        - Visual (sight)
+        - Auditory (hearing)
+        - Olfactory (smell)
+        - Haptic (touch)
+        - Gustatory (taste)
+    - **Distal Object**: The **Actual Stimulus** in **External World**
+    - **Informaiton Medium**: _Energy Pattern_ **Imposed by Stimulus**
+        * _Reflected Light_, _Sound Waves_
+        * _Chemical Molecules_, _Mechinal Pressure_, _Vibration_
+    - **Proximal Stimulation**: 
+        * (_Of Sensory Rectors_ **by Info Medium**)
         * What you sense (sensation) is not same as what you percieve
-        * e.g: photon absorption on retina rods and cones
+        * E.G: Photon Absorption on Retina Rods and Cones
             - Proximal stimulus is the retinal image
             - Only 2-dimensional
                 * Also upside down, left-right reverse, and changes with movement...
-                    - not what we percieve
-    - **Percept**: Meaningful interpretation of proximal stimulus
-        * The mental representation
-        * What we actually "see", "hear", "taste", "smell", "feel"
+                * Not what we percieve
+    - **Percept**: Meaningful _Interpretation_ of Proximal Stimulus
+        * The Mental Representation
+        * What we **actually "see", "hear", "taste", "smell", "feel"**
         * Influenced by prior knowledge
-        * We percieve a distal object as _constant_, desptire changing proximal stimulation
+        * We percieve a distal object as _constant_, _despite changing proximal stimulation_
             - Based on expecation of invariant relations among objects in the enviroment
     - (Table 3.1)
 * **Visual Perception**
-    - Light energy (photons) enters the eye
+    - **Light energy** (photons) enters the eye
     - Passes through the 
-        * **Cornea** (protects, refracts light)
-        * **Pupil** (hole; dilation controlled by **iris**
-    * **Lens** focuses light waves further, refracting (bending) & _inverting_ (flipping) them
-    * Light waves project onto the **retina** receptor cells (modified neurons; cones & rods)
-        - Receptors transduce (convert) light energy to _electrical_ enegry used by nervous system to represent external enviroment
-    * Info transmitted along the **optic nerve** to the brain, crossing at the **optic chiasm** based on **field** of view
-        - (**contralateral**: L half of each eye's field sent to R hem. , R. half sent to L. hem)
-    * **Optic tract** caries info to **lateral  geniculate nucleus** (in thalamus) 
-    * The **Lateral Geniculate Nucleus** sends the info to the massive (highly innervated) **primary visual cortex** (in the occipital lobe)
-* **Peception** from _Sensation_ to _Perception_
-    - Various features of stimulus are extracted to facilitate object recognition:
-        * e.g location, shape texture, size
-    - So where does _sensation_ and perception begin?
-    - How much info do we _recieve_ directly from stimuli?
-    - How much do we _infer_ from past knowledge?
-    - **Sensation**:
-        * Focuses on the _inital encoding_ of _stimulus qualities_ (form, pattern, movement) before a percept is _formed_.
-        * This first stage of perception, vs. later organziging, interpreating, recongizing, and understanding
-            - Is that red thing an apple? (
-            - Did I just hear a tree fall?
+        * **Cornea** 
+            - _Protects_ and **Refracts Light**
+        * **Pupil** 
+            - Hole
+            - **Dilation** controlled by **Iris**
+    * **Lens** 
+        - _Focuses Light Waves_ further
+        - **Refracting**: **Bending** the light waves
+        - **Inverting**: **Flipping** the light waves 
+    * Light waves project onto the **Retina** Receptor Cells 
+        - (modified neurons; cones & rods)
+        - Receptors **transduce** (convert) light energy to _electrical_ energy 
+        - _Electrical Energy_ is **used by nervous system** to **represent external enviroment**
+    * Info transmitted along the **optic nerve** to the brain
+        - Info crosses at the **Optic Chiasm** based on **Field** of view
+        - **Contralateral**: 
+            * Left half of each eye's field sent to Right hem.
+            * Right half of eye's field sent to Left hemisphere
+    * **Optic tract** 
+        - Caries info to **lateral  geniculate nucleus** (in thalamus) 
+    * The **Lateral Geniculate Nucleus** 
+        - Sends the info to the massive (highly innervated) **primary visual cortex** 
+            * (in the occipital lobe)
+* **Peception** 
+    - (From _Sensation_ to _Perception_)
+    - Various **features** of stimulus are **extracted to facilitate object recognition**:
+        * Ex. Location
+        * Ex. Shape, Texture, Size
+    - Questions:
+        * So where does _sensation_ and perception begin?
+        * How much info do we _recieve_ directly from stimuli?
+        * How much do we _infer_ from past knowledge?
+* **Sensation**:
+    - Focuses on the _inital encoding_ of _stimulus qualities_ 
+        - (Form, Pattern, Movement) before a percept is _formed_.
+        - This first stage of perception, vs. later organziging, interpreating, recongizing, and understanding
+            * Is that red thing an apple?
+            * Did I just hear a tree fall?
     - What we perceive isn't the same as what we sense
         * And visa-versa
 * **Sensory Adaptation**
     - When _sensory receptors_ change their _sensitivity_ to a stimulus based on changes in stimulus intensity
-    - **Vision**: Dimming lights; pupils dilate (iris muscles relax; immediate)
-        * Photon-sensitive chemicals in cone & rod receptors increase (20 minutes)
-    - **Hearing**: Loud sound; inner ear bone muscles contracts, reduce vibrations
-    - **Touch**: Adapt to hot/cold, pressure, vibration.... but not pain (nociceptive stim)
-    - **Smell/Taste**: Cease to detect unless molecule concentration changes
+    - **Vision**: 
+        * Dimming lights 
+            - Pupils Dilate 
+            - Iris Muscles Relax Immediatly
+            - Photon-Sensitive Chemicals in cone & rod receptors increase (20 minutes)
+    - **Hearing**
+        * Loud sound 
+            - Inner ear bone muscles contracts
+            - Reduce Vibrations
+    - **Touch**
+        * Adapt to hot/cold, pressure, vibration.... 
+        * But not pain (nociceptive stim)
+    - **Smell/Taste**
+        * Cease to detect unless molecule concentration changes
         * Smokers can't smell smoke in the air on their clothes... unless they quit.
-    - Allows us to respond to changing/novel (vs. constant/familiar) stimuli
+    - Sesnory Adaptation allows us to respond to changing/novel (vs. constant/familiar) stimuli
         * When stimulus becomes constant, receptors stop responding to it
             - True for vision too? (Why do I still see Dr.White when he stands still?)
             - Microsaccades (constant tiny eye movements you don't notice)
@@ -77,13 +106,16 @@ Chapter 3 -- Perception
 * **Perceptual Constancy**
     - Object percepts remains the same even though our sensation of the object changes
     - Example:
-        * **Shape Constancy**: percept maintains same shape, despite change sin shape of proximal stimulus (also Size constantcy
-    - Ponzo Illusion: Equivalent image sizes at different depths
+    - **Shape Constancy**: 
+        - Percept maintains same shape, despite change sin shape of proximal stimulus 
+    - **Size Constantcy**
+    - **Ponzo Illusion**: 
+        * Equivalent image sizes at different depths
         * Distally_converging lines_ are percieved as _depth_
     - **Equivalent size with depth** normally means **different-sized** objects (in **real world**)
 * **Depth Perception**
     - The ability to see the world in 3 dimensions and detect distance
-        * Vision only has a 2-dimensional view (promal stimulus on retina)
+        * **Vision only has a 2-dimensional** view (promal stimulus on retina)
         * We must interpret the information given to _perceive_ depth
 * **Monocular** Depth Cues
     - **Texture Gradients**: Grain of item 
@@ -92,13 +124,18 @@ Chapter 3 -- Perception
     - **Linear Perspective**: Parallel lines converge in distance
     - **Aerial Perspetive**: Images seem blurry, the farther away they are
     - **Motion Parallax**: Objects get smaller at decreasing speed in distance
-    - M.C Escher's Waterfall -- monocular
+    - M.C Escher's Waterfall -- Monocular
     - Carlo Crivelli -- Annunciation
 * **Binocular** Depth Cues
-    - **Binocular Convergence**: Eyes turn inward as object moves towards you, brain uses information to judge distance
-    - **Binocular Disparity**: Each eye views a slightly different angle of an object; brain uses this to create a 3-d image
+    - **Binocular Convergence**: 
+        * Eyes turn inward as object moves towards you
+        * Brain uses information to judge distance
+    - **Binocular Disparity**:
+        * Each eye views a slightly different angle of an object
+        * Brain uses this to create a 3-d image
 * **Object Perception**
-    - **Viewer-Centered Representation**: We store in memory visual representation of objects base don how we see them.
+    - **Viewer-Centered Representation**
+        * We store in memory visual representation of objects base don how we see them.
         * Multiple views of each object dpending on wher eyou vs. object are located/positioned.
         * Image is viewpoint dependent, 2D template
     - **Object-Cenetered Rperesentation**
@@ -106,23 +143,23 @@ Chapter 3 -- Perception
             - Locations of parts of object are speicfied relative to each other
         * Image is viewpoint invariant, 3D structure
 * **Inversion Effects**
-    - Faces are ahrd to recognized when inverted
-        * Sugges viewpoint matters for face recognition
+    - Faces are hard to recognized when inverted
+        * Suggest viewpoint matters for face recognition
 * **Object Percption**
-    - Evidence support _both_ viewer & object centered perception
+    - Evidence support _both_ **viewer** & **object centered** perception
     - How to reconcile?
         * Maybe two ends of a contiuum that both contirbute to object reocngntion
-        * Burgunt & Tarr: Under what circumstances do we use each process?
-    - May depedn on whic representaiton is more **efficeint**
-        * How about the **earth** part of a globe
+        * **Burgunt & Tarr**: Under what circumstances do we use each process?
+    - May depend on which representation is more **efficeint**
+        * How about the **Earth** part of a globe
             - Just one 2d circle can represent the basic shape, accross any viewpoint
             - Same for a tomato
         * What about the base & handle parts of globe?
         * Onw object-centered 3d structure may be more efficeint
         * Same for specifric land masse on the globe or a horse
-* Landmark-centered Orientation
-    - Inforamtion is coded by its relation to a well known or prominment item
-    - Consider your college cmapus
+* **Landmark-Centered Orientation**
+    - Information is coded by its relation to a well known or prominent item
+    - Consider your college campus
         * What a promitemtn item you use to orient yourself on campus -- drillfield, burrus, torg
     - We can switch between these 3 representational strategies
         *  fMRI shows differnt frames of reference involve different brain areas
