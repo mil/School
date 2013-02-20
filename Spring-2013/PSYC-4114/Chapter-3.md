@@ -163,5 +163,195 @@ Chapter 3 -- Perception
         * What a promitemtn item you use to orient yourself on campus -- drillfield, burrus, torg
     - We can switch between these 3 representational strategies
         *  fMRI shows differnt frames of reference involve different brain areas
-* Gestalt View of Perception
-    - Perception 
+* **Gestalt View of Perception**
+    - **Gestalt Psychology**: 1800s-1940s
+        * Belin School: Kurt Koffka, Wlfgang Kohler, Max Wertheimer
+    - Perception _doesn't just_ **maintain size** and **shape constancy** in depth
+    - Also **organizes** objects in visual array into **groups**
+    - **Basic Gestalt Tenant**
+        * "The whole is more than the sum of its parts"
+           - Koffka acutally said the whole is "other" than the sum of its parts
+    - **Law of Pragnanz**
+        * Explains how we percetually group objects (or parts of objects) to form integral wholes
+        * Individuals **organize** their experieince to be:
+            - **Simple**,  **Concise**, **Symetrical**, and **Complete** 
+    - **Gestalt Rules of Visual Perception**
+        * **Figure-Ground**
+            - Organize perceptions by **distinguishing between a figure and a background**
+        * **Proximity**
+            - Elements tends to be **grouped together according to their _nearness_**
+        * **Similarity**
+            - Items **similar** in some respect tend ot be **grouped together**
+        * **Continuity**
+            - Based on **smooth continuity** which is pereffered to absrupt changes of direction
+        * **Closure**
+            - Items grouped together if they tend to **complete a figure**
+        * **Symmetry**
+            - Prefer to percieve objects as **mirror images**
+            - Regions bounded by symmetrical bordered percieved as coherent figure
+            - Ex. See 2 overlapping diamons vs. 1 small diamond  and two irregular objects
+* **Pattern Recognition** Systems
+    - How do we recognize patterns (eg. face, flower)?
+    - Farah(1992) proposed two systems:
+        * (Opposes Gestalt View)
+        * **First System**
+            - Recognize **parts**, elements
+            - Assemeble into wholes
+            - Less-Familiar Face Recognition
+        * **Second System**
+            - See **wholes**, configurations, form
+            - Then analyze parts
+            - Familar face recognition
+                * Overlook minor changes
+    - _Evidence_ for **Second System**
+        * Face Recogintion and Object Recongiton use different Systems
+        * These systems show functional indepnednece (Farah 200)
+        * Face Rcognition is different
+            - Uses Fufisform Gruyrs
+    - _Functional Independence_ Evidence
+        * **Prosopagnosia**
+            - **Inability** to **Recognize Faces** after brain damage
+            - Even close friends, family, somestimes own face
+            - Identify others through other features
+                * Voice, Gait, Contex, Unique Facial Features
+            - Ability to Recongize Other objects is intact
+        * **Associative Agnosia**
+            - **Difficulty** with **Recognizing Objects**
+            - Can draw(copy) them
+                * Percieve, but cannot indentify or name
+            - Can recognize faces
+    - "Special" **Nature of Facial Recognition** [Tanka & Farah (1993)]
+        * Faces and names
+        * Pictures of homes and home owner's names
+        * Test given -- pieces of home/piece of face shown
+        * Recall names of homes/faces
+        * _Found_: People have **more difficulty** recognizing **parts of faces** than **parts of houses**
+    - **Fusiform Gyrus** in _Temporal Lobe_
+        * Implicated in **Pattern Recognition**
+        * More active in Face Recognition _compared to_ other Common Objects
+        * Face Specificty? Or are we just face experts?
+        * Could be used in more _general_ pattern recognition (we are experts)
+            - Ex. Recognize birds, cards, chess, lepidoptera
+            - **Expert Individuation Hypothesis**
+                * **Expertise in visually discriminating** any class of objects is **faciliated** by _fusiform gyrus_
+* **Theories of Perception**
+    - **Direct** _Perception_ Theories (_Bottom-Up_)
+        * **Basics**
+            - Perception _comes from the stimuli_ in the enviroment
+            - **Bottom-up**: ("_Data-Driven_") Processing
+            - Process:
+                * Parts of stimulis identified
+                * Put together to form a percept
+                * Then recognition occurs
+            - Ex. See edges, rectangular, and other shpaes, lighed regions.. put together info to conclusde your seeing doors & hallway
+        * **Gibson's Ecological Model**
+            - Sensory Experience --> Perception (No Complex Thought in between)
+            - All info need to form perception is available in our info-rich enviroment
+                * (Stimuli & Contex)
+                * Complex Time & Space Info: A "Transforming Optical Array"
+                * Thus, _perception guides action_
+                * Which consequently _creates new perceptual input_
+                    - (not just static snapshots)
+            - **Perception** is **immediate** and **sponatneous**
+                * We simply **detect** stimuli
+                * Full perceptual abilites present at birth
+                * Biologicall tuned to respond
+                * **No** top-down processing (e.g memory/reflection on prior experience)
+            - An "**Ecological Model**"
+                * Perception = how human (animal) knows its enviroment
+                * **Niche**: Person and Enviroment are inseperable (must consider together)
+        * **Template Thoeries**
+            - **Template** = Highly detailed model in memory for every pattern we might recognize
+            - Templates are **Holistic**
+                * Unalyzed entities like "cutouts"
+                * Multiple templates held in long-term memory
+            - Process for Recognizing Incoming Stimuli:
+                * Compare percept to templates in memory until exact match is found
+                * Find an exact match to template
+            - In Everday Life:
+                * Check Sorter Machines, Fingerprint Matching, UPC Bar Codes, Chess Players
+                * **Sensory Store** Memory (iconic store) might work this way
+            - **Weaknesses**:
+                * Problem of **Imperfect Matches**
+                * Requires impossibly large memory store of templates
+                    - All possible position, orientation, and size variants
+                * Cannot acount for **flexibility** of pattern recognition system
+                    - (recongizing different handwriting styles)
+        * **Prototype Theories**
+            - More _flexible_ than template matching
+            - **Prototype** = Average of a class of related objects or patterns
+                * Includes most typical (frequently observed) features
+                * Various instances of object abstracted common charactersitic to **prototype**
+                * Highly Represntative **Idealization**
+                    - Not perfect match, only approximate
+                * No one feature required
+                * More features --> greater probaliity of a match
+            - **Evidence**
+                * Franks & Bransford
+                    - Presented objects based on prototyupes
+                    - Never saw prototype
+                    - Particpants congident they saw prototype
+                * Solso & McCarthy (1981)
+                    - Particpants shown a seris of face drawings
+                    - Prototypes recognized
+                    - Direct relation between confidence / prototype
+                * More Research
+                    - Prototypical faces are found to be **more attractive**
+                    - Protypical buety
+        * **Feature Theories** (Distinctive features)
+            - Recognizes objects on basis of **small number of characteristics** (features)
+            - **Pandemonium Model** (Selfridge)
+                * **Image Demons**: Recieve snsory input (e.g the letter "R") and pass onto retinal image
+                * **Feature Demons**: Decode specific features (vertical lines, horizonal lines, angles, curves, etc). and call out matches between stimulus and given feature...
+                * **Cognitive Demons**: Shouw when patterns in memory match features
+                * **Decision Demon**: 
+                    - Listens to pandemonium of cognitive demons
+                    - Decides which cognitive demons shouts the most
+            - **Hubel & Wiesel**
+                * **Simple Cells** detect bars/edges of particular orientation in particular location
+                * **Complex Cells** detect bars/edges of particular orientation
+                * **Hypercomplex Cells** detect particular colors
+                    - (simple and complex cells), bars, edges, etc in particular direction
+            - **Navon** (1977)
+                * **Local features**: Components / Details
+                * **Global Features**: Overall shape
+                * **Global Precendence**: 
+                    - For **close-together** global features are identified faster than local features
+                    - Can interfere w/ local feature recognition
+                * **Local Precendence**
+                    - For **far-apart** local features, local features idnetified feaster than global features
+                    - Can interfere w/ global feature recognition
+            - **Feature Theory** _Challenges_
+                * Theory must specify **how* the features are **combined/joined**
+                * These models deal most easily w/ fairly **simple stimuli**
+
+            - **Structural-Desciprtion** Theory
+                * **Biederman** (1987):
+                * Form stable 3D mental representation of objects based on a few viewpoints 
+                * Indepndent geometrical shapes = "**geons**"
+                * **Recongition by Components** (RBC) Theory: observe stimulus and decompose into **geons**
+                * Explains ability to quikly recognize even degrated stimuli as instance of a general class
+                    - (Its a chair, cup face)
+                * Doesn't account for recongition or distinction of parituclar objects (or own face)
+                * Evidence -- Biederman & Cooper (1991):
+                    - Used visual priming to demonstate the existence of geons in a picture naming task
+                    - Subjects shown series of fragmented pictures and were asked to identfy the objects
+                    - Objects broken into geons, etc.
+                * Adavantages:
+                    - Recognize important of arragment of parts
+                    - Parsimonous: Small set of primitve shapes (geons
+                * Weaknesses:
+                    - Structure not always key to recognition
+                    - Which geons? (simplicity vs explantory adequency)
+            - **Disadvantages**
+                * Not every isntance of pattern has **all** the features
+                    - Though see **protoype theories**
+                * Does not take into account how the features are put together
+                    - Though see **structure description** theories
+    - **Constructive** _Perception_ Theories
+        * People acitvly construct perceptions using information based on excpetations
+        * **Top-down**: ("_Theory-Driven_") Processing
+        * Process:
+            - Expectations, Theories or Concepts Exist
+            - These Theories/Concepts combine info into Reocnizing Patterns
+        * Active Percept Construction

@@ -10,6 +10,10 @@ Chapter 2 - Cognitive Neuroscience
         - Ignores **Emergent Properties**
             - _Unique features_ that _emerge_ when _parts combine_/interact.
             - **Gestaltic**: Whole is greater than the sum of its parts
+    * **Nervous System**
+        - Organized **network of cells** (nuerons)
+        - Individual recieves info from enviroment
+        - Nervous system process info and then interacts with the enviroment 
 - **The Nueron**
     * The **Basic Unit** of the **Brain**
         - Nueron **transmits electrical signals** from one location to another in the nervous system
@@ -39,7 +43,7 @@ Chapter 2 - Cognitive Neuroscience
                     * Surrounded by the **myelin** (a white fatty substance) surrounding
                     * Has a mylin sheath: Insluates and protects longer axons from electrical interference
                         - Also speeds up conduction of information
-                    * **Nodes of Ranvier**: small gaps in myelin coating serving to increase conduction speed
+                    * **Nodes of Ranvier**: Small gaps in myelin coating serving to increase conduction speed
                 - **Un-Myelinated**: 
                     * Typically **shorter** and **smaller**
                     * No myelin surrounding
@@ -47,27 +51,24 @@ Chapter 2 - Cognitive Neuroscience
             * **Small knobs** found at **ends of branches** of **axon**
             * **Do not directly touch** the dendrites of next neuron
         - **Synapse**
-            * **Small gaps** between terminal buttons of one or more neurons
+            * **Small gaps** between **terminal buttons** of one or more **neurons**
             * Important in cognition -- more synapses in learning
-            * Decreased synapses associated with Alzheimers
+            * **Decreased synapses** associated with **Alzheimers**
     * **Action Potential**
         - Brief **change in voltage** over surface.
         - Results in **impulse transmission**
 - **Nuerotransmitters**
     * **Monoamines**
         - **Synthesized by the nervous system** through **enyzmes** in **amino acids** in our diet
-            * (Acetylcholine) **Ach**: Memory
-            * (Dopamine) **DA**: Movement, Attention, Leanring
-            * **Serotonin**: Sleep/Dream, Mood
-                - Ex: Inhibits dreaming; defects in serotonin = depression
-            * **Epinephrine**/Norepinephrine: Alertness, Fight/Flight
+        - **Ach** (Acetylcholine): Memory
+        - **DA** (Dopamine): Movement, Attention, Leanring
+        - **Serotonin**: Sleep/Dream, Mood
+            * Ex: Inhibits dreaming; defects in serotonin = depression
+        - **Epinephrine**/Norepinephrine: Alertness, Fight/Flight
     * **Amino-Acid Neutotransmitters**
-        - Come **from out diet** _without_ further synthesis
-            * **GABA**: Leanring/Memory
-            * **Glutamate**: Learning/Memory
-        - **Nueromodulators**
-            * **GABA inhibits presynaptic neurons**
-            * **Glutamate excites presynaptic neurons**
+        - **Nueromodulators** which come **from out diet** _without_ further synthesis
+        - **GABA** **inhibits** presynaptic neurons
+        - **Glutamate** **excites** presynaptic neurons
     * **Neuropeptides**
         - _Peptide_ **chains** (two/more amnio acids)
             * **Endorphins**: Pain Relief
@@ -91,15 +92,15 @@ Chapter 2 - Cognitive Neuroscience
         - **Tracing Studies**
             * Inject **radioactivate** or **fluoresecent tracer** into brain
                 - Absorbed by neurons
-            * Trace **Anterograde**: From Soma/Source to Termination/Synapse 
-            * Trace **Retrograde**: From Termination/Synapse to Soma/Source
+            * Trace **Anterograde**: From _Soma/Source_ to _Termination/Synapse_
+            * Trace **Retrograde**: From _Termination/Synapse_ to _Soma/Source_
             * To map **Neuron Connections** & **Axon transport**
         - **Selective Lesioning**
             * **Cut** neuronal **connections**
             * **Observe deficits**
     * **In Vivo** Study: **Single Neuron Monitoring**
         - Monitor a single cell of neuron activity
-        - **Disterhoft & Matthew** (2003):
+        - **Disterhoft & Matthew** (2003)
             * Young vs. Old Rabbbits compared: Learning of Eyeblink Conditioning
                 - A form of classical conditioning
                 - UCS = Puff of Air
@@ -184,6 +185,16 @@ Chapter 2 - Cognitive Neuroscience
                 * Correlates with brain activation during a task
             - **Less invasive & higher temporal resolution than PET**
             - But more costly ($ and time)
+    * More **Metabolic Imaging**
+        - **Transcranial Magnetic Stimulation** (TMS)
+            * Temproraily disrupts normal activity of brain in a limited area
+            * Place coil on person's head
+            * Allow electrical  current to pass through it
+            * Look at cognitive funcgtioning when particular area is disrupted
+        - **Magnetoencephalography** (MEG)
+            * Measures activity of brain from outside of the head
+            * Pick up magnetic fields emmited by changes in brain activity
+            * Very precise method of brain activity measurement
 - **Anatomy of the Brain**
     * **Forebrain**
         - **Cerebral Cortex**
@@ -192,22 +203,22 @@ Chapter 2 - Cognitive Neuroscience
             * **Cingulate Gyrus**
                 - Within cortex
                 - **Executive control** and **Respiratory** function
+        - **Limibic System**
+            * Involved in **learning**, **emotions**, and **motivation**
+            * **Hippocampus**: 
+                - **Learning** and **Memory**
+                - Forming **New Memory**
+                - Disease: **Korsakoff's Syndromone**
+                    * Unable to form new memories
+            * **Amygdala**: 
+                - **Anger** and **Aggression**
+                - Emotion perception, learning & memory
+                - Object recognition, Sexual Behavior
+            * **Septum Lucidum**: 
+                - **Anger** and **Fear**
         - **Basal Ganglia**
             * **Collection of nucleui** and **neural fibers**
-            * Crucial to the **function of the motor system**
-        - **Limibic Systems**
-            * Involved in **learning**, **emotions**, and **motivation**
-        - **Hippocampus**: 
-            * **Learning** and **Memory**
-            * Forming **New Memory**
-            * Disease: **Korsakoff's Syndromone**
-                - Unable to form new memories
-        - **Amygdala**: 
-            * **Anger** and **Aggression**
-            * Emotion perception, learning & memory
-            * Object recognition, Sexual Behavior
-        - **Septum Lucidum**: 
-            * **Anger** and **Fear**
+            * Crucial to the _function_ of the **motor system**
         - **Thalamus**
             * Primary relay for **Sensory Information**
             * **Transmits** info to correct regions of **Cerebral Cortex**
@@ -244,8 +255,8 @@ Chapter 2 - Cognitive Neuroscience
             * Function: **Control** of body **movement**
             * **Degreneration of DA** - producing neurons produces **Parkinson's** disease
     * **Hindbrain**
-       - **Medulla Oblongata**
-            * **Breathing**, **Swallowing**, and **Digestion**
+        - **Medulla Oblongata**
+            * Functions: **Breathing**, **Swallowing**, and **Digestion**
             * Serves as **juncture at which nerves cross**
                 - From one **side of body to opposite side of brain**
             * Involved in cardiorespiratory function, digestion and swallowing
@@ -260,6 +271,8 @@ Chapter 2 - Cognitive Neuroscience
             * Motor coordination, posture, and maintaining balance
             * Also **Coordination** and **Muscle Tone**
 - **Cerebral Coretex** (Forebrain)
+    * **Broadman's Areas**
+        - 52 Distinct areas for **localizing coritcal function**
     * **Contralaterality**
         - Right side of brain controls left side of body
         - Left side of brain controls right side of body
@@ -294,9 +307,19 @@ Chapter 2 - Cognitive Neuroscience
             * **Self-Recognition**: Recognition of own face
     * **Lobes** of the **Cerebral Cortex**
         - **Frontal Lobe**: _Reasoning & Planning_ (also Motor Processing)
+            * Contains the **Primary Motor Cortex**
+                - Specializes in Planning, control, and execution of **movement**
+                - Particularly important in any **delayed response**
         - **Parietal Lobe**: _Touch, Temperature, Pain, & Pressure_
+            * Contains the **Primary Somatosensory Cortex**
+                - Recieves info from sense about **pressure, texture, temperature, and pain**
+                - If stimulated, you'd feel like you'd been touched
         - **Temporal Lobe**: _Auditory & Perceptual Processing_
         - **Occipital Lobe**: _Visual Processing_
+    * **Projection Areas** of the **Lobes** _of_ the **Cerebral Cortex**
+        - Areas in lobes which snsory processing occurs
+        - Nerves contain snsory information tgoing to the thalamus
+
 - **Split Brain Studies**
     * **Sperry** (1960-1998)
         - First to study patients with a **split corpus callosum**
@@ -368,7 +391,7 @@ Chapter 2 - Cognitive Neuroscience
         - Closed-head vs. Open-head (skull penerated)
             * **Closed-Head**: 
                 - Skull **remains in tact** but damage to the brain
-                - _Caused By: Mechanical force of a blow to the head
+                - Caused By: Mechanical force of a blow to the head
             * **Open-Head**
                 - Skull **does not remain** in tact but is penetrated
                 - Caused By: Ex. Bulletwound
