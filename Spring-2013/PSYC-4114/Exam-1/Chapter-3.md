@@ -33,9 +33,10 @@ Chapter 3 -- Perception
     - **Light energy** (photons) enters the eye
     - Passes through the 
         * **Cornea** 
+            - **Clear Dome** that Protects the Eye
             - _Protects_ and **Refracts Light**
         * **Pupil** 
-            - Hole
+            - Hole / opening in **Center of Iris**
             - **Dilation** controlled by **Iris**
     * **Lens** 
         - _Focuses Light Waves_ further
