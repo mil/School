@@ -271,3 +271,108 @@ Chapter 5 - Memory Models
     * Parallel distributed processing model
         - Computer & nueral tandem networks working in **parallel (vs. single-computer or 3-stores memory model: serial processes)
         - **Memory**: involves a network of distrubuted (not local) representations based on connections between units
+        - **Learning**: gradual changes in **connection stength** by experience.
+        - **Spreading Activation**: Simultaneous activation (priming) of multiple links among nodes in a network.
+        - **Working Memory**: activated part of LTM
+        - Evidence: priming, procedural memory
+        - Less evidence: Recall/recongiiton of single epsidoe/exposure to semantic info
+        - Controversy: Can PDP models predict *order* and *purposefulness* of human thought?
+- Koriat & GoldSmith (1996)
+    * Suggest a *change in the metaphores* used to conceptualize memory
+        - **"Storehouse"** Metaphore
+            * Memory as *repository*
+            * Leads to questions of how much? (quantity)
+    * Propose a **"correspondence"** metaphore
+        - Emphasizes **function** of memory
+            * How memory works in *real world*
+            * Purpose: **vehicle** for interaction with enviroment
+            * Questions focus on **acuracy** in Representing past event
+- **Exceptional Memory**
+    * Case studies of **mnemonists**
+    * Studies of **skilled memory**
+    * **Eidetic (photographic) memory**
+        - Ability to recall images, sounds or objectsw in *high volume* with extreme *accuracy*
+    * Case Studies
+        - **"S."** (Luria, 1968)
+            * Mastered long string of words
+            * Remebered learned list of words 15 years later
+            * Relied on visual imagery
+                - E.g 1 = proud man, 3 = gloomy person
+            * But **synesthesia** symptoms interfered elsewhere
+                - Diffuculty following conversation (saw blurs of sensations), abstract concepts (infinity - no image), memory intrusions
+        - **Rajan Mahadevan
+            * Can recite pi to 31,811 places
+            * Memorize matrices up to 20x20 digits
+        - Innate or learned?
+            * **"SF"**: average college student praciced chunking string as race times
+            * All translate **arbitrarily** info into **meaningful** info
+        - **Hypermnesia**: Retriving seemingly forgotten memories
+- **Deficient Memory**
+    * Amnesias
+        - **Retrograde Amnesia**
+            * loss of memory for events that occured **before** the trauma
+        - **Infantile Amnesia**
+            * Inability to recall events of young childhood
+                - Rember your first diaper? words?
+        - **Antereograde Amnesia**
+            * No meory for events that occur **after** the trauma
+        - **Research on Amenesia**
+            * Study of **antereograde amnesiacs** using implicit and explicit memory tests
+            * Amneisiacs show:
+                - Poor **recongition** memory (explicit)
+                    * Don't remeber having seen the word list (stimuli)
+                - Normal **priming** (implicit)
+                    * Complete the word fragments
+    * Alzheimer's Disease
+        - Leads to memory loss and dementia in older population
+        - Atrophy of the cortical tissue, formal diagnosis only after death and autopsy
+            * Alzheimer brains shows abnormal fibers that appear to be **tangles** of brain tissue and senile **plaques**
+                - (patches of degenerative nerve engindings)
+                - These may lead to disruption of impulses in neurons
+                - Low acetylcholine in hippocampus
+        - Cases over the age of 65 are labeled 'late onset'
+            * Incidence rate increases with age:
+                - 1% per year in ages 70-75 (30-50% of adults over 70 have symptoms)
+                - 6% per year in ages 80-85 (50% of adults over 80 have symptoms)
+                - Cause is unclear, may be gene x enviroment interaction
+        - Early onset is rare but can affect those in their mid 30s and in middle age
+            * Dominant genetic mutation
+        - Symptoms:
+            * Gradual, Continous, Irreversible
+                - Memory Loss
+                    * Episodeic goes first, then also semantic
+                - Problems doing familiar tasks
+                - Problems with lan guage
+                - Trouble knowing the time, date, or place
+                - Poor or decreased judgment
+                - Porblems with abstract thinking
+                - Misplacing things often, such as keys
+                - Changes in mood and behavior
+                - Changes in personality
+            * Eventually causes death
+            * Some drugs might slow progression a bit:
+                - donepezil (Aricept)
+                    * Slow acetylcholine destruction
+                - memantine (Namenda)
+                    * Inhibits chemical that overxcites and destroys neurons
+    * Korsakoff's syndrome
+        - Alchohol consumption disrupts serotonin
+        - Short-term effects; Inhibits memory formation
+        - Other untoward effects 
+        - Long-term alcohol abuse leads to Korsakoff's syndrome
+        - Inhibits body's ability to absorb thiamine (Vitamine B1)
+        - Damage to thalamus & hypotahalamus & other areas
+        - Mostly anterograde amnesia (sometimes w/ some retrograde)
+        - Treatment with Thiamine and other drugs
+            * Slow, often incomplete recovery
+- Hoppocampus and Memory
+    * Critical for **integratioN** and **consolidation** of memories
+        - Along with amygdala
+        - Transferring newly synthesized info to longer-term storage
+    * Essential for **Declarative** memory
+    * Other structures regulate non-declarative memory
+        - (skills and habits, conditioning, priming) 
+        - Basal ganglia: Procedural knowledge
+        - Cerebellum: 
+
+        
