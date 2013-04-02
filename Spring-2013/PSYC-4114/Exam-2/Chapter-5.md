@@ -1,10 +1,10 @@
 Chapter 5 - Memory Models
 =========================
 - Basics of Memory
-    * Memory is
+    * **Memory** is
         - Means we use to *create*, *maintain* and *retrieve* 
         - Info about the past to use in the present
-- Processes in Memory
+- **Processes in Memory**
     * **Encoding**
         - Processes used to **store** *information* in memory
     * **Storage**
@@ -14,121 +14,151 @@ Chapter 5 - Memory Models
 - **Methods** Used to **Study Memory**
     * **Recall** versus **Recognition**
         - **Recall**
-            * To produce a fact word, or other item from memory
-            * Elicits deeper information processing than recognition
-                - e.g. relating concepts on essay vs. memorizing facts for multiple choice items
-            * Mainly taps expressive knowledge
+            * Produce a fact word, or other item from memory
+            * **Deeper information processing** than recognition
+                - e.g. Relating concepts on essay 
+                    * vs. memorizing facts for multiple choice items
+            * Mainly taps **expressive knowledge**
         - **Recognition**
-            * Select or otherwise identify an item
-            * Recognize item being one that you learned previously
-            * Recognition memory is better usualy than recall
+            * Select or otherwise **identify** an item
+            * **Recognize item** being one that you **learned previously**
+            * **Recognition memory is better usualy than recall**
     * **Types of Recall**
         - **Free Recall**
-            * Recall all the words you can from the list you saw previously
-            * With no cues given, repeat items in any order inw hich you can recall them
+            * **Recall all** the **words** you can 
+            * From list you **saw previously**
+            * With **no cues** given:
+                - Repeat items in any order 
+                - Which you can recall them
         - **Cued Recall**
-            * Recall everything that is associated with the Civil War
-            * Participants are given a cue to faciliatate recall
+            * **Recall everything** that is **associated** with Civil War
+            * Participants given cue to faciliatate recall
         - **Serial Recall**
-            * Recall the names of all previous presidents in the order they were elected
-            * Need to recall exact order as well as item names
+            * **Recall names** of all previous presidents 
+                - **In the order they were elected**
+            * Need to recall **exact order** as well as item names
 - **Recognition Tasks**
-    * Participant selects from a list of items they have previously seen
+    * Participant **selects from a list** of items they have previously seen
     * Examples
         - Circle all the word you saw previously
         - Indicate which pircture you saw yesterday
         - Mulitple choice tests
         - True/False Tests
 - **Explicit Memory**
-    * A type of LTM that involves **conscious recollection**
+    * Type of *LTM* that involves **conscious recollection**
         - You know you are trying to retrieve information from memory
-        - e.g recall/recognize words, facts, pircture sfrom a prior set of items
+        - e.g recall/recognize words, facts, pirctures from a prior set of items
     * **Declarative Memory**
         - Memory for facts that can be stated 
-        - What/Who/When -  propositional
-            * E.g. Date of birth, name best friend, what does dog look like, who sang thriller, etc.
+        - **What/Who/When** -  propositional
+        - E.g. 
+            * Date of birth
+            * Name best friend
+            * What does dog look like
+            * Who sang thriller, etc.
     * **Semantic Memory**
-        - Theoretical knowledge idnependent of personal experience/context
-        - Recognize otheres, historical events/people, info learned in school, general facts
+        - **Theoretical knowledge** 
+        - Independnt of Personal Experience/Context
+        - E.g 
+            * Recognize others
+            * Historical events/people
+            * Info learned in school
+            * General facts
     * **Episodic Memory**
-        - Factual knowledgee of a personal (autobiographical) experience 
-        - In specific time & place (your life experiences)
+        - Factual knowledge of **personal experience**
+            * (autobiographical)
+        - In **specific time & place** (your life experiences)
         - Remeber that trip to Paris 
             * Sights, Smells, etc.. you experienced
-- **Implicit Memory** (Non-Declarative)
+- **Implicit Memory** *(Non-Declarative)*
     * Requires **retrieval of information** from memory 
         - **Without conscious awareness**
-    * Task completion can indirectly indicate implicit memory
+    * *Task completion* can **indirectly** indicate *implicit memory*
         * E.g word completion task
-    * **Procedural Memory** (a type of Implicit Memory)
+    * **Procedural Memory**
         - Memory for process (how to - action)
             * e.g: how to tie shoes, play an instrument, etc...
         - Procedure becomes implicit with learning/practice
-        - Procedure is not easily verbalized/articulated/explained (declared)
-            - Involves cerebellum
+        - Procedure is not easily 
+            * Verbalized
+            * Articulated/Explained (declared)
+        - Involves **cerebellum**
         - Examples Promcedural Memory Tasks
-            * Rotary-Pursuit Task
+            * **Rotary-Pursuit Task**
                 - Keep stylus on a dot on a rotating disk
-            * Mirror-Tracing Task
+            * **Mirror-Tracing Task**
                 - Watch mirror image to trace a figure
                 - How do these test procedural memory?
-    * **BLANK**: 
-        - Response to target stimulus influenced by 
-        pervious presentation of prime stimulus
-    * **BALNK** (Pvalovian) conditioning: learned to associate a neutral antecedent event/condition (CS) with a reflex-evoking stimulus (UCS). eg. Little Albert's fears
-    * **BLANK** (Skinnerian): learn to associate reward or punishment consequence with a voluntary behavior
+    * **Priming**: 
+        - Response to target stimulus influenced by previous presentation of prime stimulus
+    * **Classical** (*Pavlovian*) Conditioning: 
+        - Associate neutral antecedent event/condition (CS)
+        - With reflex-evoking stimulus (UCS). 
+        - eg. Little Albert's fears
+    * **Operant** (*Skinnerian*)
+        - Associate reward or punishment consequence 
+        - With a voluntary behavior
     * **BLANK**
-        - **BLANK**: decrease in attention response to a rpeeated benign stimulu
-        - **Sensitization**: increase in attention response to an intesne / noxious stimulus
+        - **Desensitization**: 
+            * Decrease attention response to 
+                - Repeated benign stimulu
+        - **Sensitization**
+            * Increase attention response to 
+                - Intense / noxious stimulus
 - **Process-Dissociation** Model (Jacoby 1991)
-    * Implicit vs. Explicit Memory may *both* have a role in almost every response
-        - But could they be *seperable process* in the brain?
+    * Implicit vs. Explicit Memory may *both* have role in every response
+        - But could they be **seperable process** in the brain?
     * **Process Dissociation Procedure**: 
         - Measures **Controlled** & **Automatic** memory processes
         - See how much each contributes
     * **Single Dissociation** Method: 
-        - Show **single variable** affects expression of **one cognitive process** but not other
-            * (e.g explit but not implicit memory)
+        - Show **single variable** affects 
+            * Expression of **one cognitive process** 
+            * But does not effect other
+            * (e.g explicit but not implicit memory)
         - Show that **manipulating A** affects **performance**
-            * On task X but not task Y (single dissociation)
-            * Ex. 
+            * On task X 
+            * But not task Y
+        - Examples
+            * Brain lesioning
                 - Lesion to one region affects only one process
                 - While leasions to another region affects both
                 - So the regions are not completly functionally indepenedent 
-        - Amensica patient still shows **priming effects** (**implicit**) even when they **fail at recall** (**explicit**)
+            * Amensia
+                - Amnesiac patient still shows **priming effects** (**implicit**) 
+                - Even when they **fail at recall** (**explicit**)
             * H.M (medial temporal lobe damage) 
-                - Had *intact working* and *procedural memory*
-                - But *impaired declarative* memory
-        - **Aging affects **
-            * **Explicit** (declarative) memory but 
-            * **Not Implicit** Memory
+                - Had *intact* **working** and **procedural** memory
+                - But *impaired* **declarative** memory
+            * **Aging affects **
+                - **Explicit** (declarative) memory but
+                - **Not Implicit** Memory
                 - (e.g learning rotary persuit task)
-        - Shift from auditory to visual presentation during encoding 
-            * **Affects implicit** 
-            * But **not explicit memory**
+            * Shift from auditory to visual presentation during encoding 
+                - **Affects implicit** 
+                - But **not explicit memory**
     * **Double Dissociation** Method:
-        - Show *two* variable have *opposite* effects 
+        - Show **two variables** have *different* effects 
             * On **two cognitive processes**
-            * Ex. explicit & implicit memory
+            * Ex. *explicit & implicit* memory
         - **Show that**
             *  **Maniuplating A** affects **performance**
                 - On task X 
                 - Not on task Y
-            2. **Manipulating B** affects performance 
+            2. **Manipulating B** affects **performance **
                 - On task Y 
                 - Not on task X
         - Examples...
             * Broca's Patients 
-                - Couldn't speak but could understand
-                - Whereas Wernike's patients couldn't understand 
+                - Couldn't speak but **could understand**
+                - Whereas Wernike's patients **couldn't understand** 
                     * But could produce speech
             * Visual *identification* 
-                - "knowing *what*" pathway
+                - "Knowing *what*" pathway
                     * From visual cortex to *temporal lobe 
-                - vs. 
-                - "knowing *where* pathway (location)
+                - vs. "Knowing *where* pathway (location)
                     * From visual cortex to *parietal* lobe
-            * **Hippocampus Damage**
+            * **Hippocampus Damage** (Jacoby 1991)
                 - Lessions to **two seperate regions**
                 - Differentially Affect two processes. 
                 - So they are at least in part **functionally independent**
@@ -140,193 +170,217 @@ Chapter 5 - Memory Models
                         - Without Recollection
                     * Whereas medial temporal lobe damage 
                         - Impairs familiarity but not recollection
-    * Older Adults 
-        - Older show greater *implicit* memory 
-            * For irrelevant information 
-        - Younger show greater *explicit* memory 
-            * For irrelevant information 
+            * Older Adults 
+                - Older show greater *implicit* memory 
+                    * For irrelevant information 
+                - Younger show greater *explicit* memory 
+                    * For irrelevant information 
 - **Models of Memory**
-    * Represent ways memory can be conceptualized
-    * **Atkinson & Shiffrin (1968) 3-Stage Model** (Traditional Model)
+    * Represent **ways memory** can be **conceptualized**
+    * **Atkinson & Shiffrin (1968) 3-Stage Model** 
+        - **(Traditional Model)**
         - Stimuli -> Sensory Stores -> Short-Term Store <-> Long-Term Store
         - **Sensory Store**: 
             * Stores *Large Amounts* of **info**
             * For *Very Brief* periods 
-                - (Before transfer to STM or loss)
-            * Contains **Iconic Store**: 
-                - Visual sensory register, 
-                - Holds info for very short period (<1sec)
+                - Before transfer to STM or loss
+            * **Iconic Store**: 
+                - **Visual sensory register**
+                - Holds info for very *short period* (<1sec)
                     * In form of icons that look like 
-                        - The distal object
+                    * The Distal Object
                 - E.g 
                     * Tray name w/ sparkler
                     * Memory trace persists
                     * But not physical trace
-    * **Sperling (1960) Iconic Memory Research**
-        - **Whole report** procedure
-            * Flash a matrix of letters for 50 milliseconds
-            * Identify as many letters as possible
-            * Participants typically remebered 4 letters
-        - **Partial Report** Procedure
-            * Flash a matrix of letters for 50 millisceonds
-            * Partipants are told to report bottom row only
-                - Or any row requested
-            * Show iconic memory is:
-                - **Larger than whole report first suggested**
-    * **Averbach & Coriell (1961) Iconic Memory Research**
-        - Showed matrix for 50 mesc
-        - Place a small mark above a letter at different delays
-        - Results indicated that as many as 12 letters could be stored 
-            * In sensory memory
-                - Backward visual masking
-            * **Sesnsory Stores**   
-                    - Iconic store or Visual Sensory Register
-                    - Holds visual information for 250 msec longer
-                    - Information held i pre-categorical
-                    - Capacity - up to 12 items
-                    - Information fades quickly
-                * **Ecohic Stores (echo** or Audotiry Snsory Register
-                    - Holds autidotryA
-                * **Echoic Store** for auditory info (2-4 seconds)
-    * **Short-Term Store**: 
-        - Stores *limited amount* info 
-        - For *Somewhat Longer Periods* 
-            * Usually about 30 seconds
-            * Unless rehearsed
-        - Information fades quickly
-        - Our *window on the present*
-            * Holds everything you think about at any given moment
-        - **Atention**
-            * Attending to sensory store info 
-            * *Encodes* (transfers) it to *STM*
-        - **Rehearsal**
-            * Repeating info keeps it stored (*maintained*) in STM
-                - Or **lose it** (usually within about 30 seconds)
-        - **Retrieval**
-            * Access memoryu in LTM and BLANK STM
-
-        - **Research on Short-Term Memory** 
-            * Miller (1956)
-                - Your mind can hold 4 +- 2 bits of information
-                - Or chunks of information
-            * Storage Capacity of Visual Short-Term Memory
-                - Luck & Vogel (2001)
-                - Used non-verbal objects with different color and orientation features
-                - Taps only visual STM, vs. Letter Stimlui: 
-                    * *Verbal* or *Visual* STM
-                    * 3-4 Objects
-                - So capacity of visual STM 
-                    * **Depends on # of objects**
-                    * Not number of features
-                - Objects are the capacity indactor not number of features
-                    * Features stored in VSTM in parallel or automitic pattern
-            * **Change Detection Task**
-                - Did the arry of objects change from sample to test array?
-    * **Long-Term Memory (Store)**: 
-        - Very *large capacity*
-        - Stores *lots of info* for *very long times*
-            * Perhaps indefinetly
-        - System that stores information for 
-        - Very long periods of time ("archive")
-        - **Capacity**
-            * Thus far, **appears limitless**
-            * No clear way to test limits
-                - Can't 'max out' like STM
-        - **Duration**: 
-            * permanenet
-            * *Wilder Penfield*
-                - Electrically stimluated epilptic patients 
+            * **Visual Sensory Store**
+                - Holds visual information for 250 msec longer
+                - Information held i pre-categorical
+                - Capacity - up to 12 items
+                - Information fades quickly
+            * **Ecohic Store** 
+                - Auditory Sensory Register
+                - Holds auditory information for 2-3 seconds 
+        - **Short-Term Store**: 
+            * Stores **Limited Amount* info 
+            * For **Somewhat Longer Periods**
+                - Usually about 30 seconds
+                - Unless rehearsed
+            * Information fades quickly
+            * Our **window on the present**
+                - Holds everything you think about at any given moment
+            * **Atention**
+                - Attending to sensory store info 
+                - *Encodes* (transfers) it to *STM*
+            * **Rehearsal**
+                - Repeating info keeps it stored (*maintained*) in STM
+                    * Or **lose it** (usually within about 30 seconds)
+            * **Retrieval**
+                - Access memoryu in LTM and **BLANK** STM
+        - **Long-Term Memory (Store)**: 
+            * Very *large capacity*
+            * Stores *lots of info* for *very long times*
+                - **Perhaps indefinetly**
+            * System that stores information for 
+                - Very long periods of time ("archive")
+            * **Capacity**
+                - Thus far, **appears limitless**
+                - No clear way to test limits
+                    * Can't 'max out' like STM
+            * **Duration**: 
+                - Permanenet
+                - *Wilder Penfield*
+                    * Electrically stimluated epilptic patients 
                     * Cerebral cortices
             * **Permastore**:
                 - *Very long term* storage of some info 
                 - Foreign Language, Math
-        - **Limitations of "Short Term Memory' Model**
-            * Traditional 3-stage Model View: 
-                - STM as short-term **storage** mechanism
-            * But the way we use memory in the moment includes both 
-                - **Storage** and **Active Processes**
-                    * Transferring info between STM and LTM:
-                    * e.g: memorizing a phone number
-                - Transfer info from STM to LTM during encoding, 
-                    * back to STM during retrieval
-            * **Comprehending a conversation**
-                - "I'd like to order a large pizza with ham and pineapple."
-                - "Sorry, were out of pineapple. Would you like mushrooms instead?"
-                - Q: What would you be substituted with mushrooms? 
-                    * Must sore 1st sentence while processing 2nd to be able to answer
-            * **Doing Computations**:
-                - Demo: multiply 43 times 6 in your head
-                - So requires **storage** (hold) and **active** processes (carry, multiply)
-            * So STM storage doesn't explain how we both hold and work with currently active information
+- **Research into Memory Stores**
+    * **Sperling (1960) Iconic Memory Research**
+        - **Whole Report** Procedure
+            * **Flash a matrix of letters** for **50 milliseconds**
+            * Report as many letters as possible
+            * Participants typically **remebered 4 letters**
+        - **Partial Report** Procedure
+            * **Flash a matrix of letters** for **50 millisceonds**
+            * Report bottom row only (or any row requested)
+            * Show iconic memory is:
+                - **Larger than whole report first suggested**
+    * **Averbach & Coriell (1961) Iconic Memory Research**
+        - **Showed Matrix** for **50 mesc**
+        - Place a **small mark above a letter** 
+            * At different delays
+        - Results indicated 
+            * As many as **12 letters** could be stored in sensory memory
+        - **Backward Visual Masking**
+            * Stimulus presented in same position after target letter
+            * Can erase the visual icon in memory
+    * **Miller (1956) STM Research**
+        - Your STM can hold 4 +- 2 bits of information
+            * Or chunks of information
+        - STM info generally stored acoustically
+    * **Luck & Vogel (2001) STM Research**
+        - Storage Capacity of **Visual Short-Term Memory**
+        - Used non-verbal objects with 
+            * Different color and orientation features
+        - **Change Detection Task**
+            * Did the arry of objects change from sample to test array?
+        - Taps only visual STM, vs. Letter Stimlui: 
+            * *Verbal* or *Visual* STM
+            * 3-4 Objects
+        - Didn't mattrer if one or both features changed
+            * Color and oerientation
+        - So capacity of visual STM 
+            * **Depends on # of objects**
+            * *Not number of features*
+        - Objects are the capacity indactor 
+            * Not number of features
+        - Features stored in VSTM 
+            * In parallel or automitic pattern
+    * **Bahrick's Research** on **Very Long Term Memory**
+        - High school year books containing 
+            * All of the names 
+            * And photos of students used to acceses memory
+        - 392 ex-high school students (17-74) 
+            * Took 4 different memory tests
+        - Free recall of the names
+            * Photo Recognition Test
+                - Asked to identify formet classmates
+            * Name Recognition Test
+                - A name and photo matching test
+        - For some of the participants was long as **49** years 
+            * since they graduated from High school
+        - Results:
+            * BLANK% accuracy in face and name recogition after 34 years
+            * 60% accuracy for free recall after 15 years
+            * 30% accuracy for free recall after 30 years
 
 - **Levels of Processing** Models of Memory (LOP)
-    * **Bahrick's Research** on **Very Long Term Memory**
-        - High school year books containing all of the names and photos of students used to acceses memory
-        - 392 ex-high school students (17-74) took 4 different memory tests
-            * Free recall of the names
-            * A photo recognition test where they were asked to identify formet classmates
-            * A name recognition test
-            * A name and photo matching test
-        - For some of the participants it was as long as **49** years since they graduated from High school
-    - **Craik & Lockhart** (1972)
-        * Not focused on X # of stores, 
-        * Focused on encoding as a **continum**
-            - Maybe an infinite # of levels of processing (LOP) 
+    * **Limitations of "Short Term Memory' Model**
+        - Traditional 3-stage Model View: 
+            * STM as short-term **storage** mechanism
+        - But way we use memory in the moment includes both 
+            * **Storage** and **Active Processes**
+                - Transferring info between STM and LTM:
+                - e.g: memorizing a phone number
+            * Transfer info from STM to LTM during encoding, 
+                - Back to STM during retrieval
+        - **Comprehending a conversation**
+            * "I'd like to order a large pizza with ham and pineapple."
+            * "Sorry, were out of pineapple. Would you like mushrooms instead?"
+            * Q: What would you be substituted with mushrooms? 
+                - Must store 1st sentence while processing 2nd to be able to answer
+        * **Doing Computations**:
+            - Demo: multiply 43 times 6 in your head
+            - So requires **storage** (hold) and **active** processes (carry, multiply)
+        * So STM storage doesn't explain how we both 
+            * Hold and work with currently active information
+    - **Craik & Lockhart** propose **Levels of Porcessing** Memory Model (1972)
+        * **Not focused on X # of stores**
+        * Focused on **encoding as a continum**
+            - Maybe an infinite # of **levels of processing** (LOP) 
                 * To encode an item
-            - Focus on process 
-                * Opposed to structure of memory
+            - **Focus on Process**
+                * *Opposed to structure of memory*
         * **Deeper Processing** 
-            - Leads to better storage and retrieval
-            - Elaborating according to meaning leads to strong memory 
+            - Leads to **better storage and retrieval**
+            - Elaborating according to **meaning**
+                * Leads to **strong memory **
                 * Durable
                 * Retrievable memory trace
         * **Shallow Processing**
             - Emphasizes *physical* features of stimulus 
-            - Creates fragile
-            - Quickly decaying memory trace
+            - Creates *fragile* memory
+            - Quickly *decaying memory trace*
         * **Mainteance Rehearsal**: 
-            - Continuosuly Repeating Item 
+            - Continuosuly **Repeating Item **
             - Refered to as **Rote** Rehearsal
-            - Maintains info in STM only
-                * No long-term retention
+            - Maintains info in **STM only**
+                * No Long-Term Retention
             - Examples:
                 * Repeating a phone # to hold it in STM 
-                    - Until you dial (and forget) it
-            - Works for Simple Info
+                * Until you dial (and forget) it
+            - Works for **Simple Info**
         - **Elaborative Rehearsal**: 
-            * Create a semantic (meaning) 
-            * Associate new material with material already in Long-Term Memory
+            * Create a **Semantic Meaning**
+            * Associate **New Material**
+                - With **Material already in Long-Term Memory**
             * Examples:
                 - Studying complex course material for an exam 
                     * Focusing on comprehending its meaning in a deeper context
                 - Comparing and contrasting
                 - Organizing, Imagery, etc..
-    * Craik & Watikins (1973) : **Primacy Effect**
-        - Better recall for early items in list
-        - Suggests that encoding and recall from LTM dpeneds on *rehearsal* of infos
+    * LOP Support: **Craik & Watikins (1973)**
+        - **Primacy Effect**: Better recall for early items in list
+            * Suggests encoding and recall from LTM 
+                * depends on *rehearsal* of infos
             - Also a **Recency Effect** for info recently put in STM
-        - Does **type ** of rehearsal affect transfer from STM to LTM?
-        - Design
-            * Instructed: At the end of each list, report the last word beginning with a particular letter (e.g "G")
+        - Does **type** of rehearsal affect 
+            * Transfer from STM to LTM?
+        - Design:
+            * Instructed: At the end of each list, report last word beginning with a particular letter (e.g "G")
             * Particpants listened to 27 lists of words but **not** told to memorize them
-            * After all lists were presented, instructed to recall as many words as possible from all lists
-            * IV: Varied the number of interviewing words (and time) between the words beginning with the target letter
-        - Results
-            * Found no difference in recall for words with zero vs. 12 intervening words
-            * So, recall of words was 
-                - *Independnt of the length of time it was matintined in STM*
-            * Participants rehearsed without elabtorting on the meaning of the words
+            * After all lists were presented
+                - Instructed to recall as many words as possible
+                    * From all lists
+            * IV: Varied the number of interviewing words (and time) between the words 
+                - (Beginning with the target letter)
+        - Results:
+            * Found **no difference** in recall for words with zero vs. 12 intervening words
+            * So, **recall of words** was 
+                - **Independnt of** the length of **time** it was **maintained in STM**
+            * **Participants rehearsed** without elaborating on the meaning of the words
                 - Only focused on the initial consonant sound
-            - Rehearitng at a *shallow maintence* level (vs. elaborative)
+            - Rehreasing at a *shallow maintence* level (vs. elaborative)
         * **Maintence Rehearsal** does not automatically lead to LTM storage
-    * **Craik & Tulving** (1975)
-        - Participants studied a list in 3 different ways
+    * LOP Support: **Craik & Tulving** (1975)
+        - Participants studied a list in **3 different ways**
         - **Structural**
             * Is the word in **capital letters**? 
             * Focus on letter case = structure
         - **Phonemic**
             * Does the word *ryhme* with dog?
-            * Focus on acuostic properties
+            * Focus on **acuostic properties**
         - **Semantic**
             * Does the word *fit in* this sentence? 
             * The ____ is delicious.
