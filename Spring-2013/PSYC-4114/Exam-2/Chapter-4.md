@@ -7,7 +7,7 @@ Chapter 4 - Attention
                 - Senses,
                 - Our Stored Memories 
                 - And Other Cognitive Processes
-        - We have **BLANK** mental (cognitive) resources, necessitating selectivity
+        - We have **Limited** mental (cognitive) resources, necessitating selectivity
         - Attending helps with **memory** (salient info)
     * Functions of **Attention**:
         - **Vigilance**: Detecting
@@ -109,7 +109,7 @@ Chapter 4 - Attention
         - Ex. If clock breaks, suddently owner notices clock isn't chiming
     * **Habituation/Dishabituation Paradigm**
         - Allows psychologists to nonverbally test stimulus detection abilities of infances & animals
-        - Measure subject's BLANK to see if change occurs when pattern/sound is changed
+        - Measure subject's arousal level to see if change occurs when pattern/sound is changed
             * If animal/infant dishabituates to change, they can detect the change
             * If animal/infant does not dishabituate to change in stimuli, they didn't detect change
 - **Functions of Conscious Attention**
@@ -196,7 +196,7 @@ Chapter 4 - Attention
                 - **Shortcomings** of Broadbent's Model
                     * Participants name often get through (Neville Moray, 1959)
                         - Cocktail party effect
-                    * Partipants can BLANK shadowed channel based on meaning in message (Gray & Wedderburn, 1960)
+                    * Partipants can attend to shadowed channel based on meaning in message (Gray & Wedderburn, 1960)
                         - Left (shadowed) ear gets: "Dear 7 Jane..."
                         - Right (unattended) ear gets "9 aunt Jane..."
                         - Reported hearing: "Dear aunt Jane...."
