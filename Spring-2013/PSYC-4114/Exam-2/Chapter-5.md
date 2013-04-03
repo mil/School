@@ -388,190 +388,234 @@ Chapter 5 - Memory Models
             * From Best to Worst:
                 - Semantic, Phonemic, Structural
     * **Criticisms of LOP Model**
-        - How does it work? (unspecified mechanisms)
-        - How do we measure "deeper" objectivly?
-            * Circular definition: "deeper" level <-> better remembered
-            * Deeper processing takes more effort - so does *effort level* explain it?
+        - How does it work? 
+            * (**Unspecified Mechanisms**)
+        - How do we measure **"deeper" objectivly**?
+            * **Circular definition**: "deeper" level <-> better remembered
+            * **Deeper processing** takes **more effort**
+                - So does *Effort Level* explain it?
         - Doesn't explain: "**Transfer appropriate processing**"
             * Morris, Bransford, and Franks (1977)
-            * Two processing tasks: semantic vs. rhyme
-            * Two types of tests: standard yes/no recongition vs. rhyme test
-            * Memory performance also dpends on the **match between type of encoding process and type of retrieval test**
-- Baddeleys' **Working Memory** Model
+            * Two processing tasks: **Semantic vs. Rhyme**
+            * Two types of tests: 
+                - Standard **yes/no recognition** vs. 
+                - Rhyme Test
+            * Memory performance also depends on 
+                - **Match between type of encoding process** 
+                - And **Type of retrieval test**
+- **Baddeley**s' **Working Memory** Model
     * Working Memory:
-        - Holds the fleeting STM (lost in 30 secs w/o rehereasal to LTM) and 
-        - Holds most recently activated (concious) content of LTM
-        - Allows us to temporarily **store* ifnromation and **activly process** it
-    * 3 "Slave" Systems
-        * **Articulatory Loop** (aka Phonological Loop)
+        - Holds the fleeting STM 
+            * (Lost in 30 secs w/o rehereasal to LTM)
+        - Holds most **recently activated** (concious) 
+            - **Content of LTM**
+        - Allows us to 
+            * Temporarily **store* information and 
+            * **Activly process** it
+    * **3 "Slave" Systems**
+        * **Articulatory Loop** 
+            - (aka **Phonological Loop**)
             - Converts visual language to an auditory code 
                 * Through silent articulation 
-            - Maintains acoustic (sound & speech) information for a short time
+            - Maintains acoustic (sound & speech) information for short time
             - **Subvocal Rehearsal**: 
                 * "Inner Speech" revives trace 
                     - Keeps info in WM
             - "**Articualtory Supression**"
                 * **Inhibition of Subvocal Rehearsal**
-                    - E.g Repeat a number while trying to lear a list of words
+                    - E.g Repeat a number while trying to learn list of words
             - **Phonological Storage**: 
                 * "Inner ear" briefly holds auditory memory trace
         * **Visuo-Spatial Sketch Pad**
-            - Used for maintiang and processing visual & spatial information
+            - Used for mainting and processing visual & spatial information
             - Brief memory for 
-                * Shapes, colors, location & speed of objects, 
+                * Shapes, colors, location & speed of objects
                 * Planning movement
         * **Episodic Buffer**
-            - Used for storage of a multimodal code, 
-            - Holding an integrated episode bwetween systems using different codes
-            - Binds/integrates ST and LTM visual, spatial, phonological info to create unitary episodic represenation 
+            - Used for storage of a multimodal code
+            - Holding an integrated episode between systems using different codes
+            - Binds/integrates ST and LTM visual, spatial, phonological info 
+                * To create **unitary episodic represenation**
     * **Central Executive**
-        - Controls all 3 slave systems
+        - **Controls** all **3 slave systems**
         - **Focuses attention on relevant** items
         - **Inhibiting** attention from **irrelevant** items
         - **Plans sequence** of tasks to **accomplish goals**
-        - Schedules processes in complex tasks
+        - **Schedules processes** in **complex tasks**
         - Often **switches attention** between different parts
-            * **Updates** and **checks** content to determine 
-                - Next step in sequence of parts
-    * **Support for Baddely**
-        - Support for **Articulary Loop**
-            - Pariticpants studied two differnt list types
-                * **1 syllable**: wit, sum, harm, bay, top
-                * **5 syllables**: univesity, opportunity, aluminum
-            - Reading rate seemed to determine recall performance 
-            - Supports conceptulatization of **articulary loop**
-        - Support for **Visuo Spatial Sketch Pad**
+            * **Updates** and **checks** content to determine next **step in sequence** of parts
+    * **Support for Baddely's Working Memory**
+        - Support for **Articulary Loop** (Badddeley 1986)
+            - Pariticpants studied **two different list types**
+                * **1 syllable**
+                    - Wit
+                    - Sum
+                    - Harm, bay, top
+                * **5 syllables**
+                    - University
+                    - Opportunity
+                    - Aluminum, constitutional, auditorium
+            - **Reading rate** seemed to **determine recall performance**
+            - Supports conceptulatization of **Articulary Loop**
+        - Support for **Visuo-Spatial Sketch Pad**
             * Dual-Task Paradigm
-            * Sketchpad can be disrupted by requiring partipants to tap repeatedly a specified pattern of keyboard keys 
+            * Sketchpad can be disrupted by 
+                - Requiring partipants to tap repeatedly a specified pattern of keyboard keys 
                 - Or locations while using **mental imagery** at the same time
 - **Multiple-Memory Models/Systems for Long-Term Memory**
-    * Tulving's **Multiple-Memory Systems** Model (1972)
+    * **Tulving**'s **Multiple-Memory Systems** Model (1972)
         - Suggests multiple systems involved in info **storage and retrieval**
-        - Suggests 3 types of Long-Term Memory:
+        - Suggests **3 Types of Long-Term Memory**:
             * **Semantic Memory**
                 - General knowledge
-                - Facts, definitions, concepts, 
+                - Facts, definitions, concepts
                 - Ideas, historical dates
             * **Episodic Memory**
                 - Autobiographical event memories
                 - Your First Kiss, Your 6th Birthday
             * **Procedural Memory**
                 - How to do something 
-                - Skiing, biking, tying your shoes
-    - Nyberg, Cabeza, & Tulving (1996) **"Hera"**
+                - Skiing, biking, Tying your shoes
+    - **Nyberg, Cabeza, & Tulving** (1996) **"Hera"**
         * **Hemispheric Encoding/Retrival Asysmetry Mdodel**
-        * **PET technology** to look at episodic and semantic memory
+        * **PET technology** to look at **episodic and semantic memory**
         * Asked people to engage in semantic or episodic memory tasks 
             - While being monitored by PET
-            - **Episodic**: "Remeber the time you last saw your best friend"
-            - **Semantic**: "Rember your best friend's name..."
-        * Results
+        * **Episodic**: 
+            - "Remeber the time you last saw your best friend"
+        * **Semantic**:
+            - "Rember your best friend's name..."
+        * Results:
             - Some evidence of **double dissociation**
-            - Left prefrontal hemisphere 
-                * More activate in **semantic memory retrieval**
-            - Right prefrontal  hemisphere
-                * More active in **Episodic** memory retrieval
-    * Squire (1986)
-        * Declarative
-            - Semantic & Episodic
-        * Non-Declarative
-            - Procedural skills, priming, conditioning, nonassociative (habituation/sensitiazation)
-    * Schacter (200)
+            - **Left Prefrontal Hemisphere**
+                * More activate in **Semantic Memory Retrieval**
+            - **Right prefrontal Hemisphere**
+                * More active in **Episodic Memory Retrieval**
+    - **Squire's Taxonomy** (1986)
+        * **Declarative**
+            - Semantic (facts)
+            - Episodic (events)
+        * **Non-Declarative**
+            - Procedural Skills  (e.g motor, perceptual, cognitive)
+            - Priming (perceptual, semantic)
+            - Conditioning
+            - Nonassociative (habituation, sensitization)
+    - Schacter (2000)
         * Proposed 5 memory systems: 
-            - Episodic, semantic, perceptual, procedural, working
+        * Episodic, Semantic, Perceptual, Procedural, Working
 - **Connectionist Perspective**
-    * Parallel Distributed Processing Model
-    * Computer & nueral tandem networks 
-        - Working in **parallel 
-        - Vs. single-computer or 3-stores memory model: serial processes
-    * **Memory**: Involves a network of distributed (not local) representations 
-        - Based on connections between units
-    * **Learning**: Gradual changes in **connection stength** by experience
+    * **Parallel Distributed Processing Model**
+    * Computer & Nueral tandem networks 
+        - Working in **parallel**
+        - Opposed to Single-computer 
+            * Or 3-stores memory model (as a serial processes)
+    * **Memory**: 
+        - Involves a network of **distributed** 
+            * (Not Local) representations 
+        - Based on **connections between units**
+    * **Learning**: 
+        - Gradual changes in **connection stength** 
+            * Through experience 
     * **Spreading Activation**: 
-        - Simultaneous activation (priming) of multiple links 
+        - **Simultaneous activation** (*priming*) of multiple links 
         - Among nodes in a network
     * **Working Memory**
         - Activated part of LTM
-    * Evidence: priming, procedural memory
-    * Less evidence: 
-        - Recall/recognition of single episode/exposure to semantic info
+    * Evidence: 
+        - **Priming**
+        - **Procedural Memory**
+    * Less Evidence: 
+        - Recall/recognition 
+            * Of single episode/exposure to semantic info
     * Controversy: 
         - Can PDP models predict *order* and *purposefulness* of human thought?
-- **Koriat & GoldSmith** (1996)
-    * Suggest a *change in the metaphores* used to conceptualize memory
-        - **"Storehouse"** Metaphorof 
-            * Memory as *repository*
-            * Leads to questions of how much? (quantity)
-            *Easier to address in lab setting
+- **Correpsondence Metaphor** (**Koriat & GoldSmith** 1996)
+    * Suggest a *change in the metaphores*
+        - Used to conceptualize memory
+    * **"Storehouse"** Metaphor used for *traditional conceptions*
+        - Memory as **repository**
+        - Leads to questions of **how much**? (quantity)
+        - Easier to address in lab setting
     * Propose a **"Correspondence"** Metaphor
         - Emphasizes **function** of memory
-        - How memory works in *real world*
+        - How memory works in **real world**
         - Purpose: 
             * **Vehicle** for interaction with enviroment
-            * Questions focus on **Acuracy** in Representing past event
+        - Questions focus on **Acuracy** 
+            * In **representing past event**
 - **Exceptional Memory**
     * **Mnemonists**
-        - Studies of **Skilled Memory**
+        - Studies of individuals with **Skilled Memory**
         - Extrodinary memory capabilities
     * **Eidetic (photographic) memory**
-        - Ability to recall images, sounds or objectsw 
-        - In *high volume* with extreme *accuracy*
+        - Ability to *recall* **images, sounds or objects**
+        - In **high volume** with extreme *accuracy*
     * **Case Studies**
         - **"S."** (Luria, 1968)
-            * Mastered long string of words
-            * Remebered learned list of words 15 years later
-            * Relied on visual imagery
-                - E.g 1 = proud man, 3 = gloomy person
-            * But **synesthesia** symptoms interfered elsewhere
-                - Diffuculty following conversation (saw blurs of sensations)
-                - Diffuculty with abstract concepts (infinity - no image)
+            * Mastered **long string of words**
+            * Remebered learned list of words **15 years later**
+            * Relied on **visual imagery**
+                - ex. 1 = proud man
+                - ex. 3 = gloomy person
+            * But **synesthesia** symptoms **interfered elsewhere**
+                - Diffuculty following conversation 
+                    * (saw blurs of sensations)
+                - Diffuculty with abstract concepts 
+                    * (infinity - no image)
                 - Memory Intrusions
         - **Rajan Mahadevan**
             * Can recite pi to 31,811 places
             * Memorize matrices up to 20x20 digits
         - Innate or learned?
-            * **"SF"**: Average college student praciced chunking string as race times
-            * All translate **arbitrarily** info into **meaningful** info
+            * **"SF"**
+                - Average college student 
+                - Praciced chunking string as race times
+            * All translate **arbitrarily** info 
+                - Into **meaningful** info
     * **Hypermnesia**: 
-        - Retriving seemingly forgotten memories
+        - *Retriving seemingly forgotten* memories
 - **Deficient Memory**
     * **Amnesias**
         - **Retrograde Amnesia**
-            * Loss of memory for events that occured 
-            * **Before** the trauma
+            * **Loss of memory** for events 
+            * Occured **Before** the trauma
         - **Infantile Amnesia**
-            * Inability to recall events of young childhood
-                - Rember your first diaper? words?
+            * **Inability to recall** events of **young childhood**
+            * Ex. Rember your first diaper? words?
         - **Antereograde Amnesia**
-            * No memory for events that occur **after** the trauma
+            * Loss of memory for event 
+            * Occured **After** the trauma
         - **Research on Amenesia**
             * Study of **antereograde amnesiacs** using implicit and explicit memory tests
             * Amneisiacs show:
-                - Poor **recongition** memory (**explicit**)
+                - Poor **recognition** memory (**explicit**)
                     * Don't remeber having seen the word list (stimuli)
                 - Normal **priming** (**implicit**)
-                    * Complete the word fragments
+                    * Can complete the word fragments
+                    * At same rate as normals
     * **Alzheimer's Disease**
         - In older population, leads to 
-            * **Memory Loss** and 
+            * **Memory Loss**
             * **Dementia**
-        - Atrophy of the cortical tissue
+        - **Atrophy** of the **cortical tissue**
             * Formal diagnosis only after death and autopsy
-            * Alzheimer brains shows abnormal fibers that appear to be 
-                - **Tangles** of Brain Tissue and Senile **Plaques**
-                    * (patches of degenerative nerve engindings)
-                    * These may lead to disruption of impulses in neurons
-            * Low acetylcholine in hippocampus
-        - **Cases over the age of 65** are labeled **'late onset'**
+            * Alzheimer brains shows abnormal fibers with
+                - **Tangles** of Brain Tissue 
+                - Senile **Plaques**
+                    * Patches of *degenerative nerve endings*
+            * Lead to **disruption of impulses in neurons**
+            * **Low acetylcholine** in **hippocampus**
+        - **Late Onset**
+            * Cases **over** the **age of 65** 
             * **Incidence** rate **increases** with **age**:
                 - 1% per year in ages 70-75 
                     * (30-50% of adults over 70 have symptoms)
                 - 6% per year in ages 80-85 
                     * (50% of adults over 80 have symptoms)
-                - Cause is unclear
-                    * May be Gene x Enviroment Interaction
+            * **Cause is Unclear**
+                - May be *Gene x Enviroment* Interaction
         - **Early Onset** is **Rare**
-            * Affects those in their mid 30s and in middle age
+            * Affects those in their **mid 30s** and in middle age
             * Dominant genetic mutation
         - **Symptoms** of Alzheimers:
             * Gradual, Continous, Irreversible Memory Loss
@@ -596,18 +640,20 @@ Chapter 5 - Memory Models
             * Inhibits memory formation
             * Other untoward effects 
         - **Long-term Alcohol Abuse** leads to **Korsakoff's Syndrome**
-        - **Inhibits** body's ability to **absorb thiamine** (*Vitamin B1*)
-        - Damage to thalamus & hypotahalamus & other areas
-        - Mostly anterograde amnesia 
+        - **Inhibits** body's ability to **Absorb Thiamine** (*Vitamin B1*)
+        - Damage to 
+            * Thalamus & Hypotahalamus & Other Areas
+        - Mostly **anterograde amnesia**
             * (Sometimes w/ some retrograde)
         - Treatment with **Thiamine** and other drugs
             * Slow, often incomplete recovery
 - **Hippocampus and Memory**
     * Critical for **integration** and **consolidation** of memories
         - Along with amygdala
-        - Transferring newly synthesized info to longer-term storage
-    * Essential for **Declarative** memory
-    * **Other structures** regulate **non-declarative** memory
+        - Transferring newly synthesized info 
+            * To longer-term storage
+    * Essential for **Declarative** Memory
+    * **Other Structures** regulate **Non-Declarative** memory
         - Skills and habits, conditioning, priming
-        - Basal ganglia: Procedural knowledge
-        - Cerebellum: Classically conditioned responses
+        - **Basal ganglia**: Procedural knowledge
+        - **Cerebellum**: Classically conditioned responses
