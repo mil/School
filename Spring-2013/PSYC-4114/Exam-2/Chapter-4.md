@@ -3,85 +3,97 @@ Chapter 4 - Attention
 - **Attention**
     * Definition of **Attention**: 
         - Means by which we *actively process* **limited amount** of information 
-            * From enormous amounts of info  available through
-                - Senses,
-                - Our Stored Memories 
-                - And Other Cognitive Processes
-        - We have **Limited** mental (cognitive) resources, necessitating selectivity
-        - Attending helps with **memory** (salient info)
+            * From enormous amounts of info available through
+                - Senses
+                - Stored Memories 
+                - Other Cognitive Processes
+        - We have **Limited** mental (cognitive) resources
+            * **Necessitating selectivity**
+        - Attending helps with **memory** 
+            * (salient info)
     * Functions of **Attention**:
         - **Vigilance**: Detecting
         - **Search**: Searching for
-        - **Selective Attention**: Seleceting Stimuli for Further Processing ()
+        - **Selective Attention**: Seleceting Stimuli for Further Processing
         - **Divided Attention**: Allocating our limited processing resources
 - **Consciousness**
-    * The feeling of awareness and content of awareness
+    * The feeling of **awareness and content of awareness**
         - (The info you're aware of manipulating)
     * Both **conscious** and **preconscious** attention
         - Can attend to (process some) info **w/o awareness**.
-        - **Harder to study preconscious process** since we lack awareness of them
+        - **Harder to study preconscious process** 
+            * Since we lack awareness of them
     * **Conscious Attention**
         - **Monitor** interactions with enviroment
-        - **Link** past (memories) and present (sensations) to give continuity of experience, identity
+        - **Link** past (memories) and present (sensations) 
+            * To give **continuity of experience** and **identity**
         - **Control** and **plan** our future actions
     * **Preconscious Attention**
-        - Attending to items that lie outside our **conscious** awareness.
-        - Some can be made conscious, some not... examples:
-            * Stored Memories? Sensations? Reading? Driving? Subliminal Messages?
+        - Attending to items that **lie outside** our **conscious** awareness.
+        - **Some can be made conscious, some not**...
+        - Examples:
+            * Stored Memories? 
+            * Sensations? 
+            * Reading? Driving? Subliminal Messages?
 - **Priming**
     * Present a stimulus (**prime**) 
         - Prime *biases* how *subsequent* stimulus ("probe"/"target") is processed
     * Priming can be **conscious or preconscious**
-        - *Conscious*: If aware of the prime
-        - *Preconscious*: Outside awareness (subliminal)
-            * Priming by **subliminal** stimuli provides good evidence of preconcious attention
-    * **Facilitative** versus **Negative** Priming: (Speeding or Slowing Process)
+        - **Conscious**: If *aware* of the prime
+        - **Preconscious**: Outside awareness* (subliminal)
+            * Priming by **subliminal** stimuli provides good evidence of *preconcious attention*
+    * **Facilitative** versus **Negative** Priming
+        - (Speeding or Slowing Process)
         - **Facilitative Priming**
-            * Given stimulus **increases** likelihood that subsequent related/identical stimulus will be processed
-               - (e.g retrived from long-term memory)
+            * Given stimulus **increases** likelihood 
+                - **Subsequent related/identical stimulus will be processed**
+                - (e.g retrived from long-term memory)
             * Target stimuli processed **faster** if preceeded by a **related** word
                 - e.g *BUTTER* target primed by *BREAD* prime
                 - e.g *PINE* target primed by *PALM* prime
         - **Negative Priming**
-            * Stimulus **decreases** likelihood of processeing next related stimulus
-            * Target stimuli processed **slower** if prceeded by a un-related word
+            * Stimulus **decreases** likelihood 
+                - **Processeing next related stimulus**
+            * Target stimuli processed **slower** if prceeded by a **un-related word**
                 - e.g *HAND* targed primed by **PALM** (tree)
-    * Marcel (1983) **Priming Experiment**
-        - When preconsious (sublimnial) prime "PALM"
-            * Faster reaction time for target words PINE and WRIST
+    * **Marcel** (1983) **Priming Experiment**
+        - When **preconsious (sublimnial)** prime "PALM"
+            * **Faster reaction time** for target words **PINE** and **WRIST**
             * So meaning of "PALM" (tree and body part) primed
-        - When conscious (superliminal) prime "PALM"
-            * Fater reaction time for one of targets (PINE/WRIST), slower for other
-            * So only one meaning is primed, one is negative primed/inhibited
-    * Bowers, Regehr, Balthazard & Parker (1990)
+        - When **conscious** (superliminal) prime "PALM"
+            * Faster reaction time for one of targets (PINE/WRIST)
+                - Slower for other
+            * So **only one meaning is primed**
+                - (One is negative primed/inhibited)
+    * **Bowers, Regehr, Balthazard & Parker** - **Diads of Triads** (1990)
         - Diad of Triads presented..
-        - Place a fourth word into one of the two categories
+        - Place a **fourth word** into one of the **two categories**
         - Not sure of why place word into fourth category
-        - Result demonstrate prconscious processing
-    * **Tip-of-the-Tongue** Experiences (TOT)
+        - Result demonstrate **preconscious processing**
+    * **Tip-of-the-Tongue** Experiences (**TOT**)
         - You know the word but can't bring into consciousness
         - Paradigms used to generate TOT states:
-            * Show picture sof famous people or politations and have participants give name
-            * Ask general knowledge questions to gnereate TOTs
+            * Show pictures of famous people or politations
+                - Have participants give name
+            * Ask general knowledge questions to generate TOTs
     * **Blindsight**
-        - Person cannot see portion of visual field
-        - Person beahves in some instances as if they can see it
-        - Being aware of doing something is distinguishable from doing something
-
+        - Person **cannot see** *portion* of **visual field**
+        - Person **behaves** in some instances **as if they can see it**
+        - Being **aware** of doing something is **distinguishable** from **doing something**
 - **Automatic** versus **Controlled Processes**
     * **Automatic Processing**
         - Requires **no conscious control**
         - Outside consciousness
         - **Parallel processing** -- all at once
-        - No awareness or attention
+        - **No awareness** or **attention**
         - Unintentional
     * **Controlled Processing**
         - Requires **conscious control**
         - **Sequential**: One step at a time
-        - Takes effort, attentin, awareness
+        - Takes effort, attention, awareness
 - **Automatization**
-    * The process by which a procedure changes from 
-        - Being highly conscious to being relativly automatic
+    * The process by which a **procedure changes** from 
+        - Being highly **conscious** to being relativly **automatic**
     * **Integrated Components Theory** (Anderson, 1983)
         - Practice of indivudal steps leads to integration of procedure
         - Eventual steps consolidated into highly integrated process
