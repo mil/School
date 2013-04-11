@@ -12,16 +12,29 @@ body {
 
 .name { }
 .title { text-align: center; }
-p { text-indent: 36pt; }
+p { 
+text-indent: 36pt; 
+margin: 0;
+padding: 0;
+margin-bottom: 0.75em;
+}
+h2 { 
+  font-size: 1em; 
+  font-weight: bold;
+  line-height: 1em;
+  margin: 0;
+  padding: 0;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
 
 
 #references {
-
+  page-break-before: always;
 }
 #references .source {
   /* APA Formatted
    * Handing Indent */
-  margin-top: -20pt;
   text-indent: -36pt;
   padding-left: 36pt;
 }
