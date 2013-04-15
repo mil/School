@@ -1,9 +1,11 @@
+
 @page { 
   margin: 1in;
   font-family: Times New Roman;
- /*  font-family: Tymes;*/
+  /*  font-family: Tymes;*/
   @top-right { content: counter(page); }
 }
+@page:first { @top-right { content: "Miles Sandlar " counter(page); } }
 
 body {
   line-height: 2em;
@@ -13,10 +15,10 @@ body {
 .name { }
 .title { text-align: center; }
 p { 
-text-indent: 36pt; 
-margin: 0;
-padding: 0;
-margin-bottom: 0.75em;
+  text-indent: 36pt; 
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0.75em;
 }
 h2 { 
   font-size: 1em; 
@@ -35,6 +37,7 @@ h2 {
 #references .source {
   /* APA Formatted
    * Handing Indent */
-  text-indent: -36pt;
-  padding-left: 36pt;
+text-indent: -36pt;
+padding-left: 36pt;
+  margin-bottom: 0.75em;
 }
