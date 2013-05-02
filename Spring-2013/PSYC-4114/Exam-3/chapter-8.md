@@ -105,3 +105,14 @@ Chapter 8 -- Knowledge Representation & Organization
         - When we ehar or read about scripeted event, our knowledge o entire:
 
 - **Schemas & Scripts**
+    * Proceduralization = non declarative construction of knowledge
+    * Serial Processing
+        * Linear sequence of operations
+        * Create using production system (if then rules)
+- ACR-R = Adaptive Control of Thought 
+    * Declarative Knowledge
+        - Represented in *Propositional Networks**
+        - Chunks = network structures defined by type and slots
+        - Each node receptive to stimulation form neighboring nodes, activation can spread via links across chunks
+        - But limited activation capacity: not all notdes can be at once
+
