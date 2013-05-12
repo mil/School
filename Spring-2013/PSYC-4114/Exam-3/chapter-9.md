@@ -549,3 +549,64 @@ Chapter 9 - Language
         - Human language facility far exceeds even our closest non-human relatives
             * Chimps over BLANK% gentically idnetical to us
         - Chomsky: "If an animal had a capacity as biologically advantageous as language but somehow hadn't used it until now, it would be an evolutionary miracle, like finding an island of humans who could be taught to fly"
+
+- Animal Language Research
+    * Simpler models of behavior than humans
+    * Fewer ethical constraints
+        - Thought sitll need ethics committee approval
+    * Full time subjects
+        - Ready avialable (new any "no shows')
+        - Complete control of enviroment
+    * Comparitive analysis
+- "Washoe" the Chimp
+    * PReivous attempts to teach cimpanzees verbal language failed
+    * Gardner (1966) taught si8gn language to female chimp named "Washoe"
+    * Critereon for realibity for each of Washoe's signs
+    * Washoe was able to use word "more" appropriatly in differnt contexts
+    * First words were "mor tickling"
+    * Transfered sign dog to the sound of barking by an unseen dog
+    * Acquired around 250 words in ASL
+    * Washoe the speaking chimp died 11/07 at age 42.
+    * Chomsky and Piker raised doubts
+        - Language is unique to humans
+        - Hmo sapients evolved neural device after evolutionary split from other primates
+- Beyond Washoe
+    * Bodamer, Fouts, Fouts, & Jensvold (1994)
+        - Stuedied private signing by chimpanzees
+        - Found private signing is robust
+    * Garder & Garder (1989)
+        - Washoe adopted an infant chimp named Loulis
+        - No humans signed in front of infant chimp
+        - Loulis still manged to learn over 50 signs from other chimpanzees
+        - No active teaching, rather Loulis just learned
+- Nim Chimpsky (Terrace)
+    * Used reigious method to train Nim ASL, but..
+    * Skeptical fo the reported success of the chimpanzees like Washoe
+    * Compared their behavior to that of pigeons who are
+    * Nim learned signs for many words: dirty, sleep, biute, and angry (up to 125 words), but...
+    * Only prgamatic (to eachireve outcome); not expression of thughts, ideas
+    * No greammar/syntax organization
+        - Alternated sgining "Give Nim banana", "banana give nIm" "banana nim give"
+    * Repition only. No creation of new phrases
+    * His most used signes were drink, gum, banana, and more
+    * are all chimps like pigeons when it comes to language, or was it just Nim?
+    * Nuture effects? Lived first 10 months in a lab before increased human contact
+    * Pygmy chimps show created combination of visual symbols of a leanred sign language and understand some spoken language
+- Koko (Gorilla, Age 35)
+    * Penny Patterson raising lowland gorilla since 1972
+    * Taught Koko sign lanaguage
+    * Has greater voculatry than Nim
+    * Uses more words per utterence
+    * Patterson & Liden (1981)
+        - Koko uses structure, is creatuive, and spontnous in her lenavues
+        - Understnad and uses humor
+    * Koko now have vocab of over 1000 signs, and understands even more spoken english
+- Animal vs. Human langauge
+    * Human language facility far exceeds even our closest non-human relatives
+        - Chimps: over 95% gentically identical to us
+        - Chip "lagnuage" repetoire is small,er less ophisticated in structure, spotenousely acquired, generative
+        - And, they still use flip phones
+    * Chomsky suggest skepticism:
+        - If animal had capaticy biologically advcantgeous as language nbut somehow hand' used it until now, it would be an evolutionarly miralce, like finding an island of humand who could be taugft to fly
+
+
