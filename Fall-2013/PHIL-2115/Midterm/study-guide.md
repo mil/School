@@ -1,16 +1,21 @@
+Midterm Exam Study Guide
+========================
+
+Exam Format
+-----------
+- Four Sections with Extara Credit Section
+    * ID Questions
+      - Definitional, 2-4 sentences
+    * Series of Fragments
+      - Choose gfragments want to talk about
+    * Apply Aristotles Theory of Causes ot the Timeous
+      - What causes are at stake in passage
+    * Short Answer/Essay Questions
+
+
 - Philosophical Relvant feature common to poets
 - Distinguish Early, Middle, and Late Platonic Dialoges on Conceptual Grounds
 - Four Stages of 
-
-Four Sections with Extara Credit Section
-1. ID Questions
-  - Definitional, 2-4 sentences
-2. Series of Fragments
-  - Choose gfragments want to talk about
-3. Apply Aristotles Theory of Causes ot the Timeous
-  - What causes are at stake in passage
-4. Short Answer/Essay Questions
-
 EC -- Selection from the 
 
 
