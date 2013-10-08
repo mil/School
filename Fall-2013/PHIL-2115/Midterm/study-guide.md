@@ -21,27 +21,36 @@ EC -- Selection from the
 
 ID Questions
 ============
-- Hylomorphism
-    * Ordinatry objects are composed of matter and form
-- Monist
-    * Believes either than one thing exists or that one thing exists
-    * Parmides is a monist,,, doesn't break that down into particular elements
-- Elementalists
-    * A particular element is the fundamental elementalists of existence.
-    * Fire is the fundamental ingrediaennt of all existence.
-- Atomist
-    * Matte ris not infinitly divisible. There is something that is fundamentally uncuttable.
-    * Why they think theie right, that matter is infinitly divisible
-        - if you could divide things ifinitly, you could make an infinitly small
-        - if you add thing together how could they be added to have an infinite mass
-        - have to have way to compose things
-        - infinitly small masses
-- Pluralists
-    * There are multiple things in the world
-    * Air, fire, earth, and water
+- Name a philosophically relevant feature common to the poets.
+- Be able to distinguish between early, middle, and late Platonic dialogues on conceptual grounds.
+- You will be supplied a fragnment (**unattributed**) and need to explain what it means
+- Briefly describe the four stages of the Socratic *elanchus*
+- Name three charteristics of the philosopher according to Plato.
+- Briefly describe the different between dialetics and eristics.
+- Why is the question "what exists" ambigous in Greek?
+- Why does Parmedies argue that Being is spherical?
+- Define what a monist is and give an example.
+- Define what an elementalist is and give an example.
+- Why do atomists believe that matter is not infintely divisible?
+- Be able to idenfity Aristotle's four causes in an example.
+- What is hylomorphism?
 
 Essay Questions
 ===============
+- Compare and contrast the philosophical styles of Plato and Aristotle on three points/variables. Which do you find more satifying? Why?
+- How does Gorgias defend Helen of Troy? DO you think this argument is successful? Why or why not?
+- Explain each stage of Plato's cave metaphor. What is philosophically relevant about each stage? Do you think the cave-dwellers are like us? Why or why not?
+- Explain on eof Zeno's paradoxes. Why is it diffucult to resolve? Why is it philosophically intersting?
+- Explain the Part-Whole objection to Plato's Theory of Forms; use examples to illustrate. Do you think this objection seriously undermines Plato's theoy? Why or why not?
+- Explain how the "third-man" arugment is an objection to Plato's Theory of the Forms. WHy does Socrates use of though or thinking not suffice as an answer to this objection in *Parmenides 132b-c*? Do you think this objection seriously undermine Plato's theory? Why or why not?
+- Explain the challenge of relation predicates to Plato's Theory of the Forms. You may *not* appeal to the example of master and slave discussed in lecture; generate your own example(s) to illustrate the problem clearly. Do you think this is a devestating objection? Why or why not?
+- Explain one of Aristotle's objections to Plato's Theory of the Forms. Then explain how Plato could respond to it in a way that is consitent with the Classical Doctrine of the Forms. Use examples wisely.
+- How is change possible according to Aristotle? Use an example to illustrate.
+
+
+
+
+
 - 1. How does Georgias defened Helen of Troy?
     * Georgias defence of Helen of Troy.. Gerogias makes an intial basic distinction: She did it willingly or unwillingly. Helen is the one that ran off with paris by lover. This set off the trojan war. Helen fled to Troy with her lover paris, and her husband got pissed about that.
     * She was faded to leave troy --> was by the gods, not her fault
@@ -133,3 +142,26 @@ Essay Questions
     * must have a boundary and that boundary myst be a sphere
 
 - 3 characteristics
+
+
+
+
+- Hylomorphism
+    * Ordinatry objects are composed of matter and form
+- Monist
+    * Believes either than one thing exists or that one thing exists
+    * Parmides is a monist,,, doesn't break that down into particular elements
+- Elementalists
+    * A particular element is the fundamental elementalists of existence.
+    * Fire is the fundamental ingrediaennt of all existence.
+- Atomist
+    * Matte ris not infinitly divisible. There is something that is fundamentally uncuttable.
+    * Why they think theie right, that matter is infinitly divisible
+        - if you could divide things ifinitly, you could make an infinitly small
+        - if you add thing together how could they be added to have an infinite mass
+        - have to have way to compose things
+        - infinitly small masses
+- Pluralists
+    * There are multiple things in the world
+    * Air, fire, earth, and water
+
