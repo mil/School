@@ -22,18 +22,50 @@ EC -- Selection from the
 ID Questions
 ============
 - Name a philosophically relevant feature common to the poets.
+    * Both poets and philosophers peform in verse
+    * In Verse there is a dramatic narrative with rhythmic meter
+    * Verse is both a source of wisdom and entertainment.
 - Be able to distinguish between early, middle, and late Platonic dialogues on conceptual grounds.
 - You will be supplied a fragnment (**unattributed**) and need to explain what it means
 - Briefly describe the four stages of the Socratic *elanchus*
 - Name three charteristics of the philosopher according to Plato.
 - Briefly describe the different between dialetics and eristics.
+    * Dialectics argued for the sake that 
+    * Eristics argued simply for the sake of argument. 
 - Why is the question "what exists" ambigous in Greek?
+    * 
 - Why does Parmedies argue that Being is spherical?
+    * Being is complete and wants to think what a complete shape would be -- a sphere
+    * He doesn't think that being is unlimited, being has a shape, 
+    * Because he had previous argued that being is complete.
+    * You can add nothing to being and being must have a boundary
+    * Must have a boundary and that boundary myst be a sphere.
 - Define what a monist is and give an example.
+    * Monists belive that the universe is composed of only one substance.
+        - Believes either than one thing exists or that one thing exists
+    
+    * (Parmides is a monist,,, doesn't break that down into particular elements)
 - Define what an elementalist is and give an example.
+    * Elementalists are a type of monist that belive that a particular element is the fundamental element of all existence.
+    * A particular element is the fundamental elementalists of existence.
+    * Fire is the fundamental ingrediaennt of all existence.
 - Why do atomists believe that matter is not infintely divisible?
+    * Atomists are one example of monists that believe that the world is composed of atoms.
+    * Matter is not infinitly divisible. There is something that is fundamentally uncuttable.
+    * They believe that matter is not infinitly divisible because:
+        - If you could divide things ifinitly, you could make an infinitly small
+        - If you add thing together how could they be added to have an infinite mass
+        - In an infinitily divisible system there is no way to compose elements
+        - to wholes. Wholes are impossible since you may always half something.
 - Be able to idenfity Aristotle's four causes in an example.
+    * Aristotle's Four Causes: 
+        - Formal -  form or pattern (ex. house)
+        - Material - what raw materials its made out of (ex. house -- bricks)
+        - Efficient - the labor put in , the way we think about causes (ex. building the house)
+        - Final - what its made for, the telos, for (ex. living in)\
 - What is hylomorphism?
+    * Substance is defined by Aristotle as being "composed of matter and form".
+    * A substance counts a matter as to something else. Clay is matter relative to a brick.
 
 Essay Questions
 ===============
@@ -134,13 +166,6 @@ Essay Questions
     * since any of these things can be the sight of the cuase, and ther eis the persisting subject. 
     * aristotle's interpreation of the form is narrower
     * make a bed out of a tree,
-
-- Parmidees argue that being is speherical
-    * being is complete and wants to think what a complete shape would be -- a sphere
-    * he doesn't think that being is unlimited, being has a shape, ebcause he ahd previous argued that being is complete.
-    * nothing that you added to being, being is complete
-    * must have a boundary and that boundary myst be a sphere
-
 - 3 characteristics
 
 
@@ -148,19 +173,6 @@ Essay Questions
 
 - Hylomorphism
     * Ordinatry objects are composed of matter and form
-- Monist
-    * Believes either than one thing exists or that one thing exists
-    * Parmides is a monist,,, doesn't break that down into particular elements
-- Elementalists
-    * A particular element is the fundamental elementalists of existence.
-    * Fire is the fundamental ingrediaennt of all existence.
-- Atomist
-    * Matte ris not infinitly divisible. There is something that is fundamentally uncuttable.
-    * Why they think theie right, that matter is infinitly divisible
-        - if you could divide things ifinitly, you could make an infinitly small
-        - if you add thing together how could they be added to have an infinite mass
-        - have to have way to compose things
-        - infinitly small masses
 - Pluralists
     * There are multiple things in the world
     * Air, fire, earth, and water
