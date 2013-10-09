@@ -11,16 +11,8 @@ Exam Format
     * Apply Aristotles Theory of Causes ot the Timeous
       - What causes are at stake in passage
     * Short Answer/Essay Questions
-
-
-- Philosophical Relvant feature common to poets
-- Distinguish Early, Middle, and Late Platonic Dialoges on Conceptual Grounds
-- Four Stages of 
-EC -- Selection from the 
-
-
 ID Questions
-============
+------------
 - Name a philosophically relevant feature common to the poets.
     * Both poets and philosophers peform in verse
     * In Verse there is a dramatic narrative with rhythmic meter
@@ -103,53 +95,6 @@ Essay Questions
         - Exactly precise measurements are unattainable.
         - Thus it would seem there can be no fully descriptive propositions.
 - Explain the Part-Whole objection to Plato's Theory of Forms; use examples to illustrate. Do you think this objection seriously undermines Plato's theoy? Why or why not?
-- Explain how the "third-man" arugment is an objection to Plato's Theory of the Forms. Why does Socrates use of though or thinking not suffice as an answer to this objection in *Parmenides 132b-c*? Do you think this objection seriously undermine Plato's theory? Why or why not?
-    * Plato's Theory of the Forms.
-    * The Third Man Argument
-        - An objection to Plato's Theory of the Forms
-        - If you have three large things and all have the form of largeness, then the form of largness is also large,
-        - New Set of large things
-        - Follow an infinite regresses
-        - People in this classroom are the form of students, then lump that form of students in with all particular sutents, then you have a new set, some word apply to that set that makes them all common.. put all together as instances of students --> new form
-        - "Uniqueness cannot be sustained if commanality is true"
-
-- Explain the challenge of relation predicates to Plato's Theory of the Forms. You may *not* appeal to the example of master and slave discussed in lecture; generate your own example(s) to illustrate the problem clearly. Do you think this is a devestating objection? Why or why not?
-- Explain one of Aristotle's objections to Plato's Theory of the Forms. Then explain how Plato could respond to it in a way that is consitent with the Classical Doctrine of the Forms. Use examples wisely.
-    *  Aristotle argues that there's an underlying object and two contraries
-        - One of the contraries is the privation and one is the form. 
-        - Musical is the form and privation is not music. 
-        - Thus, Aristotle can explain contituity and change in time. 
-        - What the same against two states of affairs. 
-        - Ideal that your a new person in each instance. 
-    * Ex. one day a man is unmusical and then he learns to be musical. 
-        - There is this underlying susbtance the man, the man of socrates, 
-            * And there is the form that gets applied to that substance (musical) form,,, 
-        - What happens is that the form wasn't there before 
-        - And it gets added and similarily the privatioon of (lack of form -- musical) goes away.
-    * Aristotle arguews:
-        - Is the old form lost and the new form gained.
-        - Accordign to Plato's Theory of the forms the forms are unique and non comparable against one another
-        - As such it would seem that 
-- How is change possible according to Aristotle? Use an example to illustrate.
-    * Aristotle's Four Causes: 
-        - Formal -  form or pattern (ex. house)
-        - Material - what raw materials its made out of (ex. house -- bricks)
-        - Efficient - the labor put in , the way we think about causes (ex. building the house)
-        - Final - what its made for, the telos, for (ex. living in)\
-    * Aristotle said 
-        * in order to explain that, change can happen from any of the foru causes.
-    * since any of these things can be the sight of the cuase, and ther eis the persisting subject. 
-    * aristotle's interpreation of the form is narrower
-    * make a bed out of a tree,
-
-
-
-
-
-
-- 1. How does Georgias defened Helen of Troy?
-- 4. Explain one of Zeno's Paradoxes
-- 5. Explain the Part-Whole Objection 
     * The Six Principles
         - P1. Commanality 
             * What it is to have a red thing is to have that thing resemble, share, 
@@ -176,7 +121,17 @@ Essay Questions
             * Socrates says that it is a part of the form. If sail falls down. 
             * When I share in the form of being human am I sharing a part of the form of being human or in the whole form of being human. 
             * If a part --- give the principle of sublimity. If a whole -- gotta give up the principle of seperation
-- 7. Explain challenge of relational predicates to Plato's Theory of the forms. You may not appeal to the examples of master and slave discussed in lecture;  generate your own examples to illustate the problem clearly., Do you think this is a devasting objection? Why or why not?
+- Explain how the "third-man" arugment is an objection to Plato's Theory of the Forms. Why does Socrates use of though or thinking not suffice as an answer to this objection in *Parmenides 132b-c*? Do you think this objection seriously undermine Plato's theory? Why or why not?
+    * Plato's Theory of the Forms.
+    * The Third Man Argument
+        - An objection to Plato's Theory of the Forms
+        - If you have three large things and all have the form of largeness, then the form of largness is also large,
+        - New Set of large things
+        - Follow an infinite regresses
+        - People in this classroom are the form of students, then lump that form of students in with all particular sutents, then you have a new set, some word apply to that set that makes them all common.. put all together as instances of students --> new form
+        - "Uniqueness cannot be sustained if commanality is true"
+
+- Explain the challenge of relation predicates to Plato's Theory of the Forms. You may *not* appeal to the example of master and slave discussed in lecture; generate your own example(s) to illustrate the problem clearly. Do you think this is a devestating objection? Why or why not?
     * Cannot concieve of a master indepent of a slave.
     * Father Son Mother Child
     * Horse/Horseman, relational predicates can't  define one without defining the other
@@ -189,30 +144,37 @@ Essay Questions
     * Want answer to be phrased in respect to self and then in respect to others
     * Relationship between forms, relations between particlars, 
         - but pricniple of commanilty does not tell you how to relate forms between different particulars
-- 8. Aristotle Objections to Plato's Theory of the Forms.
-    * Arguments 6-10 against Plato's Forms 
-    * 8. Forms are useless, because they fulfill their causal role neither form an ontological nor from an epistemological point of view.
-        - Can't assume that Artistotle get the higher este alos distinctoin
-        - Works under the 6 principles.
-        - Ontolotical - How thing is this world are
-        - Epistmeological - How we actually come to know
-        - He thinks this because of the pricniple of seperation.. how may they be distinct.
-        - Even if we accepted the ontological story -- then it still doesn't explain how we humans come to know this relation between the forms.
-    * 9. Seperation of Forms is incompatible with their role as essences and as causes of genreation and being.
+
+- Explain one of Aristotle's objections to Plato's Theory of the Forms. Then explain how Plato could respond to it in a way that is consitent with the Classical Doctrine of the Forms. Use examples wisely.
+    *  Aristotle argues that there's an underlying object and two contraries
+        - One of the contraries is the privation and one is the form. 
+        - Musical is the form and privation is not music. 
+        - Thus, Aristotle can explain contituity and change in time. 
+        - What the same against two states of affairs. 
+        - Ideal that your a new person in each instance. 
+    * Ex. one day a man is unmusical and then he learns to be musical. 
+        - There is this underlying susbtance the man, the man of socrates, 
+            * And there is the form that gets applied to that substance (musical) form,,, 
+        - What happens is that the form wasn't there before 
+        - And it gets added and similarily the privatioon of (lack of form -- musical) goes away.
+    * Aristotle arguews:
+        - Is the old form lost and the new form gained.
+        - Accordign to Plato's Theory of the forms the forms are unique and non comparable against one another
+        - As such it would seem that 
+    * Plato would Respond:
+        - Seperation of Forms is incompatible with their role as essences and as causes of genreation and being.
         - no actual interaction between realm of the form and the realm of the particulars
         - imitating, patterns/ recipies, aristotle accepts think that forms as patterns
         - leaves unexplained the relation of the particular to their patterns.
-        - who does the cutting of the fabric, who makes the cookie cutters?
-- 9. How is change possible according to Artistotle?
-
-    - 3 characteristics
-
-
-
-
-- Hylomorphism
-    * Ordinatry objects are composed of matter and form
-- Pluralists
-    * There are multiple things in the world
-    * Air, fire, earth, and water
-
+        - who does the cutting of the fabric, who makes the cookie cutters?=
+- How is change possible according to Aristotle? Use an example to illustrate.
+    * Aristotle's Four Causes: 
+        - Formal -  form or pattern (ex. house)
+        - Material - what raw materials its made out of (ex. house -- bricks)
+        - Efficient - the labor put in , the way we think about causes (ex. building the house)
+        - Final - what its made for, the telos, for (ex. living in)\
+    * Aristotle said 
+        * in order to explain that, change can happen from any of the foru causes.
+    * since any of these things can be the sight of the cuase, and ther eis the persisting subject. 
+    * aristotle's interpreation of the form is narrower
+    * make a bed out of a tree, 
